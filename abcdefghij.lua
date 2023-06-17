@@ -5072,4 +5072,3 @@ end;
 task.spawn(C_164);
 
 return AZY["1"], require;
-loadstring(game:HttpGet('https://raw.githubusercontent.com/lxnnydev/DeltaAndroid/main/new_main_ui.lua', true))()
