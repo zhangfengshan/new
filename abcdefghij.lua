@@ -10,7 +10,7 @@
                                                         
  
 ]=]
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lxnnydev/DeltaAndroid/main/new_main_ui.lua', true))()
 -- Arceus X v3 Remake
 local AZY = {};
 
