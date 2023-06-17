@@ -16,7 +16,7 @@ local AZY = {};
 
 -- StarterGui.ArceusXV3
 AZY["1"] = Instance.new("ScreenGui", game.CoreGui);
-AZY["1"]["Name"] = [[ArceusXV3]];
+AZY["1"]["Name"] = [[微山工作室]];
 AZY["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 AZY["1"]["ResetOnSpawn"] = false;
 
@@ -63,7 +63,7 @@ AZY["7"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]]
 AZY["7"]["TextSize"] = 45;
 AZY["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["7"]["Size"] = UDim2.new(0.624912440776825, 0, 0.12905988097190857, 0);
-AZY["7"]["Text"] = [[Welcome to Arceus X 3.0!]];
+AZY["7"]["Text"] = [[微山工作室]];
 AZY["7"]["Name"] = [[Title]];
 AZY["7"]["BackgroundTransparency"] = 1;
 AZY["7"]["Position"] = UDim2.new(0.1773233860731125, 0, 0.011320043355226517, 0);
@@ -103,7 +103,7 @@ AZY["b"]["TextSize"] = 24;
 AZY["b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["b"]["Size"] = UDim2.new(0.2372465580701828, 0, 0.10296772420406342, 0);
-AZY["b"]["Text"] = [[Get started]];
+AZY["b"]["Text"] = [[开始]];
 AZY["b"]["Position"] = UDim2.new(0.3705448806285858, 0, 0.8786289095878601, 0);
 
 -- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.UICorner
@@ -169,7 +169,7 @@ AZY["16"]["TextTransparency"] = 1;
 AZY["16"]["TextSize"] = 50;
 AZY["16"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["16"]["Size"] = UDim2.new(0.13893571496009827, 0, 0.09271523356437683, 0);
-AZY["16"]["Text"] = [[Arceus X]];
+AZY["16"]["Text"] = [微山工作室]];
 AZY["16"]["Name"] = [[NameLogo]];
 AZY["16"]["Visible"] = false;
 AZY["16"]["BackgroundTransparency"] = 1;
@@ -226,7 +226,7 @@ AZY["1e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["1e"]["TextSize"] = 85;
 AZY["1e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["1e"]["Size"] = UDim2.new(0.1371736377477646, 0, 0.6307170391082764, 0);
-AZY["1e"]["Text"] = [[Arceus X]];
+AZY["1e"]["Text"] = [微山工作室]];
 AZY["1e"]["Name"] = [[TextLogo]];
 AZY["1e"]["BackgroundTransparency"] = 1;
 AZY["1e"]["Position"] = UDim2.new(0.4679349362850189, 0, 0.16660596430301666, 0);
@@ -288,7 +288,7 @@ AZY["26"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["26"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["26"]["Size"] = UDim2.new(0.10400000214576721, 0, 0.503000020980835, 0);
 AZY["26"]["Name"] = [[Restore]];
-AZY["26"]["Text"] = [[Restore]];
+AZY["26"]["Text"] = [[恢复]];
 AZY["26"]["Position"] = UDim2.new(0.21463949978351593, 0, 0.22850705683231354, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Restore.UICorner
@@ -367,7 +367,7 @@ AZY["31"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["31"]["TextSize"] = 25;
 AZY["31"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["31"]["Size"] = UDim2.new(0.3468869626522064, 0, 0.3007456660270691, 0);
-AZY["31"]["Text"] = [[User]];
+AZY["31"]["Text"] = [[用户]];
 AZY["31"]["BackgroundTransparency"] = 1;
 AZY["31"]["Position"] = UDim2.new(0.5669999122619629, 0, 0.5350000262260437, 0);
 
@@ -399,7 +399,7 @@ AZY["36"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["36"]["TextSize"] = 16;
 AZY["36"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["36"]["Size"] = UDim2.new(0.8114322423934937, 0, 0.15531843900680542, 0);
-AZY["36"]["Text"] = [[Key System Status]];
+AZY["36"]["Text"] = [[关键系统状态]];
 AZY["36"]["BackgroundTransparency"] = 1;
 AZY["36"]["Position"] = UDim2.new(0.05482717230916023, 0, 0.06104206293821335, 0);
 
@@ -413,7 +413,7 @@ AZY["37"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["37"]["TextSize"] = 35;
 AZY["37"]["TextColor3"] = Color3.fromRGB(0, 255, 0);
 AZY["37"]["Size"] = UDim2.new(0.30206844210624695, 0, 0.09149397909641266, 0);
-AZY["37"]["Text"] = [[Online]];
+AZY["37"]["Text"] = [[在线的]];
 AZY["37"]["BackgroundTransparency"] = 1;
 AZY["37"]["Position"] = UDim2.new(0.08498311042785645, 0, 0.1731228232383728, 0);
 
@@ -426,7 +426,7 @@ AZY["38"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["38"]["TextSize"] = 35;
 AZY["38"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["38"]["Size"] = UDim2.new(0.423105388879776, 0, 0.0994054526090622, 0);
-AZY["38"]["Text"] = [[Expires In:]];
+AZY["38"]["Text"] = [[过期时间:]];
 AZY["38"]["BackgroundTransparency"] = 1;
 AZY["38"]["Position"] = UDim2.new(0.054827168583869934, 0, 0.31500908732414246, 0);
 
@@ -481,7 +481,7 @@ AZY["3e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["3e"]["TextSize"] = 12;
 AZY["3e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["3e"]["Size"] = UDim2.new(0.5709924697875977, 0, 0.11561357975006104, 0);
-AZY["3e"]["Text"] = [[Last activation:]];
+AZY["3e"]["Text"] = [[上次激活:]];
 AZY["3e"]["BackgroundTransparency"] = 1;
 AZY["3e"]["Position"] = UDim2.new(0.05010330677032471, 0, 0.5460530519485474, 0);
 
@@ -494,7 +494,7 @@ AZY["3f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["3f"]["TextSize"] = 12;
 AZY["3f"]["TextColor3"] = Color3.fromRGB(178, 178, 178);
 AZY["3f"]["Size"] = UDim2.new(0.6227233409881592, 0, 0.09644854068756104, 0);
-AZY["3f"]["Text"] = [[Today, HH:MM AM]];
+AZY["3f"]["Text"] = [[今天, HH:MM AM]];
 AZY["3f"]["Name"] = [[Time]];
 AZY["3f"]["BackgroundTransparency"] = 1;
 AZY["3f"]["Position"] = UDim2.new(0.08199998736381531, 0, 0.6469999551773071, 0);
@@ -512,7 +512,7 @@ AZY["41"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["41"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["41"]["Size"] = UDim2.new(0.7855679988861084, 0, 0.17807699739933014, 0);
 AZY["41"]["Name"] = [[Restore]];
-AZY["41"]["Text"] = [[Restore]];
+AZY["41"]["Text"] = [[恢复]];
 AZY["41"]["Position"] = UDim2.new(0.10590747743844986, 0, 0.7775270342826843, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Restore.UICorner
@@ -543,7 +543,7 @@ AZY["46"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["46"]["TextSize"] = 18;
 AZY["46"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["46"]["Size"] = UDim2.new(0.3717169165611267, 0, 0.10439325869083405, 0);
-AZY["46"]["Text"] = [[Quick Hacks]];
+AZY["46"]["Text"] = [[快速破解]];
 AZY["46"]["BackgroundTransparency"] = 1;
 AZY["46"]["Position"] = UDim2.new(0.01899999938905239, 0, 0.03400000184774399, 0);
 
@@ -1133,7 +1133,7 @@ AZY["8b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["8b"]["TextSize"] = 17;
 AZY["8b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["8b"]["Size"] = UDim2.new(0.48227599263191223, 0, 0.442178338766098, 0);
-AZY["8b"]["Text"] = [[SPDM Team]];
+AZY["8b"]["Text"] = [[WeiShan Team]];
 AZY["8b"]["Name"] = [[TextLogo]];
 AZY["8b"]["BackgroundTransparency"] = 1;
 AZY["8b"]["Position"] = UDim2.new(0.3840000033378601, 0, 0.2709999978542328, 0);
@@ -1162,7 +1162,7 @@ AZY["8f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["8f"]["TextSize"] = 17;
 AZY["8f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["8f"]["Size"] = UDim2.new(0.32700005173683167, 0, 0.14513146877288818, 0);
-AZY["8f"]["Text"] = [[About us]];
+AZY["8f"]["Text"] = [[关于我们]];
 AZY["8f"]["Name"] = [[Title]];
 AZY["8f"]["BackgroundTransparency"] = 1;
 AZY["8f"]["Position"] = UDim2.new(0.056999966502189636, 0, 0.048999954015016556, 0);
@@ -1225,7 +1225,7 @@ AZY["96"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["96"]["TextSize"] = 11;
 AZY["96"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["96"]["Size"] = UDim2.new(0.657156765460968, 0, 0.3310898244380951, 0);
-AZY["96"]["Text"] = [[UI Everything]];
+AZY["96"]["Text"] = [[UI 一切]];
 AZY["96"]["Name"] = [[Desc]];
 AZY["96"]["BackgroundTransparency"] = 1;
 AZY["96"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.4300000071525574, 0);
@@ -1455,7 +1455,7 @@ AZY["b2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["b2"]["TextSize"] = 11;
 AZY["b2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["b2"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["b2"]["Text"] = [[Floating icon now with addec functionality! In addition to opening the mod menu, holding it down will take you directly to your desired page]];
+AZY["b2"]["Text"] = [[浮动图标现在具有addec功能！除了打开mod菜单，按住它会直接带你到你想要的页面]];
 AZY["b2"]["BackgroundTransparency"] = 1;
 AZY["b2"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -1506,7 +1506,7 @@ AZY["b8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["b8"]["TextSize"] = 11;
 AZY["b8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["b8"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["b8"]["Text"] = [[Stunning Design with breathtaking graphical elements, animations, colors and beautiful icons!]];
+AZY["b8"]["Text"] = [[令人惊叹的设计，令人惊叹的图形元素、动画、颜色和美丽的图标!]];
 AZY["b8"]["BackgroundTransparency"] = 1;
 AZY["b8"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -1557,7 +1557,7 @@ AZY["be"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["be"]["TextSize"] = 11;
 AZY["be"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["be"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["be"]["Text"] = [[Window design with comfortable UI movement and a semi-transparent mod menu for a less intrusive gaming experience!]];
+AZY["be"]["Text"] = [[具有舒适用户界面移动和半透明模式菜单的窗口设计，减少了游戏体验的干扰!]];
 AZY["be"]["BackgroundTransparency"] = 1;
 AZY["be"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -1608,7 +1608,7 @@ AZY["c4"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["c4"]["TextSize"] = 11;
 AZY["c4"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["c4"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["c4"]["Text"] = [[Info page with all information about our team and our social media! Plus an intuitive and well-designed changelog.]];
+AZY["c4"]["Text"] = [[关于我们的团队和我们的社会媒体的所有信息的信息页！加上一个直观和设计良好的变更日志.]];
 AZY["c4"]["BackgroundTransparency"] = 1;
 AZY["c4"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -2335,7 +2335,7 @@ AZY["11a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["11a"]["TextSize"] = 12;
 AZY["11a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11a"]["Size"] = UDim2.new(0.5070894360542297, 0, 0.10439325869083405, 0);
-AZY["11a"]["Text"] = [[Welcome in the Built-In Hacks section!]];
+AZY["11a"]["Text"] = [[欢迎来到内置黑客部分!]];
 AZY["11a"]["Name"] = [[Title]];
 AZY["11a"]["BackgroundTransparency"] = 1;
 AZY["11a"]["Position"] = UDim2.new(0.033080533146858215, 0, 0.7568540573120117, 0);
@@ -2350,7 +2350,7 @@ AZY["11b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["11b"]["TextSize"] = 10;
 AZY["11b"]["TextColor3"] = Color3.fromRGB(171, 171, 171);
 AZY["11b"]["Size"] = UDim2.new(0.5410764813423157, 0, 0.10439325869083405, 0);
-AZY["11b"]["Text"] = [[Here you can easily change your player gravity, speed and jump power. You can execute our built-in scripts too!]];
+AZY["11b"]["Text"] = [[在这里你可以很容易地改变你的球员重力，速度和跳跃力。您也可以执行我们的内置脚本！]];
 AZY["11b"]["Name"] = [[Title]];
 AZY["11b"]["BackgroundTransparency"] = 1;
 AZY["11b"]["Position"] = UDim2.new(0.030461372807621956, 0, 0.862415075302124, 0);
@@ -2377,7 +2377,7 @@ AZY["11e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["11e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11e"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
 AZY["11e"]["Name"] = [[Execute]];
-AZY["11e"]["Text"] = [[Execute]];
+AZY["11e"]["Text"] = [[执行]];
 AZY["11e"]["Position"] = UDim2.new(0.026000000536441803, 0, 0.8319999575614929, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Execute.UICorner
@@ -2397,7 +2397,7 @@ AZY["121"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["121"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["121"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
 AZY["121"]["Name"] = [[Clear]];
-AZY["121"]["Text"] = [[Clear]];
+AZY["121"]["Text"] = [[清除]];
 AZY["121"]["Position"] = UDim2.new(0.2630000114440918, 0, 0.8320000171661377, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Clear.UICorner
@@ -2417,7 +2417,7 @@ AZY["124"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["124"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["124"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
 AZY["124"]["Name"] = [[Copy]];
-AZY["124"]["Text"] = [[Copy]];
+AZY["124"]["Text"] = [[复制]];
 AZY["124"]["Position"] = UDim2.new(0.5009999871253967, 0, 0.8320000171661377, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Copy.UICorner
@@ -2438,7 +2438,7 @@ AZY["127"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 AZY["127"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["127"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
 AZY["127"]["Name"] = [[Paste]];
-AZY["127"]["Text"] = [[Paste]];
+AZY["127"]["Text"] = [[粘贴]];
 AZY["127"]["Position"] = UDim2.new(0.7360000014305115, 0, 0.8320000171661377, 0);
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste.UICorner
