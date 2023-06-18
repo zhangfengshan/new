@@ -1,6 +1,6 @@
 local function callback(Text)
         if Text == "确定" then
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/lxnnydev/DeltaAndroid/main/new_main_ui.lua', true))()
+            loadstring(game:HttpGet('https://pastebin.com/raw/ZBKY6xDJ', true))()
         elseif Text == "取消" then
 
         end
