@@ -1,6 +1,6 @@
 function callback(Text) 
          if Text == "确定" then 
-             loadstring(game:HttpGet('https://pastebin.com/raw/ZBKY6xDJ', true))() 
+             loadstring(game:HttpGet('https://raw.githubusercontent.com/zhangfengshan/zhangfengshan/8de8a46ee6d455881acd83accd6faab2bfe21a4a/l%20loxe%20you', true))() 
          elseif Text == "取消" then 
          end 
      end 
