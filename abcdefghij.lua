@@ -1,1 +1,5074 @@
-do local a=[[77fuscator 0.4.9 - discord.gg/CEHsVcBcuf]];return(function(b,c,d,e,f,g,h)local i=259;local j=1316;local k=713;local l=5;local m=518;local n=31;local o=688;local p=23401;local q=326;local r=1938;local s=692;local t=20523;local u=467;local v=311;local w=350;local x=116;local y=13897;local z=969;local ba=207;local bb=5767;local bc=1798;local bd=5799;local be=359;local bf=10117;local bg=610;local bh=1220;local bi=866;local bj=256;local bk=869;local bl=4;local bm=433;local bn=2;local bo=3;local bp=9;local bq=6;local br=36;local bs=7;local bt=8;local bu=1;local bv,bw,bx,by,bz=string.sub,table.concat,string.char,tonumber,next;local ca=0;local cb;cb=function(cc)local cd,ce,cf,cg,ch,ci,cj,ck,ck;local ck=11;local cl=ca while true do cl=(cl+bu)if(cl>bq or cl==bq)then if(cl<bt or cl==bt)then if(cl>bs or cl==bs)then if not(cl~=bt)then cf[bu]=cd;else cd=bx(cj());end else cj=function()local bq=by(bv(cc,ci,ci),br);ci=ci+bu;local br=by(bv(cc,ci,((ci+bq)-bu)),br);ci=(ci+bq);return br;end end else if(cl==bp or cl<bp)then while(ci<#cc)and not(#a~=d)do local a;local d=ca while true do d=(d+bu)if(d<bn or d==bn)then if not(d~=bn)then if ch[a]then local bp=ca while true do bp=(bp+bu)if not(bp~=bn)then break else ce=ch[a];end end else local bp=ca while true do bp=(bp+bu)if not(bp~=bn)then break else ce=(cd..bv(cd,bu,bu));end end end;else a=cj()end else if(d<bo or d==bo)then ch[cg]=(cd..bv(ce,bu,bu));else if d>bl then break else cf[#cf+bu],cd,cg=ce,ce,cg+bu;end end end end end;else if not(cl~=ck)then break else return bw(cf);end end end else if(cl==bo or cl>bo)then if(cl<bo or cl==bo)then ch={}else if(cl>bl)then ci=bu else for a=ca,(cg-bu)do local d=ca while true do d=d+bu if d>bu then break else ch[a]=bx(a);end end end;end end else if not(cl~=bn)then cg=bj else cd,ce,cf=h,h,{}end end end end end local a=cb(b);local b,d,bj,bp,bq,bq,br,bv,bw,bx,by,bz,cb,cc,cd,cd,ce,cf,cf,cg,ch,ch,ci,ci,ci,cj,cj,cj=string.byte,string.char,string.sub,table.concat,(math.ldexp or(function(b,d)return(b*((bn^d)));end)),(getfenv or function()return _ENV end),setmetatable,select,next,math.floor,string.format,unpack,tonumber,table.insert,string.gmatch,tostring,type,_VERSION,pcall,string.match,string.find,(debug.getinfo or debug.info),string.len,rawset,string.gsub,math.random,(function(b,d)for bj,bp in bz,b do if not(bj~=d)then return bj;end;end;return nil;end),rawget;c={ch,cf,d,br,bp,cd,cg,cb,bq,by,bw,bj,};local c=ce;local i,j=bu,((-bc+(function()local bc=bi;local bi=bm;local bk=bk;local bb=bb;local x=x;local ba=ba;local bd=bd;local y=y;local bg=bg;local bh=bh;local bf=bf;local v=v;local be=be;local z=z;local u=u;local j=j;local r=r;local k=k;local s=s;local w=w;local t=t;local i=i;local bm=bn;local m=m;local p=p;local o=o;local q=q;local bw=bu;local by=ca;local cb,cd=by,bw;local i=(function(ce,cf,cg,ch)cg(cg(ch,(ce and ch),ch,ce),cf((ch and ch),cf,ch,cg),cf(ch,ch and ce,(ch and cg),cg),cg(ce,ch,cg,cf))end)(function(ce,cf,cg,ch)if((cb>q))then local q=by while true do q=q+bw if not(not(q==bm))then break else return ch end end end cb=(cb+bw)cd=(((cd-o))%p)if(((((cd%m)))<i))then local i=by while true do i=(i+bw)if(i>bm or not(i~=bm))then if((i>bm))then break else return ce end else cd=(((cd-s)%t))end end else local i=by while true do i=i+bw if(i>bw)then break else return cf(ce(cg,cf,cg,ch and ch),cf(ce,ch,ch,ce),ch(cg,cf,cf,cf),cg((cf and ch),ch,(cf and cg),(ch and ch)))end end end return cg(cg(ce,cg,ce,cg),cf(ch,cg,ch,(cf and ce)),ce(cf,ce,cf,cg),ch(cg,cg,ce,cf))end,function(i,m,o,p)if cb>w then local q=by while true do q=(q+bw)if(q<bm)then return m else break end end end cb=(cb+bw)cd=((((cd*k)))%j)if((((cd%r))>z))then local j=by while true do j=(j+bw)if(not(j~=bw)or(j<bw))then cd=((((cd*u))%bf))else if j>bm then break else return m end end end else local j=by while true do j=j+bw if not(not(j==bw))then return o(p((p and p),p,m,p),p(m,p,o,p),((o(((o and m)),i,i,(m and m))and i(p,o,i,o))),i(o,i,p,m))else break end end end return i(m(m,m,i,o),i(p,o,p and p,m),o(m,p,o,p),p(o,m,((p and o)),p))end,function(i,j,k,m)if cb>be then local o=by while true do o=((o+bw))if(o>bw)then break else return i end end end cb=cb+bw cd=((cd+v))%y if(((((cd%bh)))>bg or not((((cd%bh)))~=bg)))then local o=by while true do o=(o+bw)if(not(o~=bm)or o>bm)then if not(not(o==bm))then return k(m(k,i,j,m),i(i,k,j,k),j(m,(m and m),k,m)and i(j,k,m,k),k(i and i,k,m,((i and i))))else break end else cd=((cd*ba)%bd)end end else local i=by while true do i=(i+bw)if not(not(i==bw))then return m else break end end end return m end,function(i,j,k,m)if(cb>x)then local o=by while true do o=((o+bw))if(o>bw)then break else return j end end end cb=((cb+bw))cd=((((cd-bk))%bb))if(not((((cd%bc)))~=bi)or(((cd%bc)))<bi)then local o=by while true do o=(o+bw)if not(not(o==bw))then return k(k(m,i and k,k,j),i(m,m,(m and m),m),m(j,m,k,j),m(i,i,m,((i and i))))else break end end else local i=by while true do i=i+bw if((i>bw))then break else return j end end end return k end)return cd;end)()));local k;k=function(m,o)local p,q,q,q;local q=ca while true do q=q+bu if(q>bo or q==bo)then if not(q~=bo)then return p else break end else if not(q~=bu)then p=ca else for q=ca,n do local n,r;local s=ca while true do s=s+bu if(s<bo or s==bo)then if(s==bn or s>bn)then if not(s~=bn)then r=(o%bn)else if not(n~=ca)then local t=ca while true do t=t+bu if not(t~=bu)then if not(r~=bu)then local t=ca while true do t=t+bu if(t==bu or t<bu)then o=o-bu else if not(t~=bo)then break else p=p+bn^q end end end end else break end end else local t=ca while true do t=(t+bu)if(t>bn or t==bn)then if(t<bo)then if not(r~=ca)then local r=ca while true do r=(r+bu)if(r>bu)then break else p=(p+(bn^q))end end else local p=ca while true do p=(p+bu)if not(p~=bn)then break else o=o-bu end end end else break end else m=(m-bu)end end end end else n=(m%bn)end else if(s==bl or s<bl)then o=o/bn else if(s>l)then break else m=(m/bn)end end end end end end end end end local m;m=function(n,o)local p=ca while true do p=p+bu if not(p~=bu)then return((n*(bn^o)));else break end end end local n=114;local o=15;local p=547;local q=878;local r=846;local r=459;local r=823;local r;r=function()local s,t;local u=ca while true do u=(u+bu)if(u==bn or u<bn)then if not(u~=bu)then s,t=b(a,i,i+bn)else s,t=k(s,j),k(t,j);end else if(u<bo or u==bo)then i=i+bn;else if not(u~=bl)then return(m(t,bt))+s;else break end end end end end local j;j=function(s,t)local u=0 while true do u=(u+bu)if not(u~=bn)then break else return bx(s/2^t);end end end local j=(2^32)-1;local s;s=function(t,u)local v=0 while true do v=v+bu if not(v~=bn)then break else return(((t+u))-k(t,u))/bn end end end local t=r();local u;u=function(v,w)local x=0 while true do x=(x+bu)if not(x~=1)then return j-s((j-v),j-w)else break end end end local j;j=function(s,u,v)local w;local w=0 while true do w=w+bu if(w>bu)then break else if v then local w;local x=ca while true do x=(x+bu)if(x==bn or x>bn)then if(x<bo)then return w-(w%bu)else break end else w=((s/(bn^((u-bu)))))%(bn^(((((v-bu))-((u-bu)))+bu)))end end else local v;local w=ca while true do w=(w+bu)if(w>bn or w==bn)then if(w>bn)then break else return(((s%(v+v))==v or(s%(v+v))>v))and bu or 0 end else v=(bn^(u-bu))end end end end end end local r=r();local r;r=function()local s,u,v,w;local x=0 while true do x=(x+1)if(x>3 or x==3)then if(x==3 or x<3)then i=i+4;else if not(x~=4)then return(((m(w,24)+m(v,16)+m(u,8)))+s);else break end end else if not(x~=bn)then s,u,v,w=k(s,t),k(u,t),k(v,t),k(w,t);else s,u,v,w=b(a,i,i+3)end end end end local s;s=function()local u;local v=0 while true do v=(v+1)if(v>bo or v==bo)then if(v<4)then return u;else break end else if not(v~=1)then u=k(b(a,i,i),t)else i=(i+1);end end end end local u,v,w;u=((-20276+(function()local x=1306;local y=653;local z=528;local ba=1597;local bb=41;local bc=108;local bd=264;local be=319;local bf=29823;local bg=459;local bh=1660;local bi=830;local bk=777;local bm=27857;local bw=1452;local bx=163;local by=726;local cb=18201;local cd=2;local ce=78;local cf=187;local cg=1;local ch=0;local cj,ck=ch,cg;local x=(function(cl,cm,cn,co)cm(co(cn,cm,cm,cn),co(cl,co,cn,cl),cl(cm,cm,cm,cm),cl(co,cm,cm,cl)and cn(cl,(cm and cl),cl,cm))end)(function(cl,cm,cn,co)if(cj>cf)then local cf=ch while true do cf=((cf+cg))if((cf<cd))then return cl else break end end end cj=cj+cg ck=(((ck-ce))%cb)if(((ck%bw)>by)or not(((ck%bw))~=by))then local bw=ch while true do bw=bw+cg if(bw<cd)then return cm else break end end else local bw=ch while true do bw=((bw+cg))if(bw<cd)then return cm(co(cm and cm,co,cm,cm),cl(cm,co,cn,(co and cl)),cm(cn,cn,cl,cn),cl(cm,cm,cl,cn))else break end end end return cn(cl(cn,cm,cn,co),cm((cn and co),cl,co,cm and cm),((cn(cn,cn,co,cl)and cn(cm,cn,cn,cm))),cn(cl,(cm and co),(cm and cl),co))end,function(bw,by,cb,ce)if(cj>bx)then local bx=ch while true do bx=bx+cg if not(not(bx==cd))then break else return ce end end end cj=((cj+cg))ck=((ck*bk)%bm)if(((ck%bh)<bi or not(((ck%bh))~=bi)))then local bh=ch while true do bh=(bh+cg)if not(not(bh==cg))then return bw else break end end else local bh=ch while true do bh=((bh+cg))if((bh>cg))then break else return by(ce(by,cb,ce,bw and by),ce(bw,by,cb,bw),by(bw,by,ce,cb and cb),ce(by,by,by,ce))end end end return bw(cb(ce,by,cb,(by and bw)),bw(cb,ce and ce,by,ce),bw(ce,by,by,bw),bw(cb,by,cb,((ce and ce))))end,function(bh,bi,bk,bm)if((cj>bg))then local bg=ch while true do bg=((bg+cg))if not(not(bg==cd))then break else return bi end end end cj=((cj+cg))ck=((ck*be)%bf)if((ck%z)>bd)then local z=ch while true do z=(z+cg)if(z<cd)then return bi(bm(bi,bk,bk,(bk and bi)),bi(bh,bh,bk,((bi and bm))),bm(bm,bh,bi,bm),bk(bm,bk,bi,(bm and bi)))else break end end else local z=ch while true do z=(z+cg)if not(not(z==cg))then return bh else break end end end return bm end,function(z,bd,be,bf)if(cj>bc)then local bc=ch while true do bc=(bc+cg)if not(not(bc==cg))then return bd else break end end end cj=(cj+cg)ck=(((ck-bb))%ba)if(ck%x)<y then local x=ch while true do x=(x+cg)if(x>cg)then break else return be(bd(z,bf,z,bf),be(be,bf,z,((z and bd))),be(bd,z,(z and z),z),bd(be,(be and bf),z,bd))end end else local x=ch while true do x=x+cg if((x>cg))then break else return be end end end return bd end)return ck;end)()));v=(-12138+(function()local x=40219;local y=640;local z=468;local ba=320;local bb=47636;local bc=346;local bd=25737;local be=292;local bf=3;local bg=1476;local bh=81;local bi=738;local bk=36132;local bm=920;local bw=2;local bx=126;local by=387;local cb=774;local cd=18661;local ce=270;local cf=463;local cg=1;local ch=0;local cj,ck=ch,cg;local x=(function(cl,cm,cn)cn(cm(cm,cl,cm),cl(cm,cn,cl),((cn(cn,cm,cm)and cm(cm,cn,((cn and cm))))))end)(function(cl,cm,cn)if((cj>cf))then local cf=ch while true do cf=cf+cg if(cf<bw)then return cl else break end end end cj=((cj+cg))ck=(ck*ce)%cd if((ck%cb)>by)then local by=ch while true do by=by+cg if(by>cg)then break else return cl end end else local by=ch while true do by=(by+cg)if not(not(by==cg))then return cm(((cl(cm,cm,(cl and cn))and cm(cn,(cm and cn),cl))),cl(cn,cn,cm),cn(cl,cm and cn,cn))else break end end end return cn(((cn(cn,cn,cl)and cm(((cn and cl)),cn,(cn and cn)))),cl(cm,cm,cn),cm(cm,cn,cl))end,function(by,cb,cd)if cj>bx then local bx=ch while true do bx=((bx+cg))if not(not(bx==cg))then return by else break end end end cj=((cj+cg))ck=(((ck-bm)%bk))if((((ck%bg))>bi)or not((ck%bg)~=bi))then local bg=ch while true do bg=(bg+cg)if(bg<cg or not(bg~=cg))then ck=((ck-bh)%bd)else if bg<bf then return cb else break end end end else local bd=ch while true do bd=bd+cg if(bd>cg)then break else return by(by(by,cd,by),cb(cb,cd,cd),cb(cb,cd,cd))end end end return cd(by(by,by,by)and by(cd,by,by),cd(cd,cd,cb),cb(by,by,cb))end,function(bd,bf,bg)if(cj>be)then local be=ch while true do be=((be+cg))if not(not(be==cg))then return bf else break end end end cj=((cj+cg))ck=(((ck+bc))%bb)if(((ck%y)<ba))then local y=ch while true do y=((y+cg))if(((y>bw)or not(y~=bw)))then if not(not(y==bw))then return bg else break end else ck=((ck-z))%x end end else local x=ch while true do x=(x+cg)if((x>cg))then break else return bf(bd(bf,bf,bg),bf(bd,bf,bd),bd(bf,bf,bg))end end end return bg((bg(bg,bd,bd)and bg(bf,bf,bd)),bd(bg,bd,(bf and bg)),bf(bg,bf,(bf and bf)))end)return ck;end)());w=((-4561+(function()local x=106;local y=176;local z=246;local ba=123;local bb=32382;local bc=118;local bd=688;local be=5356;local bf=937;local bg=439;local bh=3;local bi=2;local bk=8038;local bm=1874;local bw=950;local bx=1;local by=132;local cb=0;local cd,ce=cb,1;local x=(function(cf,cg)cf(cg(cf,cf),cf(cf,cg))end)(function(cf,cg)if(cd>by)then local by=cb while true do by=(by+bx)if not(not(by==bx))then return cf else break end end end cd=cd+bx ce=(ce+bw)%bk if(ce%bm)<bf then local bf=cb while true do bf=((bf+bx))if((bf>bi or not(bf~=bi)))then if(bf<bh)then return cf(cg(cg,cg)and cf((cf and cg),cf),cf(cg,(cf and cg)))else break end else ce=(((ce+bg)%be))end end else local be=cb while true do be=(be+bx)if((be>bx))then break else return cg end end end return cg end,function(be,bf)if((cd>bc))then local bc=cb while true do bc=bc+bx if(bc>bx)then break else return be end end end cd=cd+bx ce=(ce*bd)%bb if(not(((ce%z))~=ba)or((ce%z))>ba)then local z=cb while true do z=z+bx if((z<bx)or not(z~=bx))then ce=((ce+y)%x)else if not(not(z==bi))then return bf(bf(bf,be),be(be,be))else break end end end else local x=cb while true do x=((x+bx))if(x<bi)then return bf else break end end end return bf end)return ce;end)()));local x;x=function()local y,z,ba,bb,bc,bd;local be=0 while true do be=be+bu if(be==4 or be<4)then if(be==bn or be<bn)then if not(be~=2)then if not(y~=0)and not(z~=0)then local bf=ca while true do bf=bf+bu if bf<bn then return ca;else break end end end;else y,z=r(),r()end else if not(be~=3)then ba=bu else bb=(j(z,1,20)*((bn^32)))+y end end else if(be>7 or be==7)then if(be==7 or be<7)then if(not(bc~=0))then local y=ca while true do y=y+bu if(y<bn)then if(not(bb~=ca))then local y=ca while true do y=(y+bu)if y>bu then break else return bd*ca;end end else local y=ca while true do y=y+bu if(y==bn or y>bn)then if not(y~=bo)then break else ba=ca;end else bc=bu;end end end;else break end end elseif(not(bc~=2047))then local y=ca while true do y=(y+bu)if(y<bn)then if(not(bb~=ca))then local y=ca while true do y=y+bu if not(y~=bn)then break else return(bd*(bu/ca));end end else local y=ca while true do y=(y+bu)if not(y~=bu)then return(bd*((ca/ca)));else break end end end;else break end end end;else if not(be~=9)then break else return(bd*2^((bc-1023))*(ba+((bb/((bn^52))))))end end else if not(be~=5)then bc=j(z,21,31)else bd=((-bu)^j(z,32))end end end end end local y="\46";local z;z=function()local ba,bb;local bc=0 while true do bc=(bc+1)if(bc==2 or bc<2)then if(bc>bu)then ba,bb=k(ba,t),k(bb,t);else ba,bb=b(a,i,i+bn)end else if(bc==bl or bc>bl)then if bc<5 then return((m(bb,8))+ba);else break end else i=(i+bn);end end end end local m=r;local ba;ba=function()local bb,bc,bd,be,bf,bg,bh,bi,bk,bm,bw,bx,by,cb,cd,ce,cf,cg,ch,cj,ck,cl,cm,cn,co,cp,cq,cr,cs,ct,cu,cv,cw,cx,cy,cz,da,db,dc,dd,de,df,dg,dh,di,dj,dk,dl;local dm=0 local dn=48;local _do=37816;local dp=2442;local dq=848;local dr=611;local ds=424;local dt=1475;local du=32;local dv=37;local dw=4071;local dx=72061;local dy=21;local dz=60786;local ea=25;local eb=894;local ec=16;local ed=188;while true do dm=dm+bu if(dm<25 or dm==25)then if(dm==13 or dm>13)then if(dm<18 or dm==18)then if(dm==15 or dm<15)then if(dm<13 or dm==13)then by=61931 else if(dm>14)then cd=ed else cb=92264 end end else if(dm<ec or dm==ec)then ce=39 else if(dm<18)then cf=2950 else cg=1641 end end end else if(dm>22 or dm==22)then if(dm==23 or dm<23)then if(dm>22)then cm=1221 else cl=eb end else if not(dm~=ea)then co=dz else cn=53 end end else if(dm<19 or dm==19)then ch=3282 else if dm<dy then cj=50 else ck=84 end end end end else if(dm>bs or dm==bs)then if(dm==10 or dm>10)then if(dm<10 or dm==10)then bm=dx else if(dm<12)then bw=462 else bx=94 end end else if(dm>bt or dm==bt)then if(dm<9)then bi=6310 else bk=21 end else bh=bs end end else if(dm<3 or dm==3)then if(dm==1 or dm<1)then bb=h else if not(dm~=bn)then bc=25 else bd=32 end end else if(dm==5 or dm>5)then if dm<6 then bf=22 else bg=dw end else be=727 end end end end else if(dm==dv or dm<dv)then if(dm>du or dm==du)then if(dm==34 or dm<34)then if(dm==32 or dm<32)then cv=dt else if not(dm~=33)then cw=ds else cx=dr end end else if(dm<35 or dm==35)then cy=444 else if(dm<37)then cz=dq else da=dp end end end else if(dm==29 or dm>29)then if(dm<29 or dm==29)then cs=15339 else if not(dm~=31)then cu=43 else ct=9 end end else if(dm==26 or dm<26)then cp=_do else if not(dm~=27)then cq=bl else cr=13 end end end end else if(dm>44 or dm==44)then if(dm>47 or dm==47)then if(dm<dn or dm==dn)then if not(dm~=dn)then dl={}else dk=dh end else if not(dm~=50)then break else while((dk<dj))do local bs=ca while true do bs=bs+bu if(bs>bo or bs==bo)then if(bs>bl or bs==bl)then if not(bs~=l)then break else if((dk>bc))then local bc=ca while true do bc=bc+bu if not(bc~=bu)then break;else break end end end;end else di=(((di*be)))end else if bs<bn then dk=dk+de;else while((dk<dg))and(((di%df))<dd)do local bc;local be=ca while true do be=be+bu if(be<bn or be==bn)then if not(be~=bn)then bc=(dk+di)else di=((di*dc))end else if(be<bo or be==bo)then if(((((di%da)))>cm)or not((((di%da)))~=cm))then local bc=ca while true do bc=(bc+bu)if(bc>bn or bc==bn)then if(bc>bn)then break else while(((dk<cx)and((((di%cz))<cw))))do local bc;local bs=ca while true do bs=(bs+bu)if(bs>bo or bs==bo)then if(bs==bl or bs>bl)then if not(bs~=l)then break else dk=dk+de;end else if((not(((di%cf))~=cv)or(((di%cf))<cv)))then local l;local bt=ca while true do bt=(bt+bu)if(bt<bn or bt==bn)then if(bt<2)then di=((di*ct))else l=cs end else if not(bt~=4)then break else if not dl[l]then local bt=0 while true do bt=(bt+1)if(bt==1 or bt<1)then dl[l]=de;else if not(bt~=2)then return ci(bb,y,function(l)return d(b(l))end);else break end end end end end end end elseif not(not((di%cq)~=dh))then local l;local bt=0 while true do bt=(bt+1)if(bt<2 or bt==2)then if(bt<2)then di=(di+cr)else l=cp end else if(bt>3)then break else if not dl[l]then local bt,cf;local cm=0 while true do cm=cm+1 if(cm>bl or cm==bl)then if(cm==6 or cm>6)then if(cm>6)then break else return ci(bb,y,function(cp)return d(b(cp))end);end else if cm>4 then i=(i+bt);else bb=bj(a,i,(((i+bt))-de));end end else if(cm==2 or cm>2)then if not(cm~=3)then if not(not(bt==dh))then local a=0 while true do a=a+1 if a<2 then return h;else break end end end;else bt,cf=m(),h end else dl[l]=de;end end end end end end end else local a;local h=0 while true do h=(h+1)if(h>3 or h==3)then if(h<3 or h==3)then a=co else if(h<5)then if not dl[a]then local i=0 while true do i=(i+1)if(i<1 or i==1)then dl[a]=de;else if(i<3)then return ci(bb,y,function(a)return d(b(a))end);else break end end end end else break end end else if not(h~=2)then dk=((dk+de))else di=((di+cn))end end end end;end else if not(bs~=2)then bc=((dk+di))else di=((di+cu))end end end end end else di=((di-db))end end elseif not(not(di%cq~=dh))then local a=0 while true do a=(a+1)if(a>2 or a==2)then if not(a~=2)then while(dk<cl)and((di%cd<bx))do local a;local h=0 while true do h=h+1 if(h>3 or h==3)then if(h==3 or h<3)then if(((di%ch))>cg)then local i;local l=0 while true do l=(l+1)if(l>3 or l==3)then if not(l~=3)then if not dl[i]then local m=0 while true do m=m+1 if(m>2 or m==2)then if not(m~=2)then return ci(bb,y,function(m)return d(b(m))end);else break end else dl[i]=de;end end end else break end else if(l>1)then i=by else di=(di-ce)end end end elseif not(not((di%cq)~=dh))then local i;local l=0 while true do l=l+1 if(l==3 or l>3)then if not(l~=3)then if not dl[i]then local m=0 while true do m=(m+1)if(m<1 or m==1)then dl[i]=de;else if(m>2)then break else return ci(bb,y,function(m)return d(b(m))end);end end end end else break end else if not(l~=2)then i=cb else di=(di+bk)end end end else local i;local l=0 while true do l=(l+1)if(l==2 or l<2)then if not(l~=2)then dk=dk+de else di=(di+ce)end else if(l>4 or l==4)then if l>4 then break else if not dl[i]then local l=0 while true do l=(l+1)if(l==2 or l>2)then if not(l~=3)then break else return ci(bb,y,function(l)return d(b(l))end);end else dl[i]=de;end end end end else i=bm end end end end;else if not(h~=4)then dk=(dk+de);else break end end else if h>1 then a=(dk+di)else di=((di+cj))end end end end else break end else di=((di*ck))end end else local a=0 while true do a=a+1 if(a<2 or a==2)then if not(a~=2)then dk=(dk+de)else di=((di-59))end else if not(a~=4)then break else while((dk<bw)and(((di%64)<bd)))do local a;local h=0 while true do h=h+1 if(h==2 or h<2)then if not(h~=1)then di=((di+87))else a=(dk+di)end else if(h==3 or h<3)then if(not(((di%bi))~=3155)or(di%bi)<3155)then local a;local i=0 while true do i=(i+1)if(i==3 or i>3)then if(i>3)then break else if not dl[a]then local l=0 while true do l=l+1 if(l<1 or l==1)then dl[a]=1;else if not(l~=2)then return ci(bb,y,function(l)return d(b(l))end);else break end end end end end else if(i>1)then a=81005 else di=((di*bh))end end end elseif not(not(di%cq~=0))then local a;local i=0 while true do i=i+1 if(i==2 or i<2)then if not(i~=2)then a=bg else di=((di-bf))end else if(i<4)then if not dl[a]then local i=0 while true do i=(i+1)if(i<1 or i==1)then dl[a]=de;else if(i>2)then break else return ci(bb,y,function(a)return d(b(a))end);end end end end else break end end end else local a;local i=0 while true do i=i+1 if(i==2 or i<2)then if(i<2)then di=(di*13)else dk=dk+de end else if(i==3 or i<3)then a=62852 else if not(i~=4)then if not dl[a]then local i=0 while true do i=i+1 if(i>2 or i==2)then if i<3 then return ci(bb,y,function(i)return d(b(i))end);else break end else dl[a]=1;end end end else break end end end end end;else if h>4 then break else dk=dk+de;end end end end end end end end end;else if be>4 then break else dk=dk+de;end end end end end end end end end;end end else if(dm>45 or dm==45)then if not(dm~=46)then dj=2 else di=cy end else dh=0 end end else if(dm>41 or dm==41)then if(dm<41 or dm==41)then de=1 else if(dm<43)then df=984 else dg=870 end end else if(dm==38 or dm<38)then db=96 else if(dm>39)then dd=492 else dc=49 end end end end end end end end local a=r;local a;a=function(...)local h=0 while true do h=(h+1)if not(h~=bu)then return{...},bv("\35",...)else break end end end local h;h=function()local i,l,m,bb,bc,bd,be,be,be,be,bf,bg,bh,bi,bj,bk,bm,bs,bt,bw,bx,by,cb,cd,ce,cf,cg,ch,cj,ck,cl,cm,cn,co,cp,cq,cr,cs,ct,cu,cv,cw,cx,cy,cz,da,db,dc,dd,de,df,dg,dh,di,dj,dk,dk,dl,dl,dl,dm,dn,_do,dp,dq,dr,ds,dt,du,dv,dw,dx,dy,dz,ea,eb,ec,ed,ee,ef,eg,eh,ei,ej,ek,el,em,en,eo,ep,eq,er,es,et,eu,ev,ew,ex,ey,ez,fa,fb,fc,fd,fe,ff,fg,fh,fi,fj,fk;local fk=0 local fl=62;local fm=64;local fn=71;local fo=58;while true do fk=fk+1 if(fk==fo or fk>fo)then if(fk<85 or fk==85)then if(fk<fn or fk==fn)then if(fk<fm or fk==fm)then if(fk==61 or fk>61)then if(fk<fl or fk==fl)then if not(fk~=fl)then dm=77276 else dl=37954 end else if(fk<64)then dn=78 else _do=255 end end else if(fk==58 or fk<58)then fj={}else if(fk>59)then for fl=bu,r()do local fm=ca while true do fm=fm+bu if not(fm~=bn)then break else l[(fl-bu)]=h();end end end;else while(fh<dk)do local fl=ca while true do fl=(fl+bu)if(fl==bn or fl<bn)then if fl<bn then fh=(fh+dh);else while((fh<dj)and ff%di<df)do local fm;local fn=ca while true do fn=fn+bu if(fn==bo or fn>bo)then if(fn==bl or fn>bl)then if not(fn~=bl)then fh=((fh+bu));else break end else if((((ff%db))>cz or not((ff%db)~=cz)))then local bl=ca while true do bl=bl+bu if(bl==bn or bl>bn)then if bl<bo then while(((fh<dd)and(ff%dc<da)))do local bl;local bo=ca while true do bo=(bo+bu)if(bo==bn or bo<bn)then if(bo<2)then ff=((ff+cx))else bl=(fh+ff)end else if(bo<3 or bo==3)then if(not(((ff%cn))~=cw)or(((ff%cn))>cw))then local bl;local bn=0 while true do bn=bn+1 if(bn>3 or bn==3)then if not(bn~=4)then break else if not fj[bl]then local bu=0 while true do bu=bu+1 if(bu<1 or bu==1)then fj[bl]=dh;else if(bu<3)then i[r()]=bd;else break end end end end end else if(bn<2)then ff=((ff*cv))else bl=cs end end end elseif not(not((ff%ct)~=cy))then local bl;local bn=0 while true do bn=bn+1 if(bn==2 or bn<2)then if not(bn~=2)then bl=cp else ff=((ff-cu))end else if bn>3 then break else if not fj[bl]then local bn=0 while true do bn=bn+1 if(bn==2 or bn>2)then if not(bn~=2)then i[r()]=bd;else break end else fj[bl]=dh;end end end end end end else local bl;local bn=0 while true do bn=bn+1 if(bn>3 or bn==3)then if(bn>4 or bn==4)then if not(bn~=5)then break else if not fj[bl]then local bu=0 while true do bu=bu+1 if(bu>2 or bu==2)then if(bu>2)then break else i[r()]=bd;end else fj[bl]=dh;end end end end else bl=cr end else if bn<2 then ff=((ff+cq))else fh=((fh+dh))end end end end;else if not(bo~=4)then fh=(fh+dh);else break end end end end end else break end else ff=(ff-dg)end end elseif not(not((ff%ct)~=cy))then local bl=0 while true do bl=bl+1 if(bl>2 or bl==2)then if bl>2 then break else while(fh<ch and((ff%co)<cg))do local bl;local bn=0 while true do bn=bn+1 if(bn>3 or bn==3)then if(bn<3 or bn==3)then if((not((ff%ck)~=cf)or(((ff%ck))<cf)))then local bo;local bu=0 while true do bu=(bu+1)if(bu>3 or bu==3)then if not(bu~=4)then break else if not fj[bo]then local ca=0 while true do ca=(ca+1)if(ca<1 or ca==1)then fj[bo]=dh;else if not(ca~=3)then break else i[r()]=bd;end end end end end else if not(bu~=1)then ff=(ff-cj)else bo=ce end end end elseif not(not(ff%ct~=cy))then local bo;local bu=0 while true do bu=bu+1 if(bu==3 or bu>3)then if not(bu~=3)then if not fj[bo]then local ca=0 while true do ca=ca+1 if(ca>2 or ca==2)then if not(ca~=3)then break else i[r()]=bd;end else fj[bo]=dh;end end end else break end else if(bu>1)then bo=cd else ff=((ff-cb))end end end else local bo;local bu=0 while true do bu=(bu+1)if(bu>3 or bu==3)then if(bu==4 or bu>4)then if not(bu~=4)then if not fj[bo]then local ca,fo,fp,fq;local fr=0 while true do fr=fr+1 if(fr==3 or fr<3)then if(fr<1 or fr==1)then fj[bo]=dh;else if fr<3 then ca=1 else fo=2 end end else if(fr>6 or fr==6)then if not(fr~=7)then break else for fs=1,r()do local ft,fu;local fv=0 while true do fv=(fv+1)if(fv>3 or fv==3)then if not(fv~=3)then if(not(not(fu==cy)))then local fw,fx,fy;local fz=0 while true do fz=(fz+1)if(fz<3 or fz==3)then if(fz==2 or fz>2)then if not(fz~=2)then if((not(not(fw==cy)))or(not(not(fw==ca))))then local ga=0 while true do ga=ga+1 if(ga>2 or ga==2)then if ga<3 then if(not(not(fw==0)))then local ga=0 while true do ga=(ga+1)if not(ga~=2)then break else fy[q]=r();end end end;else break end else fy[p]=r();end end elseif(not(not(fw==fo)))or(not(not(fw==fp)))then local ga=0 while true do ga=ga+1 if(ga>2 or ga==2)then if ga<3 then if(not(not(fw==fp)))then local ga=0 while true do ga=ga+1 if not(ga~=2)then break else fy[q]=z();end end end;else break end else fy[p]=((r()-(e)));end end end;else if(not(not(j(fx,ca,ca)==ca)))then local e=0 while true do e=e+1 if not(e~=2)then break else fy[o]=bd[fy[o]];end end end;end else fw,fx,fy=j(ft,fo,fp),j(ft,ct,dk),br({[n]=z(),[o]=z(),nil,nil},{['\95\95\116\111\115\116\114\105\110\103']=function()return bp(bc,s());end})end else if(fz==6 or fz>6)then if not(fz~=6)then i[fs]=fy;else break end else if not(fz~=5)then if(not(not(j(fx,fp,fp)==ca)))then local e=0 while true do e=(e+1)if not(e~=1)then fy[q]=bd[fy[q]];else break end end end;else if(not(not(j(fx,fo,fo)==ca)))then local e=0 while true do e=(e+1)if(e>1)then break else fy[p]=bd[fy[p]];end end end;end end end end end;else break end else if fv<2 then ft=s()else fu=j(ft,ca,ca)end end end end;end else if not(fr~=4)then fp=bf else fq=ct end end end end end else break end else bo=by end else if(bu<2)then ff=(ff*bx)else fh=fh+dh end end end end;else if not(bn~=5)then break else fh=fh+dh;end end else if not(bn~=1)then ff=((ff*cm))else bl=fh+ff end end end end end else ff=(((ff-cl)))end end else local e=0 while true do e=(e+1)if(e==3 or e>3)then if not(e~=4)then break else while fh<100 and((ff%bw)<bt)do local j;local z=0 while true do z=(z+1)if(z<2 or z==2)then if not(z~=1)then ff=(((ff*9)))else j=(fh+ff)end else if(z==4 or z>4)then if not(z~=4)then fh=(fh+dh);else break end else if((((((ff%bs)))>bh)or not((((ff%bs)))~=bh)))then local j;local z=0 while true do z=(z+1)if(z<2 or z==2)then if z<2 then ff=(((ff+bm)))else j=bk end else if not(z~=3)then if not fj[j]then local z=0 while true do z=z+1 if(z==2 or z>2)then if not(z~=2)then i[r()]=bd;else break end else fj[j]=1;end end end else break end end end elseif not(not((ff%ct)~=0))then local j;local z=0 while true do z=z+1 if(z>3 or z==3)then if not(z~=4)then break else if not fj[j]then local bl=0 while true do bl=(bl+1)if(bl<1 or bl==1)then fj[j]=1;else if(bl<3)then i[r()]=bd;else break end end end end end else if(z>1)then j=52341 else ff=((ff-bj))end end end else local j;local z=0 while true do z=z+1 if(z==2 or z<2)then if not(z~=1)then ff=(ff-cj)else fh=fh+dh end else if(z<3 or z==3)then j=bi else if not(z~=5)then break else if not fj[j]then local z=0 while true do z=(z+1)if(z==1 or z<1)then fj[j]=1;else if not(z~=3)then break else i[r()]=bd;end end end end end end end end end;end end end end end else if not(e~=1)then ff=((ff*24))else fh=((fh+1))end end end end;end else if not(fn~=2)then fm=(fh+ff)else ff=((ff-dg))end end end end end else if(fl>4 or fl==4)then if not(fl~=4)then if fh>be then local e=0 while true do e=(e+1)if not(e~=2)then break else break;end end end;else break end else ff=(((ff*bg)))end end end end;end end end else if(fk==67 or fk<67)then if(fk==65 or fk<65)then dp=68 else if not(fk~=67)then dr=11574 else dq=32456 end end else if(fk>70 or fk==70)then if not(fk~=70)then du=48 else dv=58 end else if not(fk~=69)then dt=92 else ds=89 end end end end else if(fk<78 or fk==78)then if(fk==75 or fk>75)then if(fk>77 or fk==77)then if not(fk~=77)then eb=35 else ec=87535 end else if not(fk~=76)then ea=62 else dz=21909 end end else if(fk>73 or fk==73)then if not(fk~=74)then dy=44 else dx=1524 end else dw=762 end end else if(fk==81 or fk<81)then if(fk<79 or fk==79)then ed=6862 else if(fk>80)then ef=27 else ee=37044 end end else if(fk>84 or fk==84)then if not(fk~=84)then ei=394 else ej=315 end else if not(fk~=82)then eg=51532 else eh=13724 end end end end end else if(fk==100 or fk>100)then if(fk>107 or fk==107)then if(fk==111 or fk>111)then if(fk<112 or fk==112)then if not(fk~=112)then while(fh<fi)do local e=0 while true do e=e+1 if(e<2 or e==2)then if e>1 then while(fh<fb and(ff%fd)<eo)do local j;local z=0 while true do z=z+1 if(z<2 or z==2)then if not(z~=2)then j=(fh+ff)else ff=(((ff+fc)))end else if(z<3 or z==3)then if((ff%ew)<fa)then local j=0 while true do j=(j+1)if(j>2 or j==2)then if not(j~=2)then while((fh<ey and(ff%es<ex)))do local j;local bl=0 while true do bl=(bl+1)if(bl<2 or bl==2)then if bl<2 then ff=((ff-ev))else j=fh+ff end else if(bl==4 or bl>4)then if(bl<5)then fh=(fh+fe);else break end else if(((((ff%eu)))<et or not((((ff%eu)))~=et)))then local j;local bl=0 while true do bl=(bl+1)if(bl>3 or bl==3)then if not(bl~=3)then if not fj[j]then local bn=0 while true do bn=(bn+1)if(bn>2 or bn==2)then if not(bn~=3)then break else do local bn=0 while true do bn=(bn+1)if(bn==1 or bn<1)then for bo=fe,#bc[u]do local bu,ca,fl,fm;local fn=0 while true do fn=fn+1 if(fn==3 or fn<3)then if(fn>2 or fn==2)then if not(fn~=2)then ca,fl,fm=bu[o],bu[p],bu[q]else if not(not(not(c(ca)~=g)))then local fo=0 while true do fo=(fo+1)if(fo>2 or fo==2)then if(fo<3)then bu[o]=ca else break end else ca=ci(ca,y,function(ca,fo,fo)return d(k(b(ca),t))end)end end end end else bu=bc[u][bo]end else if(fn<4 or fn==4)then if not(not(c(fl)==g))then local bo=0 while true do bo=(bo+1)if(bo==1 or bo<1)then fl=ci(fl,y,function(ca,fo)return d(k(b(ca),t))end)else if not(bo~=3)then break else bu[p]=fl end end end end else if not(fn~=5)then if not(not(c(fm)==g))then local c=0 while true do c=c+1 if(c>2 or c==2)then if c>2 then break else bu[q]=fm end else fm=ci(fm,y,function(c,g)return d(k(b(c),t))end)end end end;else break end end end end end;else if not(bn~=2)then bc[w]=nil;else break end end end end;end else fj[j]=fe;end end end else break end else if not(bl~=1)then ff=(((ff+er)))else j=en end end end elseif not(not((ff%fi)~=fg))then local b;local c=0 while true do c=c+1 if(c>3 or c==3)then if not(c~=3)then if not fj[b]then local d=0 while true do d=d+1 if(d>2 or d==2)then if(d<3)then bc[w]=nil else break end else fj[b]=fe;end end end else break end else if not(c~=1)then ff=(((ff-ep)))else b=eq end end end else local b;local c=0 while true do c=c+1 if(c<2 or c==2)then if not(c~=2)then fh=(fh+fe)else ff=((ff-ek))end else if(c<3 or c==3)then b=eg else if(c<5)then if not fj[b]then local c=0 while true do c=(c+1)if(c<1 or c==1)then fj[b]=fe;else if c<3 then bc[w]=nil else break end end end end else break end end end end end;end end end end else break end else ff=(ff*ez)end end elseif not(not((ff%fi)~=fg))then local b=0 while true do b=(b+1)if(b==2 or b>2)then if not(b~=2)then while(((fh<ei)and((ff%el)<ej)))do local b;local c=0 while true do c=(c+1)if(c>3 or c==3)then if(c==4 or c>4)then if(c<5)then fh=fh+fe;else break end else if((((ff%eh)))>ed)then local d;local g=0 while true do g=(g+1)if(g==3 or g>3)then if not(g~=3)then if not fj[d]then local j=0 while true do j=(j+1)if not(j~=1)then fj[d]=fe;else break end end end else break end else if g>1 then d=ee else ff=((ff-ef))end end end elseif not(not((ff%fi)~=fg))then local d;local g=0 while true do g=g+1 if(g>3 or g==3)then if(g<4)then if not fj[d]then local j=0 while true do j=(j+1)if(j<2)then fj[d]=fe;else break end end end else break end else if(g<2)then ff=(ff-eb)else d=ec end end end else local d;local g=0 while true do g=g+1 if(g<2 or g==2)then if g<2 then ff=(ff+dv)else fh=(fh+1)end else if(g==4 or g>4)then if not(g~=5)then break else if not fj[d]then local g=0 while true do g=(g+1)if(g==2 or g>2)then if not(g~=2)then bc[w]=nil else break end else fj[d]=1;end end end end else d=dz end end end end;end else if(c>1)then b=((fh+ff))else ff=(ff*ea)end end end end else break end else ff=(ff-em)end end else local b=0 while true do b=(b+1)if(b==2 or b<2)then if b>1 then fh=(fh+fe)else ff=((ff*dy))end else if(b>3)then break else while(((fh<ds)and((((ff%dx))<dw))))do local b;local c=0 while true do c=(c+1)if(c>3 or c==3)then if(c<3 or c==3)then if((((ff%dr))<5787))then local d;local g=0 while true do g=(g+1)if(g==2 or g<2)then if(g<2)then ff=(((ff*dt)))else d=dm end else if g<4 then if not fj[d]then local g=0 while true do g=g+1 if(g==1 or g<1)then fj[d]=fe;else if not(g~=2)then bc[w]=nil else break end end end end else break end end end elseif not(not(ff%fi~=fg))then local d;local g=0 while true do g=g+1 if(g==2 or g<2)then if(g>1)then d=dq else ff=(((ff*53)))end else if not(g~=4)then break else if not fj[d]then local g=0 while true do g=g+1 if(g==2 or g>2)then if not(g~=2)then bc[w]=nil else break end else fj[d]=fe;end end end end end end else local d;local g=0 while true do g=g+1 if(g==2 or g<2)then if not(g~=2)then fh=fh+fe else ff=((ff*dp))end else if(g>4 or g==4)then if(g>4)then break else if not fj[d]then local g=0 while true do g=g+1 if(g==1 or g<1)then fj[d]=fe;else if g>2 then break else bc[w]=nil end end end end end else d=dl end end end end;else if not(c~=5)then break else fh=((fh+fe));end end else if c<2 then ff=((ff+du))else b=fh+ff end end end end end end end end;else if(z>4)then break else fh=fh+fe;end end end end end else fh=(fh+fe);end else if(e<3 or e==3)then ff=(ff-_do)else if not(e~=4)then if(fh>dn)then local b=0 while true do b=b+1 if(b<2)then break;else break end end end;else break end end end end end;else fj={}end else if not(fk~=114)then break else return bc;end end else if(fk==108 or fk<108)then if not(fk~=107)then ff=377 else fg=0 end else if not(fk~=110)then fi=4 else fh=fg end end end else if(fk<102 or fk==102)then if(fk<100 or fk==100)then ey=435 else if not(fk~=102)then fa=1740 else ez=46 end end else if(fk==105 or fk>105)then if(fk>105)then fe=1 else fd=1692 end else if not(fk~=104)then fc=54 else fb=718 end end end end else if(fk>93 or fk==93)then if(fk>96 or fk==96)then if(fk>98 or fk==98)then if not(fk~=99)then ex=875 else ew=3480 end else if(fk<97)then eu=17186 else ev=97 end end else if(fk<93 or fk==93)then er=2 else if(fk>94)then et=8593 else es=1750 end end end else if(fk<88 or fk==88)then if(fk<86 or fk==86)then ek=91 else if not(fk~=88)then em=49 else el=630 end end else if(fk==90 or fk<90)then if fk>89 then eo=846 else en=409 end else if not(fk~=92)then eq=40132 else ep=88 end end end end end end else if(fk==29 or fk>29)then if(fk>43 or fk==43)then if(fk==50 or fk>50)then if(fk==54 or fk>54)then if(fk<55 or fk==55)then if not(fk~=55)then ff=de else dj=335 end else if(fk<57)then dk=6 else fh=cy end end else if(fk==51 or fk<51)then if(fk<51)then df=430 else dg=11 end else if not(fk~=53)then di=860 else dh=1 end end end else if(fk==45 or fk<45)then if(fk==43 or fk<43)then cy=0 else if not(fk~=44)then cz=450 else da=437 end end else if(fk<47 or fk==47)then if(fk<47)then db=900 else dc=874 end else if not(fk~=48)then dd=715 else de=997 end end end end else if(fk>36 or fk==36)then if(fk>39 or fk==39)then if(fk<40 or fk==40)then if not(fk~=39)then cu=15 else cv=63 end else if not(fk~=41)then cw=8810 else cx=27 end end else if(fk<36 or fk==36)then cr=36213 else if not(fk~=37)then cs=45786 else ct=4 end end end else if(fk<31 or fk==31)then if(fk<29 or fk==29)then ck=19026 else if(fk>30)then cm=12 else cl=13 end end else if(fk==33 or fk<33)then if(fk>32)then co=216 else cn=17620 end else if not(fk~=35)then cq=44 else cp=98103 end end end end end else if(fk==15 or fk>15)then if(fk>22 or fk==22)then if(fk==25 or fk>25)then if(fk==26 or fk<26)then if not(fk~=25)then cf=9513 else cg=108 end else if fk>27 then cj=20 else ch=21 end end else if(fk==22 or fk<22)then cb=42 else if not(fk~=24)then ce=17183 else cd=26338 end end end else if(fk==18 or fk>18)then if(fk<19 or fk==19)then if not(fk~=18)then bt=563 else bw=1126 end else if fk>20 then by=64037 else bx=52 end end else if(fk==15 or fk<15)then bk=52168 else if not(fk~=16)then bm=83 else bs=14024 end end end end else if(fk==7 or fk<7)then if(fk==4 or fk>4)then if(fk>6 or fk==6)then if not(fk~=6)then fj={}else while fh<6 do local b=0 while true do b=(b+1)if(b==3 or b>3)then if(b<3 or b==3)then ff=((ff*1020))else if b>4 then break else if(fh>61)then local c=0 while true do c=(c+1)if not(c~=1)then break;else break end end end;end end else if not(b~=1)then fh=(fh+1);else while(fh<714 and(ff%602<301))do local b;local c=0 while true do c=(c+1)if(c==2 or c<2)then if not(c~=2)then b=fh+ff else ff=((ff-3))end else if(c==3 or c<3)then if((ff%3222)>1611)then local b=0 while true do b=b+1 if(b<1 or b==1)then ff=((ff*18))else if not(b~=3)then break else while((fh<338)and(ff%236<118))do local b;local d=0 while true do d=(d+1)if(d>3 or d==3)then if(d>4 or d==4)then if(d<5)then fh=(fh+1);else break end else if(((ff%4992))>2496 or((ff%4992))==2496)then local e;local g=0 while true do g=(g+1)if(g==2 or g<2)then if g>1 then e=64559 else ff=((ff-97))end else if g<4 then if not fj[e]then local g=0 while true do g=(g+1)if(g==2 or g>2)then if not(g~=3)then break else bd[r()]=nil;end else fj[e]=1;end end end else break end end end elseif not(ff%4==0)then local e;local g=0 while true do g=(g+1)if(g==3 or g>3)then if(g>3)then break else if not fj[e]then local j=0 while true do j=j+1 if(j>3 or j==3)then if not(j~=4)then break else bc[w]=bd;end else if not(j~=1)then fj[e]=1;else for j=1,r()do local k;local t=0 while true do t=t+1 if(t==1 or t<1)then k=s()else if t<3 then if(not(k~=3))then local t=0 while true do t=(t+1)if not(t~=2)then break else bd[j]=nil;end end elseif(not(k~=0))then local t=0 while true do t=t+1 if t<2 then bd[j]=(not(s()==0));else break end end elseif(not(k~=2))then local t=0 while true do t=(t+1)if(t>1)then break else bd[j]=x();end end elseif(not(k~=1))then local k=0 while true do k=k+1 if(k>1)then break else bd[j]=ba();end end end;else break end end end end;end end end end end else if g>1 then e=97562 else ff=((ff*82))end end end else local e;local g=0 while true do g=g+1 if(g<2 or g==2)then if not(g~=1)then ff=(ff-15)else fh=(fh+1)end else if(g==4 or g>4)then if(g<5)then if not fj[e]then local g=0 while true do g=g+1 if(g>2 or g==2)then if(g>2)then break else bd[r()]=nil;end else fj[e]=1;end end end else break end else e=9788 end end end end;end else if not(d~=2)then b=fh+ff else ff=((ff-39))end end end end end end end elseif not((ff%4)==0)then local b=0 while true do b=(b+1)if(b<1 or b==1)then ff=(ff+6)else if b>2 then break else while fh<183 and(ff%1948)<974 do local b;local d=0 while true do d=d+1 if(d==2 or d<2)then if not(d~=2)then b=fh+ff else ff=((ff+63))end else if(d==3 or d<3)then if(((ff%14418))<7209 or((ff%14418))==7209)then local b;local e=0 while true do e=e+1 if(e<2 or e==2)then if(e>1)then b=48104 else ff=(ff*15)end else if not(e~=3)then if not fj[b]then local e=0 while true do e=(e+1)if not(e~=2)then break else fj[b]=1;end end end else break end end end elseif not(ff%4==0)then local b;local e=0 while true do e=(e+1)if(e==2 or e<2)then if not(e~=1)then ff=(ff*53)else b=36803 end else if not(e~=4)then break else if not fj[b]then local e=0 while true do e=e+1 if(e==2 or e>2)then if(e>2)then break else bd[r()]=nil;end else fj[b]=1;end end end end end end else local b;local e=0 while true do e=(e+1)if(e<2 or e==2)then if(e<2)then ff=((ff*74))else fh=(fh+1)end else if(e==3 or e<3)then b=17291 else if e<5 then if not fj[b]then local e=0 while true do e=(e+1)if(e==2 or e>2)then if not(e~=2)then bd[r()]=nil;else break end else fj[b]=1;end end end else break end end end end end;else if not(d~=5)then break else fh=fh+1;end end end end end end end end else local b=0 while true do b=b+1 if(b<2 or b==2)then if(b>1)then fh=fh+1 else ff=((ff-3))end else if not(b~=3)then while fh<109 and ff%1018<509 do local b;local d=0 while true do d=(d+1)if(d<2 or d==2)then if not(d~=1)then ff=(ff*23)else b=(fh+ff)end else if(d==3 or d<3)then if(((ff%3252))>1626)then local b;local e=0 while true do e=e+1 if(e==2 or e<2)then if e<2 then ff=((ff*4))else b=84781 end else if(e<4)then if not fj[b]then local e=0 while true do e=(e+1)if(e==2 or e>2)then if e>2 then break else bd[r()]=nil;end else fj[b]=1;end end end else break end end end elseif not((ff%4)==0)then local b;local e=0 while true do e=e+1 if(e>3 or e==3)then if e>3 then break else if not fj[b]then local g=0 while true do g=g+1 if(g>2 or g==2)then if not(g~=2)then bd[r()]=nil;else break end else fj[b]=1;end end end end else if not(e~=1)then ff=((ff-11))else b=45824 end end end else local b;local e=0 while true do e=(e+1)if(e>3 or e==3)then if(e<3 or e==3)then b=65887 else if e<5 then if not fj[b]then local g=0 while true do g=(g+1)if(g==1 or g<1)then fj[b]=1;else if g>2 then break else bd[r()]=nil;end end end end else break end end else if(e>1)then fh=fh+1 else ff=((ff+50))end end end end;else if not(d~=4)then fh=fh+1;else break end end end end end else break end end end end;else if(c<5)then fh=fh+1;else break end end end end end end end end end;end else if fk>4 then fh=0 else ff=478 end end else if(fk==2 or fk>2)then if fk<3 then bc=br({[u]=i,nil,[v]=l,nil,[359]=bb,},{['\95\95\116\111\115\116\114\105\110\103']=function()return bp(f,ba());end})else bd={}end else i,l,m,bb={},{},{},{}end end else if(fk==11 or fk>11)then if(fk==13 or fk>13)then if(fk>13)then bj=53 else bi=8602 end else if not(fk~=11)then bg=862 else bh=7012 end end else if(fk<8 or fk==8)then bc[53]=s();else if not(fk~=10)then bf=3 else be=2 end end end end end end end end end local function b(...)local c=bv(1,...);local d=bv(2,...);local e=bv(3,...)local f=c[u];local g=c[v];local i=c[53];local c=c[359];return function(...)local c=f;local f=g;local g=i;local a,i,j,k,l,m,r,s=a,1,-1,{},{...},(bv("\35",...)-1),{},{};for t=0,m,1 do local u=l[t+1];if(t>=g)then k[t-g]=u;else s[t]=u;end;end;local t,u,v,w=(m-g+1),nil,nil,{};while true do u=c[i];v=u[n];if v<=77 then if v<=38 then if v<=18 then if v<=8 then if 3>=v then if 1>=v then if v==0 then local w=u[o]s[w]=s[w](bz(s,w+1,u[p]))else local w=u[o]s[w](bz(s,w+1,j))end;elseif 3>v then local w=f[u[p]];local x={};local y={};for z=1,u[q]do i=i+1;local ba=c[i];if ba[n]==18 then y[z-1]={s,ba[p]};else y[z-1]={d,ba[p]};end;r[#r+1]=y;end;br(x,{['\95\95\105\110\100\101\120']=function(z,z)local z=y[z];return z[1][z[2]];end,['\95\95\110\101\119\105\110\100\101\120']=function(z,z,ba)local y=y[z]y[1][y[2]]=ba;end;});s[u[o]]=b(w,x,e);else local w=u[o]s[w]=s[w]()end;elseif v<=5 then if 5~=v then local w=u[o]s[w]=s[w](bz(s,w+1,u[p]))else s[u[o]]=#s[u[p]];end;elseif v<=6 then local w=u[o]s[w](bz(s,w+1,j))elseif v~=8 then s[u[o]]=s[u[p]]%s[u[q]];else local w;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];w=u[o];do return s[w](bz(s,w+1,u[p]))end;i=i+1;u=c[i];w=u[o];do return bz(s,w,j)end;i=i+1;u=c[i];i=u[p];end;elseif 13>=v then if 10>=v then if 10>v then local w=u[o];j=w+t-1;for x=w,j do local w=k[x-w];s[x]=w;end;else local w;s={};for x=0,m,1 do if x<g then s[x]=l[x+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];w=u[o]s[w](s[w+1])end;elseif 11>=v then local w=u[o];do return s[w](bz(s,w+1,u[p]))end;elseif v<13 then s[u[o]]=s[u[p]]+s[u[q]];else s[u[o]]=s[u[p]]%u[q];end;elseif v<=15 then if v<15 then s={};for w=0,m,1 do if w<g then s[w]=l[w+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];do return s[u[o]]end i=i+1;u=c[i];do return end;else local w=u[o]s[w]=s[w](bz(s,w+1,j))end;elseif v<=16 then s[u[o]][s[u[p]]]=s[u[q]];elseif 17==v then if(s[u[o]]<u[q])then i=i+1;else i=u[p];end;else s[u[o]]=s[u[p]];end;elseif 28>=v then if 23>=v then if v<=20 then if v<20 then local w;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];w=u[o]s[w]=s[w](bz(s,w+1,u[p]))else s[u[o]]=s[u[p]]-s[u[q]];end;elseif 21>=v then i=u[p];elseif 23~=v then local w=u[o]s[w](bz(s,w+1,u[p]))else if(u[o]<s[u[q]])then i=i+1;else i=u[p];end;end;elseif 25>=v then if v<25 then local w=u[o]local x={}for y=1,#r do local y=r[y];for z=0,#y do local y=y[z];local z,ba=y[1],y[2];if z==s and ba>=w then x[ba]=s[ba];y[1]=x;end;end;end;else e[u[p]]=s[u[o]];end;elseif 26>=v then s[u[o]]=b(f[u[p]],nil,e);elseif v~=28 then local w;s={};for x=0,m,1 do if x<g then s[x]=l[x+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]={};i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]={};i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];w=u[o];s[w]=s[w]-s[w+2];i=u[p];else local w=u[o];s[w]=s[w]-s[w+2];i=u[p];end;elseif 33>=v then if v<=30 then if 30~=v then s[u[o]]();else local w;s={};for x=0,m,1 do if x<g then s[x]=l[x+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=false;i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];for x=u[o],u[p],1 do s[x]=nil;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];w=u[o]s[w]=s[w](s[w+1])end;elseif 31>=v then s[u[o]]={};elseif 32<v then d[u[p]]=s[u[o]];else local w=u[o]s[w](s[w+1])end;elseif 35>=v then if 34<v then if not s[u[o]]then i=i+1;else i=u[p];end;else local w=u[o]local x={s[w](s[w+1])};local y=0;for z=w,u[q]do y=y+1;s[z]=x[y];end end;elseif v<=36 then local w=u[o];local x=s[w];for y=w+1,u[p]do cc(x,s[y])end;elseif v>37 then s[u[o]]=true;else s[u[o]]=s[u[p]]%s[u[q]];end;elseif 57>=v then if 47>=v then if v<=42 then if 40>=v then if 39==v then s[u[o]]=s[u[p]]+s[u[q]];else local w=u[o]local x={}for y=1,#r do local y=r[y];for z=0,#y do local y=y[z];local z,ba=y[1],y[2];if z==s and ba>=w then x[ba]=s[ba];y[1]=x;end;end;end;end;elseif v~=42 then if(s[u[o]]~=s[u[q]])then i=i+1;else i=u[p];end;else local w=u[o]s[w]=s[w]()end;elseif v<=44 then if 43==v then if(u[o]<=s[u[q]])then i=i+1;else i=u[p];end;else if s[u[o]]then i=i+1;else i=u[p];end;end;elseif 45>=v then local w=u[o]local x,y=a(s[w](bz(s,w+1,u[p])))j=y+w-1 local y=0;for z=w,j do y=y+1;s[z]=x[y];end;elseif v>46 then local w=u[o]local x,y=a(s[w](bz(s,w+1,u[p])))j=y+w-1 local y=0;for z=w,j do y=y+1;s[z]=x[y];end;else local w;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];w=u[o];do return s[w](bz(s,w+1,u[p]))end;i=i+1;u=c[i];w=u[o];do return bz(s,w,j)end;end;elseif v<=52 then if v<=49 then if v~=49 then local w=u[o];local x=s[w];for y=w+1,j do cc(x,s[y])end;else local w=u[o];s[w]=s[w]-s[w+2];i=u[p];end;elseif v<=50 then s[u[o]]=s[u[p]]-u[q];elseif v>51 then do return end;else local w=u[o];local x=u[p];for y=w,x do s[y]=k[y-w];end;end;elseif v<=54 then if v<54 then if(s[u[o]]==s[u[q]])then i=i+1;else i=u[p];end;else s[u[o]]=s[u[p]]/u[q];i=i+1;u=c[i];s[u[o]]=s[u[p]]-s[u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]]/u[q];i=i+1;u=c[i];s[u[o]]=s[u[p]]*u[q];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];i=u[p];end;elseif 55>=v then s[u[o]]={};elseif 57~=v then s[u[o]]=false;i=i+1;else local w=u[o];j=w+t-1;for t=w,j do local w=k[t-w];s[t]=w;end;end;elseif v<=67 then if v<=62 then if 59>=v then if v==58 then s={};for t=0,m,1 do if t<g then s[t]=l[t+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]]+u[q];i=i+1;u=c[i];d[u[p]]=s[u[o]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];if s[u[o]]then i=i+1;else i=u[p];end;else local t;local w,x;local y;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];y=u[o]w,x=a(s[y](bz(s,y+1,u[p])))j=x+y-1 t=0;for x=y,j do t=t+1;s[x]=w[t];end;end;elseif v<=60 then local t=s[u[q]];if not t then i=i+1;else s[u[o]]=t;i=u[p];end;elseif 61==v then s[u[o]]=d[u[p]];else if(u[o]<=s[u[q]])then i=i+1;else i=u[p];end;end;elseif v<=64 then if 63==v then s[u[o]]=e[u[p]];else if(s[u[o]]<s[u[q]])then i=i+1;else i=u[p];end;end;elseif 65>=v then if(s[u[o]]<=s[u[q]])then i=i+1;else i=u[p];end;elseif 66==v then local t;local w;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];w=u[o];t=s[w];for x=w+1,u[p]do cc(t,s[x])end;else local t;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif 72>=v then if v<=69 then if v>68 then local t;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))else local t;s[u[o]]={};i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]]={};i=i+1;u=c[i];s[u[o]][u[p]]=s[u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];t=u[o]s[t](bz(s,t+1,u[p]))end;elseif 70>=v then local t=u[o];local w=s[u[p]];s[t+1]=w;s[t]=w[u[q]];elseif 71==v then if(s[u[o]]~=s[u[q]])then i=i+1;else i=u[p];end;else local t;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif v<=74 then if 74~=v then s[u[o]]=false;i=i+1;else if(s[u[o]]<=s[u[q]])then i=i+1;else i=u[p];end;end;elseif 75>=v then s[u[o]]=s[u[p]][s[u[q]]];elseif v<77 then local t=u[o]s[t]=s[t](s[t+1])else local t;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif v<=116 then if 96>=v then if v<=86 then if 81>=v then if v<=79 then if 78==v then local t=u[o]s[t](bz(s,t+1,u[p]))else local t=u[o]local w,x,y=s[t],s[t+1],s[t+2];local w=w+y s[t]=w if y>0 and w<=x or y<0 and w>=x then i=u[p]s[t+3]=w end end;elseif v<81 then local t=u[o]local w,x,y=s[t],s[t+1],s[t+2];local w=w+y s[t]=w if y>0 and w<=x or y<0 and w>=x then i=u[p]s[t+3]=w end else s[u[o]]=u[p];end;elseif v<=83 then if 82<v then local t;s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))else local t;s[u[o]]=s[u[p]]%s[u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]]+u[q];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif 84>=v then local t;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))elseif 85<v then s[u[o]]=e[u[p]];else s[u[o]]=d[u[p]];end;elseif 91>=v then if v<=88 then if 87==v then d[u[p]]=s[u[o]];else s[u[o]][u[p]]=s[u[q]];end;elseif 89>=v then s[u[o]]=s[u[p]]*u[q];elseif v<91 then local t=s[u[o]]+u[q];s[u[o]]=t;if(t<=s[u[o]+1])then i=u[p];end;else local t;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif v<=93 then if 93~=v then s[u[o]]=s[u[p]][s[u[q]]];else do return s[u[o]]end end;elseif v<=94 then local t=u[o];do return bz(s,t,j)end;elseif v<96 then s[u[o]][u[p]]=s[u[q]];else do return s[u[o]]end end;elseif 106>=v then if v<=101 then if 98>=v then if v~=98 then s[u[o]]={};i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];if not s[u[o]]then i=i+1;else i=u[p];end;else s[u[o]][s[u[p]]]=s[u[q]];end;elseif v<=99 then local t=u[o];local w=s[u[p]];s[t+1]=w;s[t]=w[u[q]];elseif v>100 then if(u[o]<s[u[q]])then i=i+1;else i=u[p];end;else local t;s={};for w=0,m,1 do if w<g then s[w]=l[w+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];t=u[o]s[t](s[t+1])end;elseif 103>=v then if 103>v then local t;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))else local t;s={};for w=0,m,1 do if w<g then s[w]=l[w+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))end;elseif 104>=v then if(s[u[o]]<u[q])then i=i+1;else i=u[p];end;elseif 106~=v then s[u[o]]=s[u[p]]*u[q];else local t=u[o];local w=s[t];for x=t+1,u[p]do cc(w,s[x])end;end;elseif 111>=v then if v<=108 then if 108~=v then e[u[p]]=s[u[o]];else if s[u[o]]then i=i+1;else i=u[p];end;end;elseif 109>=v then local t=s[u[q]];if not t then i=i+1;else s[u[o]]=t;i=u[p];end;elseif v>110 then s[u[o]]=s[u[p]][u[q]];else if(s[u[o]]<s[u[q]])then i=i+1;else i=u[p];end;end;elseif v<=113 then if v>112 then s[u[o]]=#s[u[p]];else s[u[o]]=u[p];end;elseif 114>=v then s[u[o]]=false;elseif 115<v then s[u[o]]=false;else for t=u[o],u[p],1 do s[t]=nil;end;end;elseif 136>=v then if v<=126 then if 121>=v then if v<=118 then if 118>v then s[u[o]]=s[u[p]]+u[q];else local t=u[o];do return s[t](bz(s,t+1,u[p]))end;end;elseif v<=119 then local t;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))elseif v>120 then if not s[u[o]]then i=i+1;else i=u[p];end;else for t=u[o],u[p],1 do s[t]=nil;end;end;elseif v<=123 then if v~=123 then i=u[p];else s={};for t=0,m,1 do if t<g then s[t]=l[t+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]]+u[q];i=i+1;u=c[i];d[u[p]]=s[u[o]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]();end;elseif 124>=v then s[u[o]]=s[u[p]];elseif 126~=v then local t=u[o]s[t]=s[t](s[t+1])else local t=u[o];do return bz(s,t,j)end;end;elseif v<=131 then if 128>=v then if v<128 then local t;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))else local t=u[o];local w=s[t];for x=t+1,j do cc(w,s[x])end;end;elseif 129>=v then local t;e[u[p]]=s[u[o]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];t=u[o]s[t]=s[t](bz(s,t+1,u[p]))elseif v==130 then s[u[o]]=s[u[p]]/u[q];else local t=u[o];local w=u[p];for x=t,w do s[x]=k[x-t];end;end;elseif 133>=v then if 132<v then s={};for k=0,m,1 do if k<g then s[k]=l[k+1];else break;end;end;i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];i=i+1;u=c[i];s[u[o]]=e[u[p]];else s[u[o]]=s[u[p]]-u[q];end;elseif v<=134 then s[u[o]]=b(f[u[p]],nil,e);elseif v==135 then local k;local t,w;local x;s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];x=u[o]t,w=a(s[x](bz(s,x+1,u[p])))j=w+x-1 k=0;for a=x,j do k=k+1;s[a]=t[k];end;else do return end;end;elseif 146>=v then if 141>=v then if v<=138 then if 138>v then local a;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];a=u[o]s[a]=s[a](bz(s,a+1,u[p]))else local a=u[o]s[a](s[a+1])end;elseif 139>=v then local a;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][s[u[q]]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];a=u[o]s[a]=s[a](bz(s,a+1,u[p]))elseif v>140 then s[u[o]]();else local a=u[o]s[a]=s[a](bz(s,a+1,j))end;elseif 143>=v then if v<143 then if(s[u[o]]==s[u[q]])then i=i+1;else i=u[p];end;else local a;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];a=u[o]s[a]=s[a](bz(s,a+1,u[p]))end;elseif v<=144 then local a=f[u[p]];local f={};local j={};for k=1,u[q]do i=i+1;local t=c[i];if t[n]==18 then j[k-1]={s,t[p]};else j[k-1]={d,t[p]};end;r[#r+1]=j;end;br(f,{['\95\95\105\110\100\101\120']=function(k,k)local k=j[k];return k[1][k[2]];end,['\95\95\110\101\119\105\110\100\101\120']=function(k,k,n)local j=j[k]j[1][j[2]]=n;end;});s[u[o]]=b(a,f,e);elseif v~=146 then local a;s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=u[p];i=i+1;u=c[i];a=u[o]s[a]=s[a](bz(s,a+1,u[p]))else s[u[o]]=s[u[p]][u[q]];end;elseif 151>=v then if v<=148 then if v~=148 then s[u[o]]=s[u[p]]+u[q];else local a=u[o]local e={s[a](s[a+1])};local f=0;for j=a,u[q]do f=f+1;s[j]=e[f];end end;elseif 149>=v then s[u[o]]=s[u[p]]%u[q];elseif v==150 then s={};for a=0,m,1 do if a<g then s[a]=l[a+1];else break;end;end;else local a;s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];s[u[o]]=s[u[p]];i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];i=i+1;u=c[i];a=u[o]s[a]=s[a](bz(s,a+1,u[p]))end;elseif 153>=v then if 153~=v then s={};for a=0,m,1 do if a<g then s[a]=l[a+1];else break;end;end;else s[u[o]]=s[u[p]]/u[q];end;elseif 154>=v then s[u[o]]=true;elseif v>155 then s[u[o]]=s[u[p]]-s[u[q]];else s[u[o]]=u[p];i=i+1;u=c[i];s[u[o]]=false;i=i+1;u=c[i];for a=u[o],u[p],1 do s[a]=nil;end;i=i+1;u=c[i];s[u[o]]=d[u[p]];i=i+1;u=c[i];s[u[o]]=s[u[p]][u[q]];end;i=i+1;end;end;end;return b(h(),{},bq())();end)('24E1F23A1F24Q24127924024427924126D26O26R27126S24024727D26Q27227326Q26O26D27K27D26A26D26B26W27326U24024527M26X26O26B28127D27027R26X24024327D27226A27B27D26T26S26R26C28028227927F26A26Y28728P26G26927J27C27926927Q27127124024627D26U26S26D27Y26V27228T24129A29C24D27U29827029827R27G27I24024227D26B26S26929P27U26C26R28H27928926D26Q28B24927D26D28F27W27Y28029527929726D26V26S27326F27T27927Y26A26S26B27S28O24126U26A29X2402A527925Q25J25W25F25E26026626729Z24127127226E2AO29D23S25K25V21A28D27D24125T27225T24022Z27D26C25924Y22J24426B24I24Q1T22V24V26M23822W26E25F22023W23K1U22I22U22326R22924Z22T24A27323W24O27124S27126Z23B1Y25223N23H1N26A22D25E25A25721721F2BP24625F23B24M26221G21824025C1B24X21524N26P24O24A24821B22J27327024D22C23X25E1F1T26R1926N26Z2722681026Z25T26B24E23W1W1Q23J1621L2681726S21S25N21O22325X26024V22026C252122371S24E26T21B26F21921G1C27225U23F21S1621325825Q1M23G27125F22M25P26224V25821V23V25325O2531C26122926P21S2682361R25G21K23524F2412311A21F22A23723H23T23C23N25K1D24S23L21P1Q26N23A23125B22S22H26T22G23F24127024P26B1F24N22Y1C24626I25826Z21B22Z2441Z23J1725V1624D21C24M23Z122511121D21E21Y25I25J2671I25227321Q2431122V21U24B23826724O24725S26Q23C25A26Y1426W21G26N25C26Q1W26Z22H2481R26J1E22Z26E25125C22824B22X22723Q25J2BI2BJ22P24U24024027D24729V27925B27226N2B726927X27327S2IT27926B2IO1H1222522D25S29D26E2842J527D24N29D26T26C27029U2J624123S2IS27D2532JT27923M2IW24125D26124929D23M25K26421K2JW24124K2K92442K92602K925M28C27D25M24324024A27D24Z26026321427023M25O27223C1625E24025J23M27925U27223O1T24I25S24424B21721024D26621U22J25T26U23J25A25321823022B23H25222U23R22A24S25L25524F25R24E25P25K21F1G23Q24X22721025U22V23R23X23V1P23A22G24G24K26P21Z26F26K23B1Q25Y26U21K23R1O24124Y24A24Q24U1O23025M25M24K22P25N26S21N21725E21Q26325P25R25U21C25K24525T24U25622T21821Y21C23E25S21Y25E1327123E23H26E26M24E23I24N23O21E21X21724P25C1P2661O23621M25M26C22223B21E1H23X26Z22822325Q26P1T27326I24923V23825A23L26T23M22226N22T25J23525Z21Y21926T1D21J24P24K22N21M101M21T22525B21P25126P21N26N24X23G21926321S22K23S22F23325322Y21Q24M2LZ25V21L24622L21N24G24V23Y25F1P22L24J1M22121U26D21H24Q1424025221G26R21J2381023I26S2IZ22B23K25K1924M21J22M23B26521U26J24E24M26F25I22623Z25R21U25R1726523N25C1G25P23224V21A2652R024G23N26S22U24Q22M23F24W26U25T26Z23O23224M25V24126M21B22F2482LF22J2HW23I25R25222L22W22M23H25H22U23Q22B26725L25B24F25L24A25G25P21D1K26R24X21X21126322T23N23Y23M1T1422K24K24G26Y21U26826K101Q24H26V21R2MS24525D24B26624Q1V23125K25M24S22Q25L26S21M21A24Y21P25Z25O25M25Z21G25O26925Z24P2561L21922321G1125U21R25I2362711423G26926N24B23J25W23L21D21S22L24S24Z1T24H1Q1421M25R26D2202OG1H23T26W21022225G26T1R27324F24923Z23925P23L23S23P22226M22R2P225Z21X21523M1E21U24O24L22G223141J21X22325A2232HK21M24F24Z1F21425Y21W21A23X22C23225D23322124M25L24F25Y21P24E22I2252S323U25O1O22M24I1Q22221T26D21E24R1124125721G23O21F11111226S26V26H21123K25Q1825Z21J22A23526221S26G24E24I2R822523X25O21D25R1626026U25G1P25P22Y24U21A26121I22H2UT26W2C02RV24X26V25T23Y2S124J25T24524C21722M2492R322L25W26P23E25124Z22N23221323I25C22T26T22926725N25424E25K24A25Q2SV1K23M25122021126222R26T23T23Y1T1A22M25Z24G26V21T24726L2TG24H26Q21E23L22W24125G24E26724U1R22X25I25O26422Q25026S21L21B25F21R26025O25N25Y21L25Q24725X24Q2561H2UE21C1825X21T25E23926X1C2UO26M24723I25T23K21Z21V22L24O25E1P25Y1R23421M25N26821Q23921H1G23S26W21322325R26S22Y26Z26N24823Y23B25823K26X23L21H26I1G25G23725Y21Z21826O1C21U24P25Z22I21K1522V21T21X25722225226Z21N24925323C21826321U21423T1Y2WL23221U24N25M24F26221L24422K21P24H26623U311J21924I22U22521H26921X24V1024125P21E26S2XE1023A26R26R26H21723L25N1825S2XQ23424R21Z24B24A24N26A25C21P23V25421T25523524Q26T24W1H25522W26521A24P21L21625V26O26S1I2672281C25F26Q24L26W26R23324M25T24126G2192122LE21Y22G25V26V23I25525321223122A23D25F22Q26V22F24Q25P25A26L25N24525M25621Z22V23K25D22621A25Z1G26Y23Q27222X1421A24K24U23P22624024F1223224J23L21F26S1S24F25G26H24V2651Q22Q25I25924L1H25726Z21M22N25F22426125F25624H21X25L26B25S26425822P21422721G1925W21Q25E2372NU23H24026I24F23F24G2O221X22H24O25O1P24K1U23A21O25B26822323621I1J23S26X1Z311Y26T23326Y26M24923P2VL23L23T23P21O26I1L25F23425V21Z21723P1F21H24T24O22L2231522T21X22425B21O25127121R26H2501E2PQ2PS23S22E313822624M25Q24D25W21K24222K21H24L24R23T25K1P22M24J1N2UF26D21S24Q1224025621C23X21F131723926O26Q26H22F23K25N1A25Y21J1X23924V21U26E24E24H26E25N2262Y021H25R1026126X25G22U25P1S24Q21526122522H25Y23M23M22O26222J23J2502YL23T23O22Q24J25Z244314522A2LE312H25W26R23E25A25H2171O1Z1A2521K23Q21324R25925926L25K26M316621U22V23M25D21L21A24H1G26V27327222Y1722H24J24L23L2MK26G141U24G26T2TK1S2402WQ24U2TQ22W25725Q24T22U25B23R21L22K25322026425A25N26121V25626H24M24N2501N1Y21N21V1F26121D25223423Y1923724326924E1D26426S21J21D2172NB23224H2331322125K24022223C21G1L23Y27122C22425826P2322OQ24B318V25423L23U23L22126J22P25E1425U21U21923L1E22024P25U22M220131J2PG25722025327021M2492521F21826621T22H23T22L23324Z23221Q24J25O314G21P24722H21L24M24R23V25B1T22A24K22Q22121W31AE2X824025721H23Q21I151523826O27231AS2QW1C24R21J22823824Q2HQ2XW26B24Z22423Q25P21C31BB26026O25I1N25P23024V21B2YD22H25T23N2YH24V2YJ26V25V23Y23L1Q24M24L24026K21622D24926721V22N25W23Q23I257252213315T23H25N2SL22B24O25K2LX25Q24A25K25O21X1K23P25121N1X24N22Q26U23S2ZS23A22K24L24K23Q21T24526K2361Q25W26Q22523Q310725L24E24R24U22Y2TS25M24R22Q25426S22221725G21Q26425P25I25Y21D25P24425T2602NK21822221D1E25U3114142711D23H26K26M26I23E24I23K21F21X21A24O25I1P25V1R1121M25K26C22423A21Q1H23P26W22F22625426T1T26Y26N24923X23525823P23Z318Z26M22T2UK25Z21Z21926P1A220319B22N21E1122Z21V318F22525123X21N2482PO21825Y21S22J2WJ23325E23322624N25H24C24L21L243313H313J23U25M1T22J24J22U22421V26921I24R2392QL21G26U2XE1423B26O23M26H21223O25R1824K21I22A23824I21T24924E24J2C52272WY21H25P23626026R2RI25O23124U1Z26521N2QC23P23L22O24I22H1E25227225W23O31BY24I25X2KM21722C24826321V22I25T26P315P25222J315T23G25H22V23Q22A24O25P25824F25424F25525L21Z1K23L2502201X26322O23O23S23Z1T1231JE24G26Q21X26B26L121Q24L26V21L23N1P24125324F24O2TQ2TS25N24O310I26V22121725J21R2662U431KA25L24425W24O2UC219225317T25Z21U25J1431172NW26N24A23J25Y23L21C2VV24O24W1O25V1Q12311O26D221318J311U26W21A22225K2VF27124B24F23P23724Y23R26T23L2PM22O31QU312G21523L1D2VZ24L22J21N1422O21W22125B22525026Y21L24B2521831MF21X21823U2PV25C23322724L25R24F24L21K24522K21L24K25U23Y25L1Q22G24I2QE2QG21E24P31N725L21H23L21J181423431H726H1X2XM1924N2R02382R324A24A24L26A24X22223Y25P21Y25K23926526O2RI25Q31O41Y26421M22L24L23N26T22Q24R22I1B31BV25Y23Z26V23225Y24M26B26N22G22A26L2672YE24J26U1A25725D2171V22A1925322W26O1W24V25A25L26H31JS25R25K21H1I26V24X22521125U22O31JA23Y1S1B31JE24K26R21W26A31D91U24I23P21R26R23126E25D26L24S26122Z1Q25O25524O23125Q23N21J22G25J22324R25525424L21J25E26D24I2WP1O22G21L21Q1E24L31KB23B23T1A1E26A26926M23425S26R21H22321124M2Y925T1K23B22525926822123721W1N27127021222625P26V22V26Z26H24926Y23925Q23P27023O22031FH25J1525Y22321923R1B21F24V25S2PC1122Q21Z22125A31SA26Y21N24D2521931MF21S21723T1X22Z25H22Z21R31GG24A25Y21R26E22L22024K25V23W25631V024K1Q22121C26D21J24R23831AI21C26O21G121523626O26U26G1W31471824M21I22D23A24S21V26I24E24U31HJ2XZ2Y131BB26326R31BF25O22Z2YB31HY25W23K26R22U24U22N1A24W26R25S26W2L631C024424321722924931QS2SB26Q23J25431IO2301W2LQ22R23L22F26131P624F25B24C25831PC2M425222131PI31J9311V1T1622H24H24L23R21X24626G1622X24L23M22626O23026A25G26I24R2621U1U25M25A24Q1L25423R21N22N25321C24S31DW317J25626D25T24S25B22Q21621Q317T25U21J25D2382711923G26L2UQ23E25W23P21Y21T21824S25J22Y25T23023422525P24722623D21X22U23O23V21B21W25M26Z1Q23S26K24623U112572A323Z22226822O25023C24I21Z22H26R23H22126625Z21B21P23A22S21D22431TT24X26Y21Q26M2PO21426721W22L23V31GB25I23221P24N25524B25V21O26B22G21O2Q7313L1P21424N22P22721Y31N4313U24231H023K21I1331NC26P314421723K2551825Y21F22F23526721Y2UQ24I26824Z22726Y25K21P31TY26123N31BF25P22W24U21B26421P22K25U23M26Q22U24I320N24W26O25Y23P23O23024I25U24426M21722A24C24V21S22825T26V321325321A23222923H25I2LS22F24I25P25724E25H24B25L25O21V1L23Q25022621024J22V23O23W2711S1122L24G24H26S31PT26K131Q24P2TJ23R1H240310924O24V1Q2302U424O22R25B26S21O21725121R24Q31QI31NX31QL24Q25A2NL22421C31R021V25I1627023H23H26L2NY23I24H23K21H21X21624O2O724I1R1321N25P26C21V23A21J1H26X27022822231LH22Z26Y26L24D31XY25R23L271312A26N1K25F1625Y21V21926U2VY24P31S221R1522S21X22225B21S2PK21N26L24Z313124S21T22G23T22D22Z25E22Y21K31GG24E25Z31ST22L21L24G26723Y25E31GR24M1R22521Q26B21Z24T192462QM23K2QP1423626U23Q26N31462QX24G31NM2382663262325526A25E22323Z25M21X25Q1126123P25G1K25N1O2YB26522322L25U23R26X31BR22N23A24W26P25Y23X23P23024J25S24524F2171Y31C521825X23R23F2BS21A31IQ25N31P22SN25R25P24E25N24B25K313X31J3250321L26322R31PL2721P1322L24I31PR2X52MM1Q24I26U21M23R1Q24124Z24A24I24T1R23125M25N24L22R25526O21I21924Y21N2SO25Q2NE25L2692NI25A1G317R317T25Y317W23A311723I31X431QZ26423L21I323B24T24X1S24J1V1421Q25O2472241121J22U26X23V1Z21P25426Y1V27326G24D23W23825B23L26S23L21L32A925D2UH21U21526S1A21T24T24H31YG22Q31FX22024X26W21R24C24Z1D324U21S21A313623325G2322272Q032B631ST31A3325B25O1T22B24I1K22121I26D21U24R1524525Q21I23X31H331ZQ26P26V26J2XL25M31TK21F22N23424S21U26F24F24J2R822731TV21J25N31TZ23Q25C22U25O22X24U216326J326L31UA22U24P32CR24W23M25Y320S22W24I24L327021B1X24826421U31HZ26S23E25M2512Z322C23J24X22S23U22E24S25K25024C25L248321H21S1G26T31VH1W25Y22Q26O2ZR321P318824K26Y21X24E26G1D1S25T26Q21N31Q12TM2MW2TQ22X25R31DM22U2592TY21724W31K625P310R21L25P26F2NI2551K31KH21D1125Z21F25I23426W23C23C241318223E25Y2QO22322I24N25F323F2331221G25I31XJ31RE311V31RH31RJ1R31RL32FV23525731Y1318Z31FH319331FL32G71E21W24P25W22J21Q31FV32GF32GH32GJ25331SG24Q21S22H23Z21122X25022Y22331GG325531GJ22M22124G24S23V25R1P22A24I1L22121Q2QH2X82XA21G23W21J23B141326Q26T314523K2561831TL22E23824P21U24C2XW32C522332682U71D32CD25H1J31O332I632CK22L25X31UA22Q266326R26Q25V23U23K22R315E2462482YT24924R21U22K2SC25A2SF2LO23J2SK2SM2SO2SQ2SS2SU2SW2SY2272T12T323W2MD13321R31VR21V26B31JK1R24K26U21E23R1V24125K24E24P24U1U23025N2N222Q2N522221525D21R25Y327K25Y21G25P26825X24S25622R31KH21G23G25W31141527315318031LL23I31KV21S2VV24S25H32FB32FD21M329P22223A21X1H2732VB22225O26T23126Z24824F27132LC32LE21O31Y523B32AD21923K32LK24T25W31WT1422U319H25A222250270312Y31G421A26032AX31GA22Y25023122024N31JS25Z21N313G22224H26023U25Q32H124M1H22221G26D21F31N631GZ21I26O32MP31ZQ31TG21023K25I1824G21J22E31B031B224E25T26E25322223W25K21Z25M1426023M25E22P25L22X24Q21726121Q31BN23R26O31UC31BT31BV25T31BX31BZ31C131C332D531C731C931CB31CD31CF31CH31CJ31CL31CN31CP25631CR31CT31CV31CX31CZ31D131D324J24K311E26F31VV31PR32JU1P32JW24Q32JY25R25L24P31K026T21J21625J32EN25K25632EQ26B24M24O2511O22J21L21V2FL21J25123A31EE23724424924F31EK26S21Y21D22G24O25D1P25U1R23B21N2OD2221521R1U26W23Z21021L25N26Y1Q23Z24C24D23Y23525K2MB32LF22P32LH32G632G832GA32GC21M1722Z21X22625B21Q31MA32GJ24Y23D324U21W22N23X22E22Z25222W21M32M525V31GJ325924K26223Y25N31MY24M1J22321F26C21F31AG24025A31TA31TC141031NE26L1Y23P2571C24J21E2XR24R21Y24C24825Y32C531TU25K21G32SF31U02RI32SL32SN26721O22K25V23M26S2C022N1932IE25Z2C822Z24N2JK24A21B22D26I26121H22H24N23Q1D25525D22J22R21323D25D22R26O22D2NB25824A32DH25P321I2M531VI2M926Q23U23T1S1631JE2TI21T2TE2351V24I32JT23M23132JW24O317332EH25H24R317923K21L21125N21N26525L25925S21T32ER32ET32EV317S19322Y32KL311723J2NX2NZ24N23K312S31KZ2Y725W1R31LA25Q26921R318J1J26X26W2OL25L26T31XU26K318U23931FC27123K21K26N22W25J32AC21J21B32AG31FQ32LN21Q1522R21X22725B21N319L21P32AT32GM324V22L2WJ23224X22Y21U24H25932M624732WE26223V318A22I2X222021F26921Q24U13244252313Y314023A2XI32WY23K25L2QY21J1Y23824O21V2R524U26E327U26Z32XD25Q1726126P25G22R25P1Q24U21526521R32NH23N23M22R24Q22J23B24Z26R25U2VO22R31C028C315I315K22G32T325824Y21A22W22E315V22R23N22B24J25L25632YL24925L25P21U31F132DO31VJ2SL23X27332DU31D425V26S21I24724B235321Z23L22623S22W24525F2MW24V32EC25J25M31QA25K26Q226310M32EN25L32EP21C32ZO24U32EU32EW32ZS21J32ZU1C23H24626M26H23I25X325N21W21B24P25D1O25X1R1D21M25731L823631LB23V311W22225526T22Z27224B24B23O32FX23K26W23K21O26L22U25J2392P42152701A21Y24P24P22I21Q32QT21W2252W824W23T21R26I24Z23F219265319S22B22Z24W23222431MO32B621L24F32B924G26023V25Q31WS31T322021H32MK23A24025M32WT1432MR325R26L31AT25O311221J1Z23426521V24E24E24V2C522626Z25O21F25Q1226126T25G22T2RK24V21426521I22L25Z23N23P22Q26532NM32NO23K2L724N2LA32NV32X621A32JS23J31IN21723122C23D25222V26O22A24V32ZK24A25M24E31V821Z1L23M2502271W25Z22R26V23W23M1P1A22H2PA26Y31D831DA32TQ32JV25D32JX1V32JZ334H22Q25Q26T328R25I32P82M12NE25Q26D25X24R2571O2UE317T25V21V31QU311723D26F24D24A23424I23Z21G21I32I725F1N2671V1621Q339Z22731LA2V926W22B31F531F72OQ32LB32LD27032VK3193312G31FN1E313T31YF21M31YH32GF319L21N26H2531921624U21Y2182WJ31YX32M331GG24D24M21L26922L21K24G32NO25P32ME24I1G32H526C2X71931DG21G26O21H325P23J31NE31NG2XM1824H21J21023824U21Z26M314G26B25231TU25Q21P25Q23531O025H1K326F24U22M26521P22L25V23R23P22U32NL23E24X326T23P23K22X24G25T320V32D324926232IQ25S31OV2SE21723222823G25I22V26U22B24P25K2ZD25G24A257313X1G23O24X21W213327X26Q32OG333Y24H24I31JH2683101328B26U21P23R1G24125E31JT334E23125I25M26322Q25K33EJ21725M328U25P25M31KA25P26B25X2652UC21522632PK32PM25E32PO32PQ24032PS32PU32PW32PY32FC2V332Q232Q432Q632Q832QA32QC24824C23X23725M32QI32LG23425Y21X2P61E21H2PA22N2271622P31S725B22131SB21M24832LU336L21U22I23S229233320E21M24K31SQ25Y21K24322M21R32MA23V25L31A932BG313Q26E21H32H9337821G312A23832WV325R32MV25L1824Q21J22C31HF332A3205332D337R25K21I25M2R226O25H32P31O32SN32SP32SR32ST24R32SV26V32CV23R23324I26224524E2LC249263315L32D723E333B2181V22B192521G26U31V631CL26I25O26H31IW21S333H25I22122D24M23023L26Z23Y22Y23A21631JF26P21X26D26I23931DB32JT339L339N32JZ31DM22P2552TY21625N2NA334O25V21W32ZO2LV1M1Z21Z21Z23J24L21E25P23423U31X126826826M317U26R21M32US26424X311K1Q1632Q126C22623B2M323Z323R21X25523M230323X24626W1125P23P27223P22726H1G32VM32G732G932GB32GD2PG25921T251312X26I3130324U2VV33BM323E22124J25B24924I32WD21O32WF32WH32WJ1J22521J31N424P1424125621H23R21J1032RW31H822C32MW32X221E337J314D26I24B314H24X22027332XD32XF31U11G32XI32SO32SQ31R126Q22V33CZ23F24X33312S01U24N25U2KM21A1Z315K22I24J26S1925932YA33IH31CF22W26Q22F31P525R32J82M032YO31VH31VJ22V33EA32OH22N24J24H26U21S24233EH2MP22623M1R2TM2TO32JY25P31WA32P026Z21L22G25H223317G25I25U21E25L24225V267334T32ZR32ZT23433AA33J924F23G25Z31KW21X22N24O2521P335B1533KG21L318J1K26W31XP22031LH1O318S330J2592OW23L21R26N22O25I23831Y82192VX21G24R24J22J21F151N21X31S822125131YN26N32LU21532C233BL22C33BN32M425O24E24N2WT2WV33LP32WI22J32WK22121E26D21V24R1424625Q2IO2BJ24129427D25Q25Q27Y28J26H24024B33QR25Q27326S26E33QU26S33QW2AC24133QS26926O26W26B28G2AX33R833QT33RA33RC28G27L2AY33QT26D2BC33QY33RM2A727V2J328033RQ24125X26S26Q26B28V29927O33QN2411H25U25T33S533RX2BN33RW2B926O26T33RT2AA24031Q227925S27126O26A25932GH26D33DA26928W28531TS26D2JH24X33SY26S33T026X26B27226S31TS27231VG31ZS27O26G24X28426F33T226R2XI26O2922AH24X29K33SQ26O27332JC33T124X2AN27326A27R26W27O31TS27N26C33RD2AA33T333T528M26X33TN33TD33TI33U528533T233R426A33S0315B29N33TD33R533S026C26Q26W33TY27Z25B24023Z27D25W26H26Q26C2AN33TN33T226A33RC33SQ33SY26W31TS33V827325233SS25D25E25G25B2412282JQ1K33QO33VM23N2BJ2JQ24X33VM2792IO33VO33QP24129Q27933VR33VW2JQ2AR33VV28D28Y24133VV29Q33RL33W727928233VY33WB24127C33R733VV27L2JQ33VV29533RF33VV2A524827D24323V24133WR2BJ33WT24133QY2JQ2472X92KN28D2IT33VY33VV2412AR33QO33X833WW33VN33VS33QO26O24129H24C33VS33W033XK33WA33VU2792FW33RW33W024E33X927D2AR33W023L33WG27D2KN27933RL33XZ33WU2IT2IT24526J27D33Y624124X27224133XZ33W629H27923N24U24123K24133XK33VZ2S433VO2AR2FW33VZ2JX33XV27933XU33YW24123P33YY33YG27D33W023O33Z433XZ33YK27923R33YN27D33VV23Q33WF33YD27923T24133WA2L233Z123S33Z433Z333QO29H33ZQ27A2BJ26D33YP33XF33W733YM2FW33Z833VZ33YF33XU2AR33ZD27D26L33Z533YV33VM26524133XU2IO33QN340B33XZ33Y233XB25C33ZE33ZH33YK340O33VO33ZL340R2412L233ZV2BJ33XZ33ZO2412IO24732OT33XU24G33VW33XZ33Y927D34172J625333ZZ2JQ2BJ33YE340G33Y0279340M24726G341J24M33W133X933YA279341Q2IT341I33XU33YI2IU271341J21F33VW33WC341T24134232IT247342133XK26B3424341S29R33VW2RH341J33WU27D27C33XZ33YJ340N33ZE342K33X9341733XU26933VW341I2L2341Z27D1M33Z233XI33ZF33VM33Z8340M2BJ33VV33ZD23U343424133ZH340U33WF33ZL340Y27D33Z8343F33QO33XU341133VT2BJ340B33Z3343733ZF340O33Z823X343U24133ZD343F342I33ZH343I27933Z3340Q34122IU32OT2L225M33VW33Z3341A279344C341W33YF342Y27D342O33WY33Z333WE241278343633VS3439241343B33ZB343D241344133ZK2JR3435344Z33XF343N33QO340J3432343T340V343W343Y3440343Y344333VM344633WS3449340W241342V2IT344E3426345N3401345L23W3420345L26W342E344F29E342H33YM2L2345U27D2643459344T27933Z833UV344X345E344X345G33QO345I343P33VZ26Q343233ZS241340D342I33ZD23Y2BJ2583432340933VM2IT343O345Y3426344H342F2AL33VW345Z345R245340B27923223228D341N28833VX241347A347727D347A347C341O27933YF29Q347A24724T27D24S33VW347H25D341J347U33Y83426342833W7340O33XU342R33Y0342N344T340O33YO342R245342T24121C342W344J341K241343725P3432342O33X8241340F2L2340I33Z6348I341133W02793466343S346824133Z824W343C346D33WF346F2BJ346H344833Y3344A2411T344D3472349E348H345L33W6340M344N33Z4348Q345L348T3405345L348W2BJ348Z348K3491349334953454346E3452346G344Y346I33ZM349D348G345O349H34A9345S3463345V2L21B346Z27D34AH2IT33YL345T349V346733XE3492241346B33WF349633ZG34A3349934A5349B33YD346K33Z3346M346O340O346Q346S346U33XF346X33QO33W23426349F348034AJ3474342634AC347I3479347B33ZM347M2411F347F347H3478347G34BN347D27921D34BS232347R27D26F347V2322TM341J34C4344I341J2AR24Z345V33XU21A34AI27934CG34AL34842413486342M343333VN348A34CM33XW348E21B3461345L33RW33X2343227C33X6344X349O3438344L33XF33X8348P2BJ15349Q27D346M342A345L21834CH24134DH34AL33YM33Z83464348Y343Z349X34AQ33ZH34AT33VV33ZL34503452344434DQ340Y2IO24X346K33ZD346V34B53454346R27D346T349634BC34AR33VP33XW34261W34BI27D219342425533ZI33VM34C733XU21K3424346R33XK348634AO2FW345A33WF33XU34DU27933XZ34DX33YO34DZ2FW33YO34A6241340B33XU34EZ342I33XZ3447342I33YO3441340S34AX27D33XU33X83458340L348933ZE24Y343Y340T343Y340X33VM3410345J340A33ZE34FE34FL34FU340V2L234FK343234DZ33YO346M345833VO34G4345L251343Y33Z334G933Z834DZ33VO340434B034FB345L34GG33Z334DU343V34A1348334E033VM2L2346V3458349034CQ34AR34G634GY34AV340O349834DD34AZ3458344S34H533ZD34GV344Y34G9343H3453343F345833ZD34GG33ZH344W34GY34DW343Y33ZQ34DZ33ZD34E1343Q344Y34GG33ZL343X340V33ZQ34G933WU34DZ33ZH342R345833ZL34GG33ZQ34HS342I33WU34G9343B34DZ33ZL34HS345833ZQ34GG33WU34I434GY343B34G9343X34DZ33ZQ34IS345833WU34GG343B34HI343X34G9345U34DZ33WU34DO3458343B34GG343X3494340V345U34G933UV34DZ34J334G1279340B343X34GG345U34JF34GY33UV34G9346R34DZ343X34E934GQ340B345U34GG33UV34HI346R34G933VR34DZ345U348X345833UV34GG346R34HI33VR34G9349434DZ33UV34JS3458346R34GG33VR34H7342I349434G934CD34DZ346R34CD34FA340B33VR34GG349434HI34CD34G934FU34DZ34KQ34JM34GR349434GG34CD250343Y34FU34G934GI34DZ349434GI34KZ32E734DR342P34FU341E340V34GI34G934LF34DZ34LE34LA340B34FU34GG34GI34LS34GY34LF34G9341E34DZ34LR34LZ24134GI34GG34LF34HI341E34G925234FM27934GI34MJ34LN34LF34GG341E34LF340V34MJ34G934EN34DZ34LF34EN34LN341E34GG34MJ34MN34GY34EN34G925434MK31Q324134N834LN34MJ34GG34EN34M4342I34N834G925734N934MJ34NL34LN34EN34GG34N834NH340O34NL34G925634N934EN34NX34LN34N834GG34NL34HI34NX34G925934N934N834O834LN34NL34GG34NX34LM34GY34O834G9346T34DZ34NL346T34LN34NX34GG34O834MZ34GY346T34G933VH34DZ34NX33VH34LN34O834GG346T34NC34GY33VH34G925A34N934O834P834LN346T34GG33VH34NO34GY34P834G924H34N9346T34PK34LN33VH34GG34P834KR340O34PK34G9341734DZ33VH341734LN34P834GG34PK34HI341734G924J34N934P834Q734LN34PK34GG341734PS24134Q734G924I34N934PK34QJ34LN341734GG34Q734O034GY34QJ34G924L34N9341734QV34LN34Q734GG34QJ34HI34QV34G924K34N934Q734R634LN34QJ34GG34QV34OB34GY34R634G924N34N934QJ34RI34LN34QV34GG34R634ON34GY34RI34G9341Q34DZ34QV341Q34LN34R634GG34RI34OZ34GY341Q34G924P34FM346T34R634S633VS34PK33YQ27D33WL340O2FW34PB33ZM2X933XU33WK349B33X8340D33XB34FN33VS34CZ33XZ29533Y734D334SD33QO346R34F933XF346R34D934SZ345L33XF349N33RF33RX34EE2IU27D33ZA33Z834PN343234F3346924134PZ34TH33Z534AR34QA34TM34TE24134QM34TQ34TJ34QY34TU34AR34R934TM27D346V33ZW34TI34DQ34TZ346M34AW34SY345134T133VS33ZQ34U233VM349833WL33YM33ZH34SY340B33ZL34T434JN345234UE27D267344Y340Y34UH344Y34UK3454346Y34G234UD33XF34US34UG2IU2X933ZH33WR2IT2AX33X833XA34D527934U9343C348J34SQ279342O34VI33ZE349134TB34VL344P34VD341J33VS34UL34AZ33QO34JH342E341G34EN34SP33QO34CZ33XR33VW2BI33X834VF34D334VC33YK33EM2FW34RL33WF34WD33Z633YZ33ZZ341U34WH33Z534SD34SA2BJ2FW33ZA34B034AM33XU24O34I033XZ34W127D340F340H34LA345U33XU2JQ341G33SK342E2BJ340M2AR33SA2IQ33SA34FA27D2BN342624Z25H330C33U129S27R33U333V333T933RO33R132JC27033TD26X26S28533SS33T933TU2A733R125B24X25E34XX24X26T26W26S32JC33TQ32JC33R333SY33TE2AO34Y934YB34XU33TD33SN27V24X26E2852702YK26S26S2712AA31TS29B26B33TE2JN33TQ26W26D26G25B24Z24X24U24X26328F29T33U931WO33TK27Y24334OG241173400340V33X5343Y29Q2IO24F26S344833Z334BD34HC2IT34ZU34ZW341R345Z34ZX33YD33XK34VC33WE24X33XK34D127D33WE24734N828229H2IT27C345Z350I34VJ347F33WE33QN1D33ZM33QO33XX34RI27L33WA34VQ24134SV342L34WL29533R73509343P2IO350Y2IT33R7340033WA2BJ33XA29Q3429315F27933ZH34SW345Z351J34UO34U333QO350128D34CD34ZY279351S350634D433WE351Q241345U33Y8349H3521350N29Q350P2BJ350R33W633WC33Z61833Y033W6350925K3448351734I0279352A34EG27D351M24125O347F34XE24134X7341G33VS34X533W62J227Y33ZY33XA34ZN34ZO34TS34W533XF352R2IT352T352V353533WA2JZ2AU29Y2AR2A3285352T33S52352BM34XC2IR34XI34XK33V834E334XN26D34XP33TU34XR2AH34YC33UA34YI34XZ33YE31VG27V27O26S34Y534Y733T234YA354134YE34YQ34Z533U934XX34Z1354D34YM24X34YO33SS34YR26B34YT2AG34YW34YY2YK27234Z126X34Z332Q734Z634Z834ZA34ZC34ZE26934ZG27F34YX27324234TP344V3535352T35353535352W347F353534WA34WL2822AR355J352M341H352L348J33SA351C34VI29533WE33WP33Z433VV33WR33W628O2952L22J6340B2KN355R34UO29H33RW33QO340F33X434LA33XZ27L33RW3437356J34LP33RW34C72952FW3568350Z34GQ343Y2A5352A27C33XD34H533QY356434172A534O8341W34Q729H340M352A25F3433342O33VQ350N342O355R33XK355J34WP34D4343M355H34FR340033YO34EZ27D34F834LA348M2FW33WA34SP26E34CB34ZO34SU34ZO33YO34VK33XE3586357N34FP2BJ348M34SL34SR33QO33XK33Z034GQ348M33XN27D34SY33XZ29Q340M34SD34C72A533ZQ2J625G2412A5352T340B33WR350Y341L358W33WV33XF25R35933400353C34ZO34X525H2KO26033SS353T31D033SS354J33T633SX33SZ28926Y33T234XL2A733S133SQ28L359I33V8359R33TD33SY27R33TN26O359O31TS359J33T7355325835552AN355734Y6355927Y34GQ353434ZO35993400352Y27D29033TK342133QN35AG359834SE355F34SE2AR2JM2JO32WR27D261354C26W32JC34Z524W24X35B033MU28V33SO2AN33TS34Y82AH33S033S2354127N33TW27F2J426A33VH34T9356E355H33XF348X34ED34ED357K345J355G341R34XF34JM34X635AS34ZO349R2IP2IR34AT33UX33UZ33V129K33TU33V533T3353T33VA33VC24X33VE33VG356U27D26I35BQ353535BS34EF35CO346W355H34X52BJ35AI33XF33W62J12J326D353P2JZ29S2692J92JB2JD2402X927925G2AN34Z12A935412A734Y92JN26924X24M24M26V33V027Q359R25924C325526C33SS26S33TG33S133T033P426S33SQ34Z524X2J227233TG32JC26U353V2AO321F24B34XK33T227N28J24X29S28927Y354127226R33UH353X354F2A733U835DT24B33RY26V26G33UD29233DA26D33RO2JO26D33SP33T335A034YR31TS2AH27233U833VH34SP35AQ344T33YM34SW33Y334212IT350M342534D634DL35BY35DC356V341H33YF28D35C434E3352I350D343Y355O34B828D355M35FT351O345Z351K342635FP35CX352X34SE26227D35DD34YJ25S35F426S35F633SX27224X25X35DK35DM35DO35DQ27R354X24X26526C26O24X26626R35DP33UH35GX26B33SQ25Z33RB27131TS33RY31X334Z533T2334034YP25W26V34Z035F7349O35FI33VS34V834ZO359635BV27935GE33VM34DO2AW33QR2B02B22B42B633W62B92BB2J833VS2BN33R72AE29F29D29F35D3340M33UZ26B29S2J4355A26S33SA23P2BN340M35IN28J26V35EN26T352T240342O2AN26D29K27F27F27H28X35AL35D135D429T35D72JC2JE2AR33R534Z533SA24933S933VM24Z35JK33QO2512BN2AR2JG27R33SA25935JQ28I35DK2J129129333XD27W31AQ28K31AQ28S33W62A12A333SA24L35JN2BJ24K35KD27D24O35IB29I33SY27227228S33R735J12AG2AI24121N2JQ34AT35CS34AQ35FL33WX35FV2BJ359133Z1352634LA352B35HV352S34LA358V282357K341I35G4279350E32OT29Q357J33XV345Z35LK34NA351O2BJ34CZ33WE34D234EO33XF347U35BZ27935LW34X82BJ35LB35L135LE33Z42AR347D282358T34EJ27935M9310833XV34XE35M42AR33W634DF28222234DI35ML342934BP25Y3503342635MQ34CK33XV351C358V27C35L327C35N034FS350W34CT33XV25W3424340B2A535L334NL2A52JQ34E233YF2A533RF351A25E359435MF27933WR33XD34WA33QY35L327933QY33RW351A359235LD3592340M34T935NM34LP35NE33WZ359435O133XQ24V35O435N62IT33QY345Z35OA33ZM26335O933VW2A535OD34CW2KN3437358V29H35G7358V350B34V2349X34SD34UV2KN34VK35OO35M0349S29H342O33WA35G035P2358L343Y2FW34SP346T29H34WY33ZW343T351T3536358U349X355W349S35OM358E27934K234VY352N27927834BG27935OE34BL34BV347L27D2S4347P34C634BU347K34BO27D25X34C034C233YW2IT347W33XV33VR35PU345M33VW34DF28Z34DI345R342I28235MW33Y035MZ352E35N2350S33WC341728233YF356T35N933XF35NB342E33QN358V33WR35MF32E635NN351133QO35NQ34ZO35NT27D35NV349X35NX349X340M34WR27D33WR349M34I033QY3570357T35O833QY35QY35O4345Z35RV24735OG35RU35OI349H35RV34AM35PM35GI343335OQ33ZZ356B24134US2KN35OV33ZF33YM35OX35M1343335LD33YF35P633Y333Z6346K35SN34WJ34GY35P934B835PC34BA34LP35G9342626P35MA24126X35T235RV35PX35Q534BX2B834C035T734BW34BP27335Q9347S27934US35QC34C6347X28235TJ33ZM342127921L34DI35TS35MU35QO35SJ35MY35CY35QS34H535N335QV33XV21J3424358V358X33XL32E635NG35RA2BJ359034ZO35R927935RG33X033XL35NS35O427934UB2792A533RW35R4359435SL359433XD33X83414359334BF3594345Z35V035MD35U833VM341I35UB355T33VT33WU35HS35S735UJ35V633YF35RE35UN33VM35UQ35LA35UT33XL33YF35UG33ZI35UY2A535U52IT33WR345Z35VT345S2A535ON35V133XF358V357235OT35VK351O34AM2A535P334212A51E34DI35WD35PI35R033VS27C35V834W234N829535WF3593345Z35WO35W834CP35FU35VC33QO341I35VP35P4346K35VP34SD342I2KN35PA3594357S34V935BT349H2X935QG35WO35VW347435Q435TD27D21E35TB35XG35PZ27921G35TG27D358035TK34C728235XR349H35MN34GY35TW35S735TY35WI35U0342P35U2342S33XV22335U6359335MF35NF3597349O35R5355K33VM348M35VP351A340F35V534B035V735YD343O35YF35UU35VP34DE32OT2A522933VW35VV342635YX35WG35M335YC33RF34XB35VB34GQ35YL34B035O335WK35YQ35VM35VF35UV34HC349C359335Y835VU349H35ZK35VY35SY35YF35S935W433VS34US35W6342E35WS35WA359321U34DI360035Z235QR35WK35LQ35WM241360235WP3426360935ZX35SJ35WV35FW35ZG35SO346J360H35SS35X3346N34B835RN35SX35O035PG22D35T23609345Z35ZN35TC35XM24121Y35XK347J35XH27922035XP27921O34C535XT241361935PI35G733YD33YF35LF34TB35MJ24122Y34DI361M35TV35QU35FU35Y133VM35N1356B342I35Y5348D33XV2BP35FS2A5346V34CZ35UE35LT35LZ340035LZ35L333X835RG27934DB35YM33XD34DF2A5310735PG362J345S33QY35W02KN35S929H35SB34US33QY357E35SG35O435OY35RH35VN35RJ34TC360J35S6360L340O33XK35X535SE35SX35BP35PG22P35T222X34EM35CL33VS361B23935Y928235YB35LL35UC361K23U2K9345Z363R356T33WD35R133XV35ND35TX35M335N635N135V933WF27L350Y351035V635UH363H35RL355T33R73413350G344V2JT350K3426363U345S27L35W029535S9356X35OT27L33RF341G358V27L362C3520350S35CV35FQ33YZ2JT34AM27L35ZY27L364L3652364H35FS365635SJ364835WW33YF3513363234B1356U33R735X2340O33WR35X529535RR35AS355W35PG23L2JW35M2363N361I3447361K33QW35PG366335TP27D262363S34263668361E340035B6363O345133QO27C35NL35Y3355R27L366J35Y5344735RF35P033ZJ365L27D34DZ33WH34LA34NL350C34FA364W366R341I35Y534EW35MV34MB361S33QO366Y35R335SJ35PK33Z616350S33WA343L364A35SB35UP3672367L33RF3675364T34JM350F33XV366527L345Z3665365535ZP356U364Q34VH2BJ34US367Q35LP3671364Y345U34SM35SZ27D24V365433YM365D35FM350S3665365A367X368F35WT35MD365F360G365I360I365K368R36353594365Q35O535CT365U35PR2412IR35QG368J365Y33XL344C361I34WA366I35UK35Y3366P35SO35RI35Y534DZ35XZ34GQ35MX367233YF3643355E27D348M361I352A34NL35LC35VL367K341I369O343L340B3646363X368A35YN33YF35Y5351A358V368P348U366T2793675366W3670361Q35V6367F35Y5367I368034ZO35NC369C35WK367P35YD364F368I364I349H368L350S364O357M35FU364R35ZT350S364U367C363H34VW365035C2349H293365C35WT34DF27L368J36AW368E350S362Y36AA349S368U35WZ36AC368V365P34B8365R35SX3690365A270365X35ME3630361I34IS361K2K835PG36C527926A366F33XB1A33Y035BP36AH33XF368U33VS35YM355S359333RF36C32X935VV35YY34D335SB34VB35LV35L6347T36BA34VL367D33ZI364Y35LZ35G735LZ35SB35LZ364Y35W3369M35O433RW35RL35ZU35UM35R333WU36B227935R2363Z33Y336CO36B92J635LZ35BV34NL35WV2IO25333YO27C21L2JT29Q345Z36DX35FS362N35SJ362P35W23433362S362X36CX36D8368835O43651349H1D36BJ362U345V33QY36E1369136EL34AM36EI35S72KN35UU363436BP3634365N33ZZ363835SS34ED363B36911C2JW34EN361F352U36CX366Q364435IF27329B34XE35KG35UP35KJ2AD29835IE352Z35D134U035HQ33VM358V34ZO35QJ35SK369135FP36FQ367234S235CR33WF353A33VM35FY369C36G335LG34T735KX351D3426356735FU35LP33Z636FY33XW343C36G1345735M3351635G233VS35BX353535HX35X935AY2L333TQ24X26G35FE354N26W359O34Y227235DL27W35F027Z33T035GQ35302J433T335EH33U035BK35HO35AP355H36GQ36FZ24034IS26034YT26B26C27332Q736H635FE34Y031VG35B234XY35A434YW342V36HG36GP36F836G235AU35JX35AX34SI35B734YA35B326D35B535B726R35B926A35BB36HB24X35BE33S126933RO32JC35BI27V33TQ35F735BN2BJ36CE36G8366S35CT35BU35C335L135AS36DK36I435LP36HI357T36CV2IQ33QQ36FI29936FC27236FE35IP2BN33WA26A35FE26B26Q27J33WE353G33SA24V36FF369236JT25T36JT35JJ35IZ35KK35J329M35J635D0353135JA35D627D2JA35JD24325J2BJ24R35CO355G33W036G535P036GO3448357K33RL28D359C35PG36KP35FU34ZQ33VM367S28D358V35GB35S735PI36KI341H35N636KI33XP350O34EP35YG36CK369936I434XB36AB34ZS35UC35G035L5368S342I366Z34GY36A435G233XO35SJ363W35ZF361I33R7367S29Q34R63522345Z36LW361G35L9364436LG35YG33WA36LJ35ZW340O36LM36G636LO35S736LQ365G36CA33RF36LU2KA3474349H36LZ341I36LE36M2346K36LH361Q36M634SF36B933QO33W935VL36MD360G361I362G34N836LV36MJ36LY349J36MN348J36M3350E343Y36LK361W35P036MW36AG36MY36AB361I34CY36N236MI36LX342636LZ24126036L833VM341E351F33XF349436DZ36E636NY36KU341O29Q340O36KY27936O435FU29Q35SB35M2355M35UY36O336N4342636O734AM358O36LP36CF35Y036B73683347F35CZ35SJ29Q35O027D345U36NV368B27935Q835FS29Q35ZY29Q36KX369136P436OI368N35M2359135MG36BA35G0361I36EW27L35X5369J34ED34VQ35PG35PW342636P435MD36O033VM36NX3682365A36PO349435KZ33QO36J7351O24034KY241353S35A433SO24X31D035E62AO34Z028927P33UF2JO31AQ33SS2B935AO2BJ36FO36PY36I336GJ35BZ25V2BN33W628J28L26U34VH35PD36G835CQ36QN36J236FZ33XF35LS2AR2AT29X33SA33S824034JZ35DN35H635DR35GY24S33TU33RZ29S33SS26R354X27O36HW24X26F24M243357036QL35SP36KL36EA36B0349S361I34132X936OQ36DO36R0343P33W633QN352R36L135CW36QN2JQ35CZ353I28428633RF34Y32JN33TI35I933QO24H36JT32ES36JB2AS29835KR2AJ343736QV35BQ35HV33W035KZ33WL36GL36MV340033VV36NH344836LC33VZ33XK36KI33XA36ER36J235HU35AH36S5279',{},40,2^16,{},"\115\116\114\105\110\103",'');end;
+--[=[
+
+    ___      _  _     __     _         _         ____   
+  ,"___".   FJ  L]    FJ    FJ        FJ        [__  '. 
+  FJ---L]  J |__| L  J  L  J |       J |        `--7 .' 
+ J |   LJ  |  __  |  |  |  | |       | |         .'.'.' 
+ | \___--. F L__J J  F  J  F L_____  F L_____  .' (_(__ 
+ J\_____/FJ__L  J__LJ____LJ________LJ________LJ________L
+  J_____F |__L  J__||____||________||________||________|
+                                                        
+ 
+]=]
+
+-- Arceus X v3 Remake
+local AZY = {};
+
+-- StarterGui.ArceusXV3
+AZY["1"] = Instance.new("ScreenGui", game.CoreGui);
+AZY["1"]["Name"] = [[微山工作室]];
+AZY["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+AZY["1"]["ResetOnSpawn"] = false;
+
+-- StarterGui.ArceusXV3.Welcome
+AZY["2"] = Instance.new("Folder", AZY["1"]);
+AZY["2"]["Name"] = [[Welcome]];
+
+-- StarterGui.ArceusXV3.Welcome.Frame
+AZY["3"] = Instance.new("Frame", AZY["2"]);
+AZY["3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["3"]["BackgroundTransparency"] = 0.8999999761581421;
+AZY["3"]["Size"] = UDim2.new(100.58300018310547, 0, 10.576000213623047, 0);
+AZY["3"]["BorderColor3"] = Color3.fromRGB(28, 43, 54);
+AZY["3"]["Position"] = UDim2.new(-0.012608751654624939, 0, -1.0678343772888184, 0);
+
+-- StarterGui.ArceusXV3.Welcome.Frame.UIAspectRatioConstraint
+AZY["4"] = Instance.new("UIAspectRatioConstraint", AZY["3"]);
+AZY["4"]["AspectRatio"] = 2.0052521228790283;
+
+-- StarterGui.ArceusXV3.Welcome.Welcome
+AZY["5"] = Instance.new("Frame", AZY["2"]);
+AZY["5"]["BackgroundColor3"] = Color3.fromRGB(52, 52, 52);
+AZY["5"]["Size"] = UDim2.new(0.666020393371582, 0, 0.8211921453475952, 0);
+AZY["5"]["Position"] = UDim2.new(0.17622511088848114, 0, 0.0894039198756218, 0);
+AZY["5"]["Name"] = [[Welcome]];
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame
+AZY["6"] = Instance.new("ScrollingFrame", AZY["5"]);
+AZY["6"]["Active"] = true;
+AZY["6"]["CanvasSize"] = UDim2.new(0, 0, 1.2000000476837158, 0);
+AZY["6"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6"]["BackgroundTransparency"] = 1;
+AZY["6"]["Size"] = UDim2.new(1.0180450677871704, 0, 1, 0);
+AZY["6"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["6"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6"]["ScrollBarThickness"] = 7;
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.Title
+AZY["7"] = Instance.new("TextLabel", AZY["6"]);
+AZY["7"]["TextWrapped"] = true;
+AZY["7"]["TextScaled"] = true;
+AZY["7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["7"]["TextSize"] = 45;
+AZY["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7"]["Size"] = UDim2.new(0.624912440776825, 0, 0.12905988097190857, 0);
+AZY["7"]["Text"] = [[微山工作室]];
+AZY["7"]["Name"] = [[Title]];
+AZY["7"]["BackgroundTransparency"] = 1;
+AZY["7"]["Position"] = UDim2.new(0.1773233860731125, 0, 0.011320043355226517, 0);
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.Title.UITextSizeConstraint
+AZY["8"] = Instance.new("UITextSizeConstraint", AZY["7"]);
+AZY["8"]["MaxTextSize"] = 45;
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.Text
+AZY["9"] = Instance.new("TextLabel", AZY["6"]);
+AZY["9"]["TextWrapped"] = true;
+AZY["9"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["9"]["TextScaled"] = true;
+AZY["9"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["9"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["9"]["TextSize"] = 29;
+AZY["9"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9"]["Size"] = UDim2.new(0.8902860283851624, 0, 0.6482642889022827, 0);
+AZY["9"]["Text"] = [[Dear User,
+我们写信欢迎你成为阿尔宙斯X的首批测试者之一！我们很高兴能与您合作，并为您提供机会尝试我们正在开发的新功能。我们相信，您的经验和创造力将帮助我们使阿尔宙斯X成为一个更加有效和用户友好的应用程序。请随时分享任何可以帮助我们进一步改进平台的反馈和建议。非常感谢您的支持，我们期待着在这个激动人心的旅程中与您合作！最诚挚的问候，SPDM团队
+]];
+AZY["9"]["Name"] = [[Text]];
+AZY["9"]["BackgroundTransparency"] = 1;
+AZY["9"]["Position"] = UDim2.new(0.04280221089720726, 0, 0.14032021164894104, 0);
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.Text.LocalScript
+AZY["a"] = Instance.new("LocalScript", AZY["9"]);
+
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton
+AZY["b"] = Instance.new("TextButton", AZY["6"]);
+AZY["b"]["TextWrapped"] = true;
+AZY["b"]["TextScaled"] = true;
+AZY["b"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["b"]["TextSize"] = 24;
+AZY["b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b"]["Size"] = UDim2.new(0.2372465580701828, 0, 0.10296772420406342, 0);
+AZY["b"]["Text"] = [[开始]];
+AZY["b"]["Position"] = UDim2.new(0.3705448806285858, 0, 0.8786289095878601, 0);
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.UICorner
+AZY["c"] = Instance.new("UICorner", AZY["b"]);
+AZY["c"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.UITextSizeConstraint
+AZY["d"] = Instance.new("UITextSizeConstraint", AZY["b"]);
+AZY["d"]["MaxTextSize"] = 24;
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.LocalScriptNew
+AZY["e"] = Instance.new("LocalScript", AZY["b"]);
+AZY["e"]["Name"] = [[LocalScriptNew]];
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.UICorner
+AZY["f"] = Instance.new("UICorner", AZY["5"]);
+AZY["f"]["CornerRadius"] = UDim.new(0, 25);
+
+-- StarterGui.ArceusXV3.Welcome.Welcome.UIAspectRatioConstraint
+AZY["10"] = Instance.new("UIAspectRatioConstraint", AZY["5"]);
+AZY["10"]["AspectRatio"] = 1.6193960905075073;
+
+-- StarterGui.ArceusXV3.AnimationIntro
+AZY["11"] = Instance.new("Folder", AZY["1"]);
+AZY["11"]["Name"] = [[AnimationIntro]];
+
+-- StarterGui.ArceusXV3.AnimationIntro.Background
+AZY["12"] = Instance.new("Frame", AZY["11"]);
+AZY["12"]["BackgroundColor3"] = Color3.fromRGB(28, 28, 28);
+AZY["12"]["Size"] = UDim2.new(0, 1806, 0, 1604);
+AZY["12"]["Position"] = UDim2.new(-0.11024535447359085, 0, -0.16887417435646057, 0);
+AZY["12"]["Visible"] = false;
+AZY["12"]["Name"] = [[Background]];
+
+-- StarterGui.ArceusXV3.AnimationIntro.Frame
+AZY["13"] = Instance.new("Frame", AZY["11"]);
+AZY["13"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["13"]["Size"] = UDim2.new(0.03313452750444412, 0, 0.06622516363859177, 0);
+AZY["13"]["Position"] = UDim2.new(0.48293575644493103, 0, 0.4668874144554138, 0);
+AZY["13"]["Visible"] = false;
+
+-- StarterGui.ArceusXV3.AnimationIntro.Frame.UICorner
+AZY["14"] = Instance.new("UICorner", AZY["13"]);
+AZY["14"]["CornerRadius"] = UDim.new(1, 100);
+
+-- StarterGui.ArceusXV3.AnimationIntro.ImageLabel
+AZY["15"] = Instance.new("ImageLabel", AZY["11"]);
+AZY["15"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["15"]["ImageTransparency"] = 1;
+AZY["15"]["Visible"] = false;
+AZY["15"]["Image"] = [[rbxassetid://12564267060]];
+AZY["15"]["Size"] = UDim2.new(0.09526176750659943, 0, 0.27649006247520447, 0);
+AZY["15"]["BackgroundTransparency"] = 1;
+AZY["15"]["Position"] = UDim2.new(0.4423459470272064, 0, 0.36092716455459595, 0);
+
+-- StarterGui.ArceusXV3.AnimationIntro.NameLogo
+AZY["16"] = Instance.new("TextLabel", AZY["11"]);
+AZY["16"]["TextWrapped"] = true;
+AZY["16"]["TextScaled"] = true;
+AZY["16"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["16"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["16"]["TextTransparency"] = 1;
+AZY["16"]["TextSize"] = 50;
+AZY["16"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["16"]["Size"] = UDim2.new(0.13893571496009827, 0, 0.09271523356437683, 0);
+AZY["16"]["Text"] = [[微山工作室]];
+AZY["16"]["Name"] = [[NameLogo]];
+AZY["16"]["Visible"] = false;
+AZY["16"]["BackgroundTransparency"] = 1;
+AZY["16"]["Position"] = UDim2.new(0.3928734362125397, 0, 0.4523245096206665, 0);
+
+-- StarterGui.ArceusXV3.AnimationIntro.NameLogo.UITextSizeConstraint
+AZY["17"] = Instance.new("UITextSizeConstraint", AZY["16"]);
+AZY["17"]["MaxTextSize"] = 50;
+
+-- StarterGui.ArceusXV3.MainUI
+AZY["18"] = Instance.new("Folder", AZY["1"]);
+AZY["18"]["Name"] = [[MainUI]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame
+AZY["19"] = Instance.new("Frame", AZY["18"]);
+AZY["19"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["19"]["BackgroundTransparency"] = 0.44999998807907104;
+AZY["19"]["Size"] = UDim2.new(0, 459, 0, 276);
+AZY["19"]["Position"] = UDim2.new(0.1498919129371643, 0, 0.12086091935634613, 0);
+AZY["19"]["Visible"] = false;
+AZY["19"]["Name"] = [[MainFrame]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.UICorner
+AZY["1a"] = Instance.new("UICorner", AZY["19"]);
+AZY["1a"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel
+AZY["1b"] = Instance.new("Frame", AZY["19"]);
+AZY["1b"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["1b"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["1b"]["Size"] = UDim2.new(0.9417322874069214, 0, 0.11706378310918808, 0);
+AZY["1b"]["Position"] = UDim2.new(0.03099355846643448, 0, 0.0474083386361599, 0);
+AZY["1b"]["Name"] = [[Panel]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.UICorner
+AZY["1c"] = Instance.new("UICorner", AZY["1b"]);
+AZY["1c"]["CornerRadius"] = UDim.new(0, 14);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Logo
+AZY["1d"] = Instance.new("ImageLabel", AZY["1b"]);
+AZY["1d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["1d"]["Image"] = [[rbxassetid://12564267060]];
+AZY["1d"]["Size"] = UDim2.new(0.04335622861981392, 0, 0.9125484228134155, 0);
+AZY["1d"]["Name"] = [[Logo]];
+AZY["1d"]["BackgroundTransparency"] = 1;
+AZY["1d"]["Position"] = UDim2.new(0.4168868660926819, 0, 0.03155195340514183, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.TextLogo
+AZY["1e"] = Instance.new("TextLabel", AZY["1b"]);
+AZY["1e"]["TextWrapped"] = true;
+AZY["1e"]["TextScaled"] = true;
+AZY["1e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["1e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["1e"]["TextSize"] = 85;
+AZY["1e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["1e"]["Size"] = UDim2.new(0.1371736377477646, 0, 0.6307170391082764, 0);
+AZY["1e"]["Text"] = [[微山工作室]];
+AZY["1e"]["Name"] = [[TextLogo]];
+AZY["1e"]["BackgroundTransparency"] = 1;
+AZY["1e"]["Position"] = UDim2.new(0.4679349362850189, 0, 0.16660596430301666, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.TextLogo.UITextSizeConstraint
+AZY["1f"] = Instance.new("UITextSizeConstraint", AZY["1e"]);
+AZY["1f"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Close
+AZY["20"] = Instance.new("ImageButton", AZY["1b"]);
+AZY["20"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["20"]["Image"] = [[rbxassetid://12566509152]];
+AZY["20"]["Size"] = UDim2.new(0.06670181453227997, 0, 1, 0);
+AZY["20"]["Name"] = [[Close]];
+AZY["20"]["Position"] = UDim2.new(0.9171510338783264, 0, 0, 0);
+AZY["20"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Close.LocalScript
+AZY["21"] = Instance.new("LocalScript", AZY["20"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Expand
+AZY["22"] = Instance.new("ImageButton", AZY["1b"]);
+AZY["22"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["22"]["Image"] = [[rbxassetid://12566545357]];
+AZY["22"]["Size"] = UDim2.new(0.06901533156633377, 0, 1, 0);
+AZY["22"]["Name"] = [[Expand]];
+AZY["22"]["Position"] = UDim2.new(0.8481356501579285, 0, -0.024522678926587105, 0);
+AZY["22"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Expand.LocalScript
+AZY["23"] = Instance.new("LocalScript", AZY["22"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.TimeLeft
+AZY["24"] = Instance.new("TextLabel", AZY["1b"]);
+AZY["24"]["TextWrapped"] = true;
+AZY["24"]["TextScaled"] = true;
+AZY["24"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["24"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["24"]["TextSize"] = 35;
+AZY["24"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["24"]["Size"] = UDim2.new(0.13600000739097595, 0, 0.38600000739097595, 0);
+AZY["24"]["Text"] = [[24h 00m left]];
+AZY["24"]["Name"] = [[TimeLeft]];
+AZY["24"]["BackgroundTransparency"] = 1;
+AZY["24"]["Position"] = UDim2.new(0.07365596294403076, 0, 0.28405851125717163, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.TimeLeft.LocalScript
+AZY["25"] = Instance.new("LocalScript", AZY["24"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Restore
+AZY["26"] = Instance.new("TextButton", AZY["1b"]);
+AZY["26"]["TextWrapped"] = true;
+AZY["26"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["26"]["TextSize"] = 12;
+AZY["26"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["26"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["26"]["Size"] = UDim2.new(0.10400000214576721, 0, 0.503000020980835, 0);
+AZY["26"]["Name"] = [[Restore]];
+AZY["26"]["Text"] = [[恢复]];
+AZY["26"]["Position"] = UDim2.new(0.21463949978351593, 0, 0.22850705683231354, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Restore.UICorner
+AZY["27"] = Instance.new("UICorner", AZY["26"]);
+AZY["27"]["CornerRadius"] = UDim.new(0, 6);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Restore.LocalScript
+AZY["28"] = Instance.new("LocalScript", AZY["26"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Icon
+AZY["29"] = Instance.new("ImageButton", AZY["1b"]);
+AZY["29"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["29"]["Image"] = [[rbxassetid://12584810787]];
+AZY["29"]["Size"] = UDim2.new(0.05783621221780777, 0, 0.7737637162208557, 0);
+AZY["29"]["Name"] = [[Icon]];
+AZY["29"]["Position"] = UDim2.new(0.01600000075995922, 0, 0.09300000220537186, 0);
+AZY["29"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Icon.LocalScript
+AZY["2a"] = Instance.new("LocalScript", AZY["29"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs
+AZY["2b"] = Instance.new("Folder", AZY["19"]);
+AZY["2b"]["Name"] = [[Tabs]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home
+AZY["2c"] = Instance.new("Frame", AZY["2b"]);
+AZY["2c"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["2c"]["BackgroundTransparency"] = 1;
+AZY["2c"]["Size"] = UDim2.new(0.831805408000946, 0, 0.7336452603340149, 0);
+AZY["2c"]["Position"] = UDim2.new(0.1409204602241516, 0, 0.18711426854133606, 0);
+AZY["2c"]["Name"] = [[Home]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage
+AZY["2d"] = Instance.new("Frame", AZY["2c"]);
+AZY["2d"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["2d"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["2d"]["Size"] = UDim2.new(0.37270405888557434, 0, 0.2492256611585617, 0);
+AZY["2d"]["Position"] = UDim2.new(-0.0007835610886104405, 0, 0.025084324181079865, 0);
+AZY["2d"]["Name"] = [[UserPage]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.UICorner
+AZY["2e"] = Instance.new("UICorner", AZY["2d"]);
+AZY["2e"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.ImageLabel
+AZY["2f"] = Instance.new("ImageLabel", AZY["2d"]);
+AZY["2f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["2f"]["Image"] = [[rbxassetid://12566434374]];
+AZY["2f"]["Size"] = UDim2.new(0.3031076192855835, 0, 0.8659517168998718, 0);
+AZY["2f"]["BackgroundTransparency"] = 1;
+AZY["2f"]["Position"] = UDim2.new(0.22370131313800812, 0, 0.0670241266489029, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.TextLabel
+AZY["30"] = Instance.new("TextLabel", AZY["2d"]);
+AZY["30"]["TextWrapped"] = true;
+AZY["30"]["TextScaled"] = true;
+AZY["30"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["30"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["30"]["TextSize"] = 25;
+AZY["30"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["30"]["Size"] = UDim2.new(0.20524734258651733, 0, 0.3535553812980652, 0);
+AZY["30"]["Text"] = [[Hi,]];
+AZY["30"]["BackgroundTransparency"] = 1;
+AZY["30"]["Position"] = UDim2.new(0.5262826681137085, 0, 0.14745301008224487, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.TextLabel
+AZY["31"] = Instance.new("TextLabel", AZY["2d"]);
+AZY["31"]["TextWrapped"] = true;
+AZY["31"]["TextScaled"] = true;
+AZY["31"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["31"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["31"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["31"]["TextSize"] = 25;
+AZY["31"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["31"]["Size"] = UDim2.new(0.3468869626522064, 0, 0.3007456660270691, 0);
+AZY["31"]["Text"] = [[用户]];
+AZY["31"]["BackgroundTransparency"] = 1;
+AZY["31"]["Position"] = UDim2.new(0.5669999122619629, 0, 0.5350000262260437, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.TextLabel.UITextSizeConstraint
+AZY["32"] = Instance.new("UITextSizeConstraint", AZY["31"]);
+AZY["32"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.TextLabel.LocalScript
+AZY["33"] = Instance.new("LocalScript", AZY["31"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage
+AZY["34"] = Instance.new("Frame", AZY["2c"]);
+AZY["34"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["34"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["34"]["Size"] = UDim2.new(0.374349445104599, 0, 0.7526744604110718, 0);
+AZY["34"]["Position"] = UDim2.new(-0.002428855048492551, 0, 0.3016669452190399, 0);
+AZY["34"]["Name"] = [[KeySystemPage]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.UICorner
+AZY["35"] = Instance.new("UICorner", AZY["34"]);
+AZY["35"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TextLabel
+AZY["36"] = Instance.new("TextLabel", AZY["34"]);
+AZY["36"]["TextWrapped"] = true;
+AZY["36"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["36"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["36"]["TextSize"] = 16;
+AZY["36"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["36"]["Size"] = UDim2.new(0.8114322423934937, 0, 0.15531843900680542, 0);
+AZY["36"]["Text"] = [[关键系统状态]];
+AZY["36"]["BackgroundTransparency"] = 1;
+AZY["36"]["Position"] = UDim2.new(0.05482717230916023, 0, 0.06104206293821335, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TextLabel
+AZY["37"] = Instance.new("TextLabel", AZY["34"]);
+AZY["37"]["TextWrapped"] = true;
+AZY["37"]["TextScaled"] = true;
+AZY["37"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["37"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["37"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["37"]["TextSize"] = 35;
+AZY["37"]["TextColor3"] = Color3.fromRGB(0, 255, 0);
+AZY["37"]["Size"] = UDim2.new(0.30206844210624695, 0, 0.09149397909641266, 0);
+AZY["37"]["Text"] = [[在线的]];
+AZY["37"]["BackgroundTransparency"] = 1;
+AZY["37"]["Position"] = UDim2.new(0.08498311042785645, 0, 0.1731228232383728, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TextLabel
+AZY["38"] = Instance.new("TextLabel", AZY["34"]);
+AZY["38"]["TextWrapped"] = true;
+AZY["38"]["TextScaled"] = true;
+AZY["38"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["38"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["38"]["TextSize"] = 35;
+AZY["38"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["38"]["Size"] = UDim2.new(0.423105388879776, 0, 0.0994054526090622, 0);
+AZY["38"]["Text"] = [[过期时间:]];
+AZY["38"]["BackgroundTransparency"] = 1;
+AZY["38"]["Position"] = UDim2.new(0.054827168583869934, 0, 0.31500908732414246, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TimeLeft
+AZY["39"] = Instance.new("TextLabel", AZY["34"]);
+AZY["39"]["TextWrapped"] = true;
+AZY["39"]["TextScaled"] = true;
+AZY["39"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["39"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["39"]["TextSize"] = 35;
+AZY["39"]["TextColor3"] = Color3.fromRGB(0, 255, 0);
+AZY["39"]["Size"] = UDim2.new(0.30206844210624695, 0, 0.0994054526090622, 0);
+AZY["39"]["Text"] = [[24h 00m]];
+AZY["39"]["Name"] = [[TimeLeft]];
+AZY["39"]["BackgroundTransparency"] = 1;
+AZY["39"]["Position"] = UDim2.new(0.49440309405326843, 0, 0.31500908732414246, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TimeLeft.LocalScript
+AZY["3a"] = Instance.new("LocalScript", AZY["39"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Bar
+AZY["3b"] = Instance.new("Frame", AZY["34"]);
+AZY["3b"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 0);
+AZY["3b"]["Size"] = UDim2.new(0.8291789293289185, 0, 0.07132068276405334, 0);
+AZY["3b"]["Position"] = UDim2.new(0.05709991604089737, 0, 0.44679027795791626, 0);
+AZY["3b"]["Name"] = [[Bar]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Bar.UICorner
+AZY["3c"] = Instance.new("UICorner", AZY["3b"]);
+AZY["3c"]["CornerRadius"] = UDim.new(0, 4);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Bar.TextLabel
+AZY["3d"] = Instance.new("TextLabel", AZY["3b"]);
+AZY["3d"]["TextWrapped"] = true;
+AZY["3d"]["TextScaled"] = true;
+AZY["3d"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["3d"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["3d"]["TextTransparency"] = 0.6000000238418579;
+AZY["3d"]["TextSize"] = 35;
+AZY["3d"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["3d"]["Size"] = UDim2.new(0.2189580649137497, 0, 0.9389510154724121, 0);
+AZY["3d"]["Text"] = [[100%]];
+AZY["3d"]["BackgroundTransparency"] = 1;
+AZY["3d"]["Position"] = UDim2.new(0.7810419201850891, 0, 0.061042893677949905, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TextLabel
+AZY["3e"] = Instance.new("TextLabel", AZY["34"]);
+AZY["3e"]["TextWrapped"] = true;
+AZY["3e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["3e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["3e"]["TextSize"] = 12;
+AZY["3e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["3e"]["Size"] = UDim2.new(0.5709924697875977, 0, 0.11561357975006104, 0);
+AZY["3e"]["Text"] = [[上次激活:]];
+AZY["3e"]["BackgroundTransparency"] = 1;
+AZY["3e"]["Position"] = UDim2.new(0.05010330677032471, 0, 0.5460530519485474, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Time
+AZY["3f"] = Instance.new("TextLabel", AZY["34"]);
+AZY["3f"]["TextWrapped"] = true;
+AZY["3f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["3f"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["3f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["3f"]["TextSize"] = 12;
+AZY["3f"]["TextColor3"] = Color3.fromRGB(178, 178, 178);
+AZY["3f"]["Size"] = UDim2.new(0.6227233409881592, 0, 0.09644854068756104, 0);
+AZY["3f"]["Text"] = [[今天, HH:MM AM]];
+AZY["3f"]["Name"] = [[Time]];
+AZY["3f"]["BackgroundTransparency"] = 1;
+AZY["3f"]["Position"] = UDim2.new(0.08199998736381531, 0, 0.6469999551773071, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Time.LocalScript
+AZY["40"] = Instance.new("LocalScript", AZY["3f"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Restore
+AZY["41"] = Instance.new("TextButton", AZY["34"]);
+AZY["41"]["TextWrapped"] = true;
+AZY["41"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["41"]["TextSize"] = 15;
+AZY["41"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["41"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["41"]["Size"] = UDim2.new(0.7855679988861084, 0, 0.17807699739933014, 0);
+AZY["41"]["Name"] = [[Restore]];
+AZY["41"]["Text"] = [[恢复]];
+AZY["41"]["Position"] = UDim2.new(0.10590747743844986, 0, 0.7775270342826843, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Restore.UICorner
+AZY["42"] = Instance.new("UICorner", AZY["41"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Restore.LocalScript
+AZY["43"] = Instance.new("LocalScript", AZY["41"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage
+AZY["44"] = Instance.new("Frame", AZY["2c"]);
+AZY["44"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["44"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["44"]["Size"] = UDim2.new(0.6116291880607605, 0, 1.0292569398880005, 0);
+AZY["44"]["Position"] = UDim2.new(0.3883708119392395, 0, 0.025084195658564568, 0);
+AZY["44"]["Name"] = [[HaxPage]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.UICorner
+AZY["45"] = Instance.new("UICorner", AZY["44"]);
+AZY["45"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.TextLabel
+AZY["46"] = Instance.new("TextLabel", AZY["44"]);
+AZY["46"]["TextWrapped"] = true;
+AZY["46"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["46"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["46"]["TextSize"] = 18;
+AZY["46"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["46"]["Size"] = UDim2.new(0.3717169165611267, 0, 0.10439325869083405, 0);
+AZY["46"]["Text"] = [[快速破解]];
+AZY["46"]["BackgroundTransparency"] = 1;
+AZY["46"]["Position"] = UDim2.new(0.01899999938905239, 0, 0.03400000184774399, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Grav
+AZY["47"] = Instance.new("BoolValue", AZY["44"]);
+AZY["47"]["Name"] = [[Grav]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts
+AZY["48"] = Instance.new("Folder", AZY["44"]);
+AZY["48"]["Name"] = [[Scripts]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Aimbot
+AZY["49"] = Instance.new("TextButton", AZY["48"]);
+AZY["49"]["TextWrapped"] = true;
+AZY["49"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["49"]["TextSize"] = 11;
+AZY["49"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["49"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["49"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["49"]["Name"] = [[Aimbot]];
+AZY["49"]["Text"] = [[AimBot]];
+AZY["49"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.5989999771118164, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Aimbot.UICorner
+AZY["4a"] = Instance.new("UICorner", AZY["49"]);
+AZY["4a"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Aimbot.LocalScript
+AZY["4b"] = Instance.new("LocalScript", AZY["49"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Btools
+AZY["4c"] = Instance.new("TextButton", AZY["48"]);
+AZY["4c"]["TextWrapped"] = true;
+AZY["4c"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["4c"]["TextSize"] = 11;
+AZY["4c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["4c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["4c"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["4c"]["Name"] = [[Btools]];
+AZY["4c"]["Text"] = [[Btools]];
+AZY["4c"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.4830000102519989, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Btools.UICorner
+AZY["4d"] = Instance.new("UICorner", AZY["4c"]);
+AZY["4d"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Btools.LocalScript
+AZY["4e"] = Instance.new("LocalScript", AZY["4c"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Dex
+AZY["4f"] = Instance.new("TextButton", AZY["48"]);
+AZY["4f"]["TextWrapped"] = true;
+AZY["4f"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["4f"]["TextSize"] = 11;
+AZY["4f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["4f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["4f"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["4f"]["Name"] = [[Dex]];
+AZY["4f"]["Text"] = [[DEX Explorer]];
+AZY["4f"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.2564218044281006, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Dex.UICorner
+AZY["50"] = Instance.new("UICorner", AZY["4f"]);
+AZY["50"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Dex.LocalScript
+AZY["51"] = Instance.new("LocalScript", AZY["4f"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.FatesESP
+AZY["52"] = Instance.new("TextButton", AZY["48"]);
+AZY["52"]["TextWrapped"] = true;
+AZY["52"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["52"]["TextSize"] = 11;
+AZY["52"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["52"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["52"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["52"]["Name"] = [[FatesESP]];
+AZY["52"]["Text"] = [[Fates ESP]];
+AZY["52"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.3709999918937683, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.FatesESP.UICorner
+AZY["53"] = Instance.new("UICorner", AZY["52"]);
+AZY["53"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.FatesESP.LocalScript
+AZY["54"] = Instance.new("LocalScript", AZY["52"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Fly
+AZY["55"] = Instance.new("TextButton", AZY["48"]);
+AZY["55"]["TextWrapped"] = true;
+AZY["55"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["55"]["TextSize"] = 11;
+AZY["55"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["55"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["55"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["55"]["Name"] = [[Fly]];
+AZY["55"]["Text"] = [[Fly]];
+AZY["55"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.7070000171661377, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Fly.UICorner
+AZY["56"] = Instance.new("UICorner", AZY["55"]);
+AZY["56"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Fly.LocalScript
+AZY["57"] = Instance.new("LocalScript", AZY["55"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.IY
+AZY["58"] = Instance.new("TextButton", AZY["48"]);
+AZY["58"]["TextWrapped"] = true;
+AZY["58"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["58"]["TextSize"] = 11;
+AZY["58"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["58"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["58"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["58"]["Name"] = [[IY]];
+AZY["58"]["Text"] = [[Infinite Yield]];
+AZY["58"]["Position"] = UDim2.new(0.04595530033111572, 0, 0.13954126834869385, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.IY.UICorner
+AZY["59"] = Instance.new("UICorner", AZY["58"]);
+AZY["59"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.IY.LocalScript
+AZY["5a"] = Instance.new("LocalScript", AZY["58"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.PwnHub
+AZY["5b"] = Instance.new("TextButton", AZY["48"]);
+AZY["5b"]["TextWrapped"] = true;
+AZY["5b"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["5b"]["TextSize"] = 11;
+AZY["5b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["5b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["5b"]["Size"] = UDim2.new(0.2588447332382202, 0, 0.0958060473203659, 0);
+AZY["5b"]["Name"] = [[PwnHub]];
+AZY["5b"]["Text"] = [[Pwner Hub]];
+AZY["5b"]["Position"] = UDim2.new(0.04600000008940697, 0, 0.8209999799728394, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.PwnHub.UICorner
+AZY["5c"] = Instance.new("UICorner", AZY["5b"]);
+AZY["5c"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.PwnHub.LocalScript
+AZY["5d"] = Instance.new("LocalScript", AZY["5b"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS
+AZY["5e"] = Instance.new("ImageLabel", AZY["44"]);
+AZY["5e"]["BorderSizePixel"] = 0;
+AZY["5e"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["5e"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["5e"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["5e"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["5e"]["SliceScale"] = 0.11999999731779099;
+AZY["5e"]["ImageTransparency"] = 1;
+AZY["5e"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["5e"]["Image"] = [[rbxassetid://3570695787]];
+AZY["5e"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["5e"]["Name"] = [[GravS]];
+AZY["5e"]["Rotation"] = -90;
+AZY["5e"]["BackgroundTransparency"] = 1;
+AZY["5e"]["Position"] = UDim2.new(0.4359999895095825, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.SliderButton
+AZY["5f"] = Instance.new("ImageLabel", AZY["5e"]);
+AZY["5f"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["5f"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["5f"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["5f"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["5f"]["SliceScale"] = 0.11999999731779099;
+AZY["5f"]["Selectable"] = true;
+AZY["5f"]["Image"] = [[rbxassetid://3570695787]];
+AZY["5f"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["5f"]["Active"] = true;
+AZY["5f"]["Name"] = [[SliderButton]];
+AZY["5f"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.SliderButton.LocalScript
+AZY["60"] = Instance.new("LocalScript", AZY["5f"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.Border
+AZY["61"] = Instance.new("ImageLabel", AZY["5e"]);
+AZY["61"]["ZIndex"] = -1;
+AZY["61"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["61"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["61"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["61"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["61"]["SliceScale"] = 0.23999999463558197;
+AZY["61"]["ImageTransparency"] = 1;
+AZY["61"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["61"]["Image"] = [[rbxassetid://3570695787]];
+AZY["61"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["61"]["Name"] = [[Border]];
+AZY["61"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["61"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.Border.UICorner
+AZY["62"] = Instance.new("UICorner", AZY["61"]);
+AZY["62"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.TextLabel
+AZY["63"] = Instance.new("TextLabel", AZY["5e"]);
+AZY["63"]["ZIndex"] = 2;
+AZY["63"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["63"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["63"]["TextTransparency"] = 0.25;
+AZY["63"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["63"]["TextSize"] = 13;
+AZY["63"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["63"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["63"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["63"]["Text"] = [[0%]];
+AZY["63"]["Rotation"] = 90;
+AZY["63"]["BackgroundTransparency"] = 1;
+AZY["63"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.StripedPattern
+AZY["64"] = Instance.new("ImageLabel", AZY["5e"]);
+AZY["64"]["BorderSizePixel"] = 0;
+AZY["64"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["64"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["64"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["64"]["ImageTransparency"] = 1;
+AZY["64"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["64"]["Image"] = [[rbxassetid://4925116997]];
+AZY["64"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["64"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["64"]["Name"] = [[StripedPattern]];
+AZY["64"]["BackgroundTransparency"] = 1;
+AZY["64"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.StripedPattern.UIGradient
+AZY["65"] = Instance.new("UIGradient", AZY["64"]);
+AZY["65"]["Rotation"] = 90;
+AZY["65"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.ImageLabel
+AZY["66"] = Instance.new("ImageLabel", AZY["5e"]);
+AZY["66"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["66"]["Image"] = [[rbxassetid://12582575947]];
+AZY["66"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["66"]["Rotation"] = 90;
+AZY["66"]["BackgroundTransparency"] = 1;
+AZY["66"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS
+AZY["67"] = Instance.new("ImageLabel", AZY["44"]);
+AZY["67"]["BorderSizePixel"] = 0;
+AZY["67"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["67"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["67"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["67"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["67"]["SliceScale"] = 0.11999999731779099;
+AZY["67"]["ImageTransparency"] = 1;
+AZY["67"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["67"]["Image"] = [[rbxassetid://3570695787]];
+AZY["67"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["67"]["Name"] = [[WsS]];
+AZY["67"]["Rotation"] = -90;
+AZY["67"]["BackgroundTransparency"] = 1;
+AZY["67"]["Position"] = UDim2.new(0.6499999761581421, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.SliderButton
+AZY["68"] = Instance.new("ImageLabel", AZY["67"]);
+AZY["68"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["68"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["68"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["68"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["68"]["SliceScale"] = 0.11999999731779099;
+AZY["68"]["Selectable"] = true;
+AZY["68"]["Image"] = [[rbxassetid://3570695787]];
+AZY["68"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["68"]["Active"] = true;
+AZY["68"]["Name"] = [[SliderButton]];
+AZY["68"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.SliderButton.LocalScript
+AZY["69"] = Instance.new("LocalScript", AZY["68"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.Border
+AZY["6a"] = Instance.new("ImageLabel", AZY["67"]);
+AZY["6a"]["ZIndex"] = -1;
+AZY["6a"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["6a"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["6a"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["6a"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["6a"]["SliceScale"] = 0.23999999463558197;
+AZY["6a"]["ImageTransparency"] = 1;
+AZY["6a"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["6a"]["Image"] = [[rbxassetid://3570695787]];
+AZY["6a"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["6a"]["Name"] = [[Border]];
+AZY["6a"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["6a"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.Border.UICorner
+AZY["6b"] = Instance.new("UICorner", AZY["6a"]);
+AZY["6b"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.TextLabel
+AZY["6c"] = Instance.new("TextLabel", AZY["67"]);
+AZY["6c"]["ZIndex"] = 2;
+AZY["6c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["6c"]["TextTransparency"] = 0.25;
+AZY["6c"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6c"]["TextSize"] = 13;
+AZY["6c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6c"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["6c"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["6c"]["Text"] = [[0%]];
+AZY["6c"]["Rotation"] = 90;
+AZY["6c"]["BackgroundTransparency"] = 1;
+AZY["6c"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.StripedPattern
+AZY["6d"] = Instance.new("ImageLabel", AZY["67"]);
+AZY["6d"]["BorderSizePixel"] = 0;
+AZY["6d"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["6d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6d"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["6d"]["ImageTransparency"] = 1;
+AZY["6d"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["6d"]["Image"] = [[rbxassetid://4925116997]];
+AZY["6d"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["6d"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["6d"]["Name"] = [[StripedPattern]];
+AZY["6d"]["BackgroundTransparency"] = 1;
+AZY["6d"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.StripedPattern.UIGradient
+AZY["6e"] = Instance.new("UIGradient", AZY["6d"]);
+AZY["6e"]["Rotation"] = 90;
+AZY["6e"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.ImageLabel
+AZY["6f"] = Instance.new("ImageLabel", AZY["67"]);
+AZY["6f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["6f"]["Image"] = [[rbxassetid://12572149271]];
+AZY["6f"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["6f"]["Rotation"] = 90;
+AZY["6f"]["BackgroundTransparency"] = 1;
+AZY["6f"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS
+AZY["70"] = Instance.new("ImageLabel", AZY["44"]);
+AZY["70"]["BorderSizePixel"] = 0;
+AZY["70"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["70"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["70"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["70"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["70"]["SliceScale"] = 0.11999999731779099;
+AZY["70"]["ImageTransparency"] = 1;
+AZY["70"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["70"]["Image"] = [[rbxassetid://3570695787]];
+AZY["70"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["70"]["Name"] = [[JpS]];
+AZY["70"]["Rotation"] = -90;
+AZY["70"]["BackgroundTransparency"] = 1;
+AZY["70"]["Position"] = UDim2.new(0.8600000143051147, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.SliderButton
+AZY["71"] = Instance.new("ImageLabel", AZY["70"]);
+AZY["71"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["71"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["71"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["71"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["71"]["SliceScale"] = 0.11999999731779099;
+AZY["71"]["Selectable"] = true;
+AZY["71"]["Image"] = [[rbxassetid://3570695787]];
+AZY["71"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["71"]["Active"] = true;
+AZY["71"]["Name"] = [[SliderButton]];
+AZY["71"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.SliderButton.LocalScript
+AZY["72"] = Instance.new("LocalScript", AZY["71"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.Border
+AZY["73"] = Instance.new("ImageLabel", AZY["70"]);
+AZY["73"]["ZIndex"] = -1;
+AZY["73"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["73"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["73"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["73"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["73"]["SliceScale"] = 0.23999999463558197;
+AZY["73"]["ImageTransparency"] = 1;
+AZY["73"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["73"]["Image"] = [[rbxassetid://3570695787]];
+AZY["73"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["73"]["Name"] = [[Border]];
+AZY["73"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["73"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.Border.UICorner
+AZY["74"] = Instance.new("UICorner", AZY["73"]);
+AZY["74"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.TextLabel
+AZY["75"] = Instance.new("TextLabel", AZY["70"]);
+AZY["75"]["ZIndex"] = 2;
+AZY["75"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["75"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["75"]["TextTransparency"] = 0.25;
+AZY["75"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["75"]["TextSize"] = 13;
+AZY["75"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["75"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["75"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["75"]["Text"] = [[0%]];
+AZY["75"]["Rotation"] = 90;
+AZY["75"]["BackgroundTransparency"] = 1;
+AZY["75"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.StripedPattern
+AZY["76"] = Instance.new("ImageLabel", AZY["70"]);
+AZY["76"]["BorderSizePixel"] = 0;
+AZY["76"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["76"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["76"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["76"]["ImageTransparency"] = 1;
+AZY["76"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["76"]["Image"] = [[rbxassetid://4925116997]];
+AZY["76"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["76"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["76"]["Name"] = [[StripedPattern]];
+AZY["76"]["BackgroundTransparency"] = 1;
+AZY["76"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.StripedPattern.UIGradient
+AZY["77"] = Instance.new("UIGradient", AZY["76"]);
+AZY["77"]["Rotation"] = 90;
+AZY["77"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.ImageLabel
+AZY["78"] = Instance.new("ImageLabel", AZY["70"]);
+AZY["78"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["78"]["Image"] = [[rbxassetid://12582573514]];
+AZY["78"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["78"]["Rotation"] = 90;
+AZY["78"]["BackgroundTransparency"] = 1;
+AZY["78"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.TextGrav
+AZY["79"] = Instance.new("TextLabel", AZY["44"]);
+AZY["79"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["79"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["79"]["TextSize"] = 12;
+AZY["79"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["79"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["79"]["Text"] = [[Gravity]];
+AZY["79"]["Name"] = [[TextGrav]];
+AZY["79"]["BackgroundTransparency"] = 1;
+AZY["79"]["Position"] = UDim2.new(0.3269999921321869, 0, 0.8930000066757202, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.TextWs
+AZY["7a"] = Instance.new("TextLabel", AZY["44"]);
+AZY["7a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["7a"]["TextSize"] = 12;
+AZY["7a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7a"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["7a"]["Text"] = [[Speed]];
+AZY["7a"]["Name"] = [[TextWs]];
+AZY["7a"]["BackgroundTransparency"] = 1;
+AZY["7a"]["Position"] = UDim2.new(0.5411151647567749, 0, 0.8930000066757202, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.TextJp
+AZY["7b"] = Instance.new("TextLabel", AZY["44"]);
+AZY["7b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["7b"]["TextSize"] = 12;
+AZY["7b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["7b"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["7b"]["Text"] = [[Jump]];
+AZY["7b"]["Name"] = [[TextJp]];
+AZY["7b"]["BackgroundTransparency"] = 1;
+AZY["7b"]["Position"] = UDim2.new(0.7466657161712646, 0, 0.8930000066757202, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Ws
+AZY["7c"] = Instance.new("BoolValue", AZY["44"]);
+AZY["7c"]["Name"] = [[Ws]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Jp
+AZY["7d"] = Instance.new("BoolValue", AZY["44"]);
+AZY["7d"]["Name"] = [[Jp]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleGrav
+AZY["7e"] = Instance.new("TextButton", AZY["44"]);
+AZY["7e"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["7e"]["TextSize"] = 14;
+AZY["7e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["7e"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["7e"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["7e"]["Name"] = [[ToggleGrav]];
+AZY["7e"]["Text"] = [[]];
+AZY["7e"]["Position"] = UDim2.new(0.40253645181655884, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleGrav.UICorner
+AZY["7f"] = Instance.new("UICorner", AZY["7e"]);
+AZY["7f"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleGrav.LocalScript
+AZY["80"] = Instance.new("LocalScript", AZY["7e"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleWs
+AZY["81"] = Instance.new("TextButton", AZY["44"]);
+AZY["81"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["81"]["TextSize"] = 14;
+AZY["81"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["81"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["81"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["81"]["Name"] = [[ToggleWs]];
+AZY["81"]["Text"] = [[]];
+AZY["81"]["Position"] = UDim2.new(0.6166515946388245, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleWs.UICorner
+AZY["82"] = Instance.new("UICorner", AZY["81"]);
+AZY["82"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleWs.LocalScript
+AZY["83"] = Instance.new("LocalScript", AZY["81"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleJp
+AZY["84"] = Instance.new("TextButton", AZY["44"]);
+AZY["84"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["84"]["TextSize"] = 14;
+AZY["84"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["84"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["84"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["84"]["Name"] = [[ToggleJp]];
+AZY["84"]["Text"] = [[]];
+AZY["84"]["Position"] = UDim2.new(0.8222021460533142, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleJp.UICorner
+AZY["85"] = Instance.new("UICorner", AZY["84"]);
+AZY["85"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleJp.LocalScript
+AZY["86"] = Instance.new("LocalScript", AZY["84"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs
+AZY["87"] = Instance.new("Frame", AZY["2b"]);
+AZY["87"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["87"]["BackgroundTransparency"] = 1;
+AZY["87"]["Size"] = UDim2.new(0.831805408000946, 0, 0.7735126614570618, 0);
+AZY["87"]["Position"] = UDim2.new(0.1409205049276352, 0, 0.18711429834365845, 0);
+AZY["87"]["Visible"] = false;
+AZY["87"]["Name"] = [[Changelogs]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.TitlePage
+AZY["88"] = Instance.new("Frame", AZY["87"]);
+AZY["88"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["88"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["88"]["Size"] = UDim2.new(0.47281256318092346, 0, 0.2235966920852661, 0);
+AZY["88"]["Position"] = UDim2.new(0.0059703318402171135, 0, 0.020400146022439003, 0);
+AZY["88"]["Name"] = [[TitlePage]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.TitlePage.UICorner
+AZY["89"] = Instance.new("UICorner", AZY["88"]);
+AZY["89"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.TitlePage.ImageLabel
+AZY["8a"] = Instance.new("ImageLabel", AZY["88"]);
+AZY["8a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["8a"]["Image"] = [[rbxassetid://12585006598]];
+AZY["8a"]["Size"] = UDim2.new(0, 48, 0, 48);
+AZY["8a"]["BackgroundTransparency"] = 1;
+AZY["8a"]["Position"] = UDim2.new(0.16064772009849548, 0, -0.020948588848114014, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.TitlePage.TextLogo
+AZY["8b"] = Instance.new("TextLabel", AZY["88"]);
+AZY["8b"]["TextWrapped"] = true;
+AZY["8b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["8b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["8b"]["TextSize"] = 17;
+AZY["8b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["8b"]["Size"] = UDim2.new(0.48227599263191223, 0, 0.442178338766098, 0);
+AZY["8b"]["Text"] = [[WeiShan Team]];
+AZY["8b"]["Name"] = [[TextLogo]];
+AZY["8b"]["BackgroundTransparency"] = 1;
+AZY["8b"]["Position"] = UDim2.new(0.3840000033378601, 0, 0.2709999978542328, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.TitlePage.TextLogo.UITextSizeConstraint
+AZY["8c"] = Instance.new("UITextSizeConstraint", AZY["8b"]);
+AZY["8c"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits
+AZY["8d"] = Instance.new("Frame", AZY["87"]);
+AZY["8d"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["8d"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["8d"]["Size"] = UDim2.new(0.47281256318092346, 0, 0.7172916531562805, 0);
+AZY["8d"]["Position"] = UDim2.new(0.0059703318402171135, 0, 0.28270816802978516, 0);
+AZY["8d"]["Name"] = [[Credits]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.UICorner
+AZY["8e"] = Instance.new("UICorner", AZY["8d"]);
+AZY["8e"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.Title
+AZY["8f"] = Instance.new("TextLabel", AZY["8d"]);
+AZY["8f"]["TextWrapped"] = true;
+AZY["8f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["8f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["8f"]["TextSize"] = 17;
+AZY["8f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["8f"]["Size"] = UDim2.new(0.32700005173683167, 0, 0.14513146877288818, 0);
+AZY["8f"]["Text"] = [[关于我们]];
+AZY["8f"]["Name"] = [[Title]];
+AZY["8f"]["BackgroundTransparency"] = 1;
+AZY["8f"]["Position"] = UDim2.new(0.056999966502189636, 0, 0.048999954015016556, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.Title.UITextSizeConstraint
+AZY["90"] = Instance.new("UITextSizeConstraint", AZY["8f"]);
+AZY["90"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame
+AZY["91"] = Instance.new("ScrollingFrame", AZY["8d"]);
+AZY["91"]["Active"] = true;
+AZY["91"]["CanvasSize"] = UDim2.new(0, 0, 1.5, 0);
+AZY["91"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["91"]["BackgroundTransparency"] = 1;
+AZY["91"]["Size"] = UDim2.new(0, 175, 0, 110);
+AZY["91"]["ScrollBarImageColor3"] = Color3.fromRGB(255, 0, 14);
+AZY["91"]["BorderColor3"] = Color3.fromRGB(54, 0, 2);
+AZY["91"]["ScrollBarThickness"] = 5;
+AZY["91"]["Position"] = UDim2.new(-4.226361483006258e-08, 0, 0.20896700024604797, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person
+AZY["92"] = Instance.new("Frame", AZY["91"]);
+AZY["92"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["92"]["BackgroundTransparency"] = 1;
+AZY["92"]["Size"] = UDim2.new(0, 144, 0, 44);
+AZY["92"]["Position"] = UDim2.new(0.11400000005960464, 0, 0, 0);
+AZY["92"]["Name"] = [[Person]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.ImageLabel
+AZY["93"] = Instance.new("ImageLabel", AZY["92"]);
+AZY["93"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["93"]["Image"] = [[rbxassetid://12585390334]];
+AZY["93"]["Size"] = UDim2.new(0, 41, 0, 41);
+AZY["93"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo
+AZY["94"] = Instance.new("TextLabel", AZY["92"]);
+AZY["94"]["TextWrapped"] = true;
+AZY["94"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["94"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["94"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["94"]["TextSize"] = 13;
+AZY["94"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["94"]["Size"] = UDim2.new(0.6571568250656128, 0, 0.37654438614845276, 0);
+AZY["94"]["Text"] = [[Chillz]];
+AZY["94"]["Name"] = [[TextLogo]];
+AZY["94"]["BackgroundTransparency"] = 1;
+AZY["94"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.16500000655651093, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo.UITextSizeConstraint
+AZY["95"] = Instance.new("UITextSizeConstraint", AZY["94"]);
+AZY["95"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc
+AZY["96"] = Instance.new("TextLabel", AZY["92"]);
+AZY["96"]["TextWrapped"] = true;
+AZY["96"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["96"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["96"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["96"]["TextSize"] = 11;
+AZY["96"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["96"]["Size"] = UDim2.new(0.657156765460968, 0, 0.3310898244380951, 0);
+AZY["96"]["Text"] = [[UI 一切]];
+AZY["96"]["Name"] = [[Desc]];
+AZY["96"]["BackgroundTransparency"] = 1;
+AZY["96"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.4300000071525574, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc.UITextSizeConstraint
+AZY["97"] = Instance.new("UITextSizeConstraint", AZY["96"]);
+AZY["97"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person
+AZY["98"] = Instance.new("Frame", AZY["91"]);
+AZY["98"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["98"]["BackgroundTransparency"] = 1;
+AZY["98"]["Size"] = UDim2.new(0, 144, 0, 44);
+AZY["98"]["Position"] = UDim2.new(0.11400000005960464, 0, 0.19155307114124298, 0);
+AZY["98"]["Name"] = [[Person]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.ImageLabel
+AZY["99"] = Instance.new("ImageLabel", AZY["98"]);
+AZY["99"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["99"]["Image"] = [[rbxassetid://12585434446]];
+AZY["99"]["Size"] = UDim2.new(0, 41, 0, 41);
+AZY["99"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo
+AZY["9a"] = Instance.new("TextLabel", AZY["98"]);
+AZY["9a"]["TextWrapped"] = true;
+AZY["9a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["9a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["9a"]["TextSize"] = 13;
+AZY["9a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9a"]["Size"] = UDim2.new(0.6571568250656128, 0, 0.37654438614845276, 0);
+AZY["9a"]["Text"] = [[Ash01#0947]];
+AZY["9a"]["Name"] = [[TextLogo]];
+AZY["9a"]["BackgroundTransparency"] = 1;
+AZY["9a"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.16500000655651093, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo.UITextSizeConstraint
+AZY["9b"] = Instance.new("UITextSizeConstraint", AZY["9a"]);
+AZY["9b"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc
+AZY["9c"] = Instance.new("TextLabel", AZY["98"]);
+AZY["9c"]["TextWrapped"] = true;
+AZY["9c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["9c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["9c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9c"]["Size"] = UDim2.new(0.657156765460968, 0, 0.3310898244380951, 0);
+AZY["9c"]["Text"] = [[Pwner Hub Owner / Creator]];
+AZY["9c"]["Name"] = [[Desc]];
+AZY["9c"]["BackgroundTransparency"] = 1;
+AZY["9c"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.4300000071525574, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc.UITextSizeConstraint
+AZY["9d"] = Instance.new("UITextSizeConstraint", AZY["9c"]);
+AZY["9d"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person
+AZY["9e"] = Instance.new("Frame", AZY["91"]);
+AZY["9e"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["9e"]["BackgroundTransparency"] = 1;
+AZY["9e"]["Size"] = UDim2.new(0, 144, 0, 44);
+AZY["9e"]["Position"] = UDim2.new(0.11400000005960464, 0, 0.38310614228248596, 0);
+AZY["9e"]["Name"] = [[Person]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.ImageLabel
+AZY["9f"] = Instance.new("ImageLabel", AZY["9e"]);
+AZY["9f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["9f"]["Image"] = [[http://www.roblox.com/asset/?id=12462028268]];
+AZY["9f"]["Size"] = UDim2.new(0, 41, 0, 41);
+AZY["9f"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo
+AZY["a0"] = Instance.new("TextLabel", AZY["9e"]);
+AZY["a0"]["TextWrapped"] = true;
+AZY["a0"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a0"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["a0"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["a0"]["TextSize"] = 13;
+AZY["a0"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a0"]["Size"] = UDim2.new(0.6571568250656128, 0, 0.37654438614845276, 0);
+AZY["a0"]["Text"] = [[SonicTuru]];
+AZY["a0"]["Name"] = [[TextLogo]];
+AZY["a0"]["BackgroundTransparency"] = 1;
+AZY["a0"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.16500000655651093, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.TextLogo.UITextSizeConstraint
+AZY["a1"] = Instance.new("UITextSizeConstraint", AZY["a0"]);
+AZY["a1"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc
+AZY["a2"] = Instance.new("TextLabel", AZY["9e"]);
+AZY["a2"]["TextWrapped"] = true;
+AZY["a2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a2"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["a2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["a2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a2"]["Size"] = UDim2.new(0.657156765460968, 0, 0.3310898244380951, 0);
+AZY["a2"]["Text"] = [[Chillz's friend (nothing)]];
+AZY["a2"]["Name"] = [[Desc]];
+AZY["a2"]["BackgroundTransparency"] = 1;
+AZY["a2"]["Position"] = UDim2.new(0.34299999475479126, 0, 0.4300000071525574, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.Desc.UITextSizeConstraint
+AZY["a3"] = Instance.new("UITextSizeConstraint", AZY["a2"]);
+AZY["a3"]["MaxTextSize"] = 25;
+-- Mаdе bу A​​​Z​​​Y#​0​​​3​​​4​​​8
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog
+AZY["a4"] = Instance.new("Frame", AZY["87"]);
+AZY["a4"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["a4"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["a4"]["Size"] = UDim2.new(0.47281256318092346, 0, 0.7172916531562805, 0);
+AZY["a4"]["Position"] = UDim2.new(0.5088531970977783, 0, 0.020400196313858032, 0);
+AZY["a4"]["Name"] = [[Changelog]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.UICorner
+AZY["a5"] = Instance.new("UICorner", AZY["a4"]);
+AZY["a5"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.TextLogo
+AZY["a6"] = Instance.new("TextLabel", AZY["a4"]);
+AZY["a6"]["TextWrapped"] = true;
+AZY["a6"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a6"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["a6"]["TextSize"] = 19;
+AZY["a6"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a6"]["Size"] = UDim2.new(0.39918234944343567, 0, 0.14513146877288818, 0);
+AZY["a6"]["Text"] = [[Changelog]];
+AZY["a6"]["Name"] = [[TextLogo]];
+AZY["a6"]["BackgroundTransparency"] = 1;
+AZY["a6"]["Position"] = UDim2.new(0.05700000002980232, 0, 0.04899999871850014, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.TextLogo.UITextSizeConstraint
+AZY["a7"] = Instance.new("UITextSizeConstraint", AZY["a6"]);
+AZY["a7"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.Ver
+AZY["a8"] = Instance.new("TextLabel", AZY["a4"]);
+AZY["a8"]["TextWrapped"] = true;
+AZY["a8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["a8"]["TextSize"] = 13;
+AZY["a8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["a8"]["Size"] = UDim2.new(0.240515798330307, 0, 0.14513146877288818, 0);
+AZY["a8"]["Text"] = [[v3.0.1]];
+AZY["a8"]["Name"] = [[Ver]];
+AZY["a8"]["BackgroundTransparency"] = 1;
+AZY["a8"]["Position"] = UDim2.new(0.6331158876419067, 0, 0.04900005832314491, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.Ver.UITextSizeConstraint
+AZY["a9"] = Instance.new("UITextSizeConstraint", AZY["a8"]);
+AZY["a9"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.Ver
+AZY["aa"] = Instance.new("TextLabel", AZY["a4"]);
+AZY["aa"]["TextWrapped"] = true;
+AZY["aa"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["aa"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["aa"]["TextSize"] = 9;
+AZY["aa"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["aa"]["Size"] = UDim2.new(0.0997123271226883, 0, 0.08936085551977158, 0);
+AZY["aa"]["Text"] = [[beta]];
+AZY["aa"]["Name"] = [[Ver]];
+AZY["aa"]["BackgroundTransparency"] = 1;
+AZY["aa"]["Position"] = UDim2.new(0.8399999737739563, 0, 0.0820000022649765, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.Ver.UITextSizeConstraint
+AZY["ab"] = Instance.new("UITextSizeConstraint", AZY["aa"]);
+AZY["ab"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame
+AZY["ac"] = Instance.new("ScrollingFrame", AZY["a4"]);
+AZY["ac"]["Active"] = true;
+AZY["ac"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ac"]["BackgroundTransparency"] = 1;
+AZY["ac"]["Size"] = UDim2.new(0, 165, 0, 113);
+AZY["ac"]["ScrollBarImageColor3"] = Color3.fromRGB(255, 0, 14);
+AZY["ac"]["BorderColor3"] = Color3.fromRGB(54, 0, 2);
+AZY["ac"]["ScrollBarThickness"] = 5;
+AZY["ac"]["Position"] = UDim2.new(0.05699992552399635, 0, 0.20896704494953156, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab
+AZY["ad"] = Instance.new("Frame", AZY["ac"]);
+AZY["ad"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["ad"]["BackgroundTransparency"] = 1;
+AZY["ad"]["Size"] = UDim2.new(0.8838858008384705, 0, 0.41258352994918823, 0);
+AZY["ad"]["Position"] = UDim2.new(-0.001135505735874176, 0, 0.008439034223556519, 0);
+AZY["ad"]["Name"] = [[ChangelogTab]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab.UICorner
+AZY["ae"] = Instance.new("UICorner", AZY["ad"]);
+AZY["ae"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab.TextLabel
+AZY["af"] = Instance.new("TextLabel", AZY["ad"]);
+AZY["af"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["af"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["af"]["TextSize"] = 56;
+AZY["af"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["af"]["Size"] = UDim2.new(0, 18, 0, 20);
+AZY["af"]["Text"] = [[.]];
+AZY["af"]["BackgroundTransparency"] = 1;
+AZY["af"]["Position"] = UDim2.new(-0.00024911601212807, 0, -0.08813343942165375, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab.TextLabel
+AZY["b0"] = Instance.new("TextLabel", AZY["ad"]);
+AZY["b0"]["BackgroundColor3"] = Color3.fromRGB(0, 187, 7);
+AZY["b0"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["b0"]["TextSize"] = 14;
+AZY["b0"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b0"]["Size"] = UDim2.new(0, 29, 0, 14);
+AZY["b0"]["Text"] = [[New]];
+AZY["b0"]["Position"] = UDim2.new(0.10899999737739563, 0, 0.05000000074505806, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab.TextLabel.UICorner
+AZY["b1"] = Instance.new("UICorner", AZY["b0"]);
+AZY["b1"]["CornerRadius"] = UDim.new(0, 4);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab.TextLabel
+AZY["b2"] = Instance.new("TextLabel", AZY["ad"]);
+AZY["b2"]["TextWrapped"] = true;
+AZY["b2"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["b2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b2"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["b2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["b2"]["TextSize"] = 11;
+AZY["b2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b2"]["Size"] = UDim2.new(0, 109, 0, 60);
+AZY["b2"]["Text"] = [[浮动图标现在具有addec功能！除了打开mod菜单，按住它会直接带你到你想要的页面]];
+AZY["b2"]["BackgroundTransparency"] = 1;
+AZY["b2"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1
+AZY["b3"] = Instance.new("Frame", AZY["ac"]);
+AZY["b3"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["b3"]["BackgroundTransparency"] = 1;
+AZY["b3"]["Size"] = UDim2.new(0.8838858008384705, 0, 0.41258352994918823, 0);
+AZY["b3"]["Position"] = UDim2.new(-0.0071961116045713425, 0, 0.20108048617839813, 0);
+AZY["b3"]["Name"] = [[ChangelogTab1]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1.UICorner
+AZY["b4"] = Instance.new("UICorner", AZY["b3"]);
+AZY["b4"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1.TextLabel
+AZY["b5"] = Instance.new("TextLabel", AZY["b3"]);
+AZY["b5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b5"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["b5"]["TextSize"] = 56;
+AZY["b5"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b5"]["Size"] = UDim2.new(0, 18, 0, 20);
+AZY["b5"]["Text"] = [[.]];
+AZY["b5"]["BackgroundTransparency"] = 1;
+AZY["b5"]["Position"] = UDim2.new(-0.00024911601212807, 0, -0.08813343942165375, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1.TextLabel
+AZY["b6"] = Instance.new("TextLabel", AZY["b3"]);
+AZY["b6"]["BackgroundColor3"] = Color3.fromRGB(0, 187, 7);
+AZY["b6"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["b6"]["TextSize"] = 14;
+AZY["b6"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b6"]["Size"] = UDim2.new(0, 29, 0, 14);
+AZY["b6"]["Text"] = [[New]];
+AZY["b6"]["Position"] = UDim2.new(0.10899999737739563, 0, 0.05000000074505806, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1.TextLabel.UICorner
+AZY["b7"] = Instance.new("UICorner", AZY["b6"]);
+AZY["b7"]["CornerRadius"] = UDim.new(0, 4);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab1.TextLabel
+AZY["b8"] = Instance.new("TextLabel", AZY["b3"]);
+AZY["b8"]["TextWrapped"] = true;
+AZY["b8"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["b8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b8"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["b8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["b8"]["TextSize"] = 11;
+AZY["b8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["b8"]["Size"] = UDim2.new(0, 109, 0, 60);
+AZY["b8"]["Text"] = [[令人惊叹的设计，令人惊叹的图形元素、动画、颜色和美丽的图标!]];
+AZY["b8"]["BackgroundTransparency"] = 1;
+AZY["b8"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2
+AZY["b9"] = Instance.new("Frame", AZY["ac"]);
+AZY["b9"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["b9"]["BackgroundTransparency"] = 1;
+AZY["b9"]["Size"] = UDim2.new(0.8838858008384705, 0, 0.41258352994918823, 0);
+AZY["b9"]["Position"] = UDim2.new(-0.0010000000474974513, 0, 0.3869999945163727, 0);
+AZY["b9"]["Name"] = [[ChangelogTab2]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2.UICorner
+AZY["ba"] = Instance.new("UICorner", AZY["b9"]);
+AZY["ba"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2.TextLabel
+AZY["bb"] = Instance.new("TextLabel", AZY["b9"]);
+AZY["bb"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["bb"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["bb"]["TextSize"] = 56;
+AZY["bb"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["bb"]["Size"] = UDim2.new(0, 18, 0, 20);
+AZY["bb"]["Text"] = [[.]];
+AZY["bb"]["BackgroundTransparency"] = 1;
+AZY["bb"]["Position"] = UDim2.new(-0.00024911601212807, 0, -0.08813343942165375, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2.TextLabel
+AZY["bc"] = Instance.new("TextLabel", AZY["b9"]);
+AZY["bc"]["BackgroundColor3"] = Color3.fromRGB(0, 187, 7);
+AZY["bc"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["bc"]["TextSize"] = 14;
+AZY["bc"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["bc"]["Size"] = UDim2.new(0, 29, 0, 14);
+AZY["bc"]["Text"] = [[New]];
+AZY["bc"]["Position"] = UDim2.new(0.10899999737739563, 0, 0.05000000074505806, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2.TextLabel.UICorner
+AZY["bd"] = Instance.new("UICorner", AZY["bc"]);
+AZY["bd"]["CornerRadius"] = UDim.new(0, 4);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab2.TextLabel
+AZY["be"] = Instance.new("TextLabel", AZY["b9"]);
+AZY["be"]["TextWrapped"] = true;
+AZY["be"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["be"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["be"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["be"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["be"]["TextSize"] = 11;
+AZY["be"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["be"]["Size"] = UDim2.new(0, 109, 0, 60);
+AZY["be"]["Text"] = [[具有舒适用户界面移动和半透明模式菜单的窗口设计，减少了游戏体验的干扰!]];
+AZY["be"]["BackgroundTransparency"] = 1;
+AZY["be"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3
+AZY["bf"] = Instance.new("Frame", AZY["ac"]);
+AZY["bf"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["bf"]["BackgroundTransparency"] = 1;
+AZY["bf"]["Size"] = UDim2.new(0.8838858008384705, 0, 0.41258352994918823, 0);
+AZY["bf"]["Position"] = UDim2.new(0.005060605704784393, 0, 0.5927019119262695, 0);
+AZY["bf"]["Name"] = [[ChangelogTab3]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3.UICorner
+AZY["c0"] = Instance.new("UICorner", AZY["bf"]);
+AZY["c0"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3.TextLabel
+AZY["c1"] = Instance.new("TextLabel", AZY["bf"]);
+AZY["c1"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c1"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["c1"]["TextSize"] = 56;
+AZY["c1"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c1"]["Size"] = UDim2.new(0, 18, 0, 20);
+AZY["c1"]["Text"] = [[.]];
+AZY["c1"]["BackgroundTransparency"] = 1;
+AZY["c1"]["Position"] = UDim2.new(-0.00024911601212807, 0, -0.08813343942165375, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3.TextLabel
+AZY["c2"] = Instance.new("TextLabel", AZY["bf"]);
+AZY["c2"]["BackgroundColor3"] = Color3.fromRGB(0, 187, 7);
+AZY["c2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["c2"]["TextSize"] = 14;
+AZY["c2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c2"]["Size"] = UDim2.new(0, 29, 0, 14);
+AZY["c2"]["Text"] = [[New]];
+AZY["c2"]["Position"] = UDim2.new(0.10899999737739563, 0, 0.05000000074505806, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3.TextLabel.UICorner
+AZY["c3"] = Instance.new("UICorner", AZY["c2"]);
+AZY["c3"]["CornerRadius"] = UDim.new(0, 4);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Changelog.ScrollingFrame.ChangelogTab3.TextLabel
+AZY["c4"] = Instance.new("TextLabel", AZY["bf"]);
+AZY["c4"]["TextWrapped"] = true;
+AZY["c4"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["c4"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c4"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["c4"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["c4"]["TextSize"] = 11;
+AZY["c4"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c4"]["Size"] = UDim2.new(0, 109, 0, 60);
+AZY["c4"]["Text"] = [[关于我们的团队和我们的社会媒体的所有信息的信息页！加上一个直观和设计良好的变更日志.]];
+AZY["c4"]["BackgroundTransparency"] = 1;
+AZY["c4"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications
+AZY["c5"] = Instance.new("Frame", AZY["87"]);
+AZY["c5"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["c5"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["c5"]["Size"] = UDim2.new(0.47281256318092346, 0, 0.2235966920852661, 0);
+AZY["c5"]["Position"] = UDim2.new(0.5088531970977783, 0, 0.774535596370697, 0);
+AZY["c5"]["Name"] = [[Communications]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.UICorner
+AZY["c6"] = Instance.new("UICorner", AZY["c5"]);
+AZY["c6"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.Copy
+AZY["c7"] = Instance.new("TextButton", AZY["c5"]);
+AZY["c7"]["TextWrapped"] = true;
+AZY["c7"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["c7"]["TextSize"] = 12;
+AZY["c7"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["c7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["c7"]["Size"] = UDim2.new(0.41421639919281006, 0, 0.503000020980835, 0);
+AZY["c7"]["Name"] = [[Copy]];
+AZY["c7"]["Text"] = [[Copy Link]];
+AZY["c7"]["Position"] = UDim2.new(0.03737286850810051, 0, 0.22850681841373444, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.Copy.UICorner
+AZY["c8"] = Instance.new("UICorner", AZY["c7"]);
+AZY["c8"]["CornerRadius"] = UDim.new(0, 6);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.Copy.LocalScript
+AZY["c9"] = Instance.new("LocalScript", AZY["c7"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.TextLogo
+AZY["ca"] = Instance.new("TextLabel", AZY["c5"]);
+AZY["ca"]["TextWrapped"] = true;
+AZY["ca"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ca"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["ca"]["TextSize"] = 19;
+AZY["ca"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ca"]["Size"] = UDim2.new(0.14990141987800598, 0, 0.2844810485839844, 0);
+AZY["ca"]["Text"] = [[Or]];
+AZY["ca"]["Name"] = [[TextLogo]];
+AZY["ca"]["BackgroundTransparency"] = 1;
+AZY["ca"]["Position"] = UDim2.new(0.45584943890571594, 0, 0.30038517713546753, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.TextLogo.UITextSizeConstraint
+AZY["cb"] = Instance.new("UITextSizeConstraint", AZY["ca"]);
+AZY["cb"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.TextLogo
+AZY["cc"] = Instance.new("TextLabel", AZY["c5"]);
+AZY["cc"]["TextWrapped"] = true;
+AZY["cc"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["cc"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["cc"]["TextSize"] = 19;
+AZY["cc"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["cc"]["Size"] = UDim2.new(0.4056611955165863, 0, 0.2844810485839844, 0);
+AZY["cc"]["Text"] = [[AZY#0348]];
+AZY["cc"]["Name"] = [[TextLogo]];
+AZY["cc"]["BackgroundTransparency"] = 1;
+AZY["cc"]["Position"] = UDim2.new(0.5943388342857361, 0, 0.30038517713546753, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.TextLogo.UITextSizeConstraint
+AZY["cd"] = Instance.new("UITextSizeConstraint", AZY["cc"]);
+AZY["cd"]["MaxTextSize"] = 25;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax
+AZY["ce"] = Instance.new("Frame", AZY["2b"]);
+AZY["ce"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["ce"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["ce"]["Size"] = UDim2.new(0.831805408000946, 0, 0.7551097869873047, 0);
+AZY["ce"]["Position"] = UDim2.new(0.1409205049276352, 0, 0.20551720261573792, 0);
+AZY["ce"]["Visible"] = false;
+AZY["ce"]["Name"] = [[BuiltInHax]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.UICorner
+AZY["cf"] = Instance.new("UICorner", AZY["ce"]);
+AZY["cf"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage
+AZY["d0"] = Instance.new("Frame", AZY["ce"]);
+AZY["d0"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["d0"]["BackgroundTransparency"] = 1;
+AZY["d0"]["Size"] = UDim2.new(0.6116291880607605, 0, 1.0292569398880005, 0);
+AZY["d0"]["Position"] = UDim2.new(0.3700365424156189, 0, -0.03249453008174896, 0);
+AZY["d0"]["Name"] = [[HaxPage]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.UICorner
+AZY["d1"] = Instance.new("UICorner", AZY["d0"]);
+AZY["d1"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.Grav
+AZY["d2"] = Instance.new("BoolValue", AZY["d0"]);
+AZY["d2"]["Name"] = [[Grav]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.Scripts
+AZY["d3"] = Instance.new("Folder", AZY["d0"]);
+AZY["d3"]["Name"] = [[Scripts]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS
+AZY["d4"] = Instance.new("ImageLabel", AZY["d0"]);
+AZY["d4"]["BorderSizePixel"] = 0;
+AZY["d4"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["d4"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["d4"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["d4"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["d4"]["SliceScale"] = 0.11999999731779099;
+AZY["d4"]["ImageTransparency"] = 1;
+AZY["d4"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["d4"]["Image"] = [[rbxassetid://3570695787]];
+AZY["d4"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["d4"]["Name"] = [[GravS]];
+AZY["d4"]["Rotation"] = -90;
+AZY["d4"]["BackgroundTransparency"] = 1;
+AZY["d4"]["Position"] = UDim2.new(0.4359999895095825, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.SliderButton
+AZY["d5"] = Instance.new("ImageLabel", AZY["d4"]);
+AZY["d5"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["d5"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["d5"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["d5"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["d5"]["SliceScale"] = 0.11999999731779099;
+AZY["d5"]["Selectable"] = true;
+AZY["d5"]["Image"] = [[rbxassetid://3570695787]];
+AZY["d5"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["d5"]["Active"] = true;
+AZY["d5"]["Name"] = [[SliderButton]];
+AZY["d5"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.SliderButton.LocalScript
+AZY["d6"] = Instance.new("LocalScript", AZY["d5"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.Border
+AZY["d7"] = Instance.new("ImageLabel", AZY["d4"]);
+AZY["d7"]["ZIndex"] = -1;
+AZY["d7"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["d7"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["d7"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["d7"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["d7"]["SliceScale"] = 0.23999999463558197;
+AZY["d7"]["ImageTransparency"] = 1;
+AZY["d7"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["d7"]["Image"] = [[rbxassetid://3570695787]];
+AZY["d7"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["d7"]["Name"] = [[Border]];
+AZY["d7"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["d7"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.Border.UICorner
+AZY["d8"] = Instance.new("UICorner", AZY["d7"]);
+AZY["d8"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.TextLabel
+AZY["d9"] = Instance.new("TextLabel", AZY["d4"]);
+AZY["d9"]["ZIndex"] = 2;
+AZY["d9"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["d9"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["d9"]["TextTransparency"] = 0.25;
+AZY["d9"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["d9"]["TextSize"] = 13;
+AZY["d9"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["d9"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["d9"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["d9"]["Text"] = [[0%]];
+AZY["d9"]["Rotation"] = 90;
+AZY["d9"]["BackgroundTransparency"] = 1;
+AZY["d9"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.StripedPattern
+AZY["da"] = Instance.new("ImageLabel", AZY["d4"]);
+AZY["da"]["BorderSizePixel"] = 0;
+AZY["da"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["da"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["da"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["da"]["ImageTransparency"] = 1;
+AZY["da"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["da"]["Image"] = [[rbxassetid://4925116997]];
+AZY["da"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["da"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["da"]["Name"] = [[StripedPattern]];
+AZY["da"]["BackgroundTransparency"] = 1;
+AZY["da"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.StripedPattern.UIGradient
+AZY["db"] = Instance.new("UIGradient", AZY["da"]);
+AZY["db"]["Rotation"] = 90;
+AZY["db"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.ImageLabel
+AZY["dc"] = Instance.new("ImageLabel", AZY["d4"]);
+AZY["dc"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["dc"]["Image"] = [[rbxassetid://12582575947]];
+AZY["dc"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["dc"]["Rotation"] = 90;
+AZY["dc"]["BackgroundTransparency"] = 1;
+AZY["dc"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS
+AZY["dd"] = Instance.new("ImageLabel", AZY["d0"]);
+AZY["dd"]["BorderSizePixel"] = 0;
+AZY["dd"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["dd"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["dd"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["dd"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["dd"]["SliceScale"] = 0.11999999731779099;
+AZY["dd"]["ImageTransparency"] = 1;
+AZY["dd"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["dd"]["Image"] = [[rbxassetid://3570695787]];
+AZY["dd"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["dd"]["Name"] = [[WsS]];
+AZY["dd"]["Rotation"] = -90;
+AZY["dd"]["BackgroundTransparency"] = 1;
+AZY["dd"]["Position"] = UDim2.new(0.6499999761581421, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.SliderButton
+AZY["de"] = Instance.new("ImageLabel", AZY["dd"]);
+AZY["de"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["de"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["de"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["de"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["de"]["SliceScale"] = 0.11999999731779099;
+AZY["de"]["Selectable"] = true;
+AZY["de"]["Image"] = [[rbxassetid://3570695787]];
+AZY["de"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["de"]["Active"] = true;
+AZY["de"]["Name"] = [[SliderButton]];
+AZY["de"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.SliderButton.LocalScript
+AZY["df"] = Instance.new("LocalScript", AZY["de"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.Border
+AZY["e0"] = Instance.new("ImageLabel", AZY["dd"]);
+AZY["e0"]["ZIndex"] = -1;
+AZY["e0"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["e0"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["e0"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["e0"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["e0"]["SliceScale"] = 0.23999999463558197;
+AZY["e0"]["ImageTransparency"] = 1;
+AZY["e0"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["e0"]["Image"] = [[rbxassetid://3570695787]];
+AZY["e0"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["e0"]["Name"] = [[Border]];
+AZY["e0"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["e0"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.Border.UICorner
+AZY["e1"] = Instance.new("UICorner", AZY["e0"]);
+AZY["e1"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.TextLabel
+AZY["e2"] = Instance.new("TextLabel", AZY["dd"]);
+AZY["e2"]["ZIndex"] = 2;
+AZY["e2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["e2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["e2"]["TextTransparency"] = 0.25;
+AZY["e2"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["e2"]["TextSize"] = 13;
+AZY["e2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["e2"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["e2"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["e2"]["Text"] = [[0%]];
+AZY["e2"]["Rotation"] = 90;
+AZY["e2"]["BackgroundTransparency"] = 1;
+AZY["e2"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.StripedPattern
+AZY["e3"] = Instance.new("ImageLabel", AZY["dd"]);
+AZY["e3"]["BorderSizePixel"] = 0;
+AZY["e3"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["e3"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["e3"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["e3"]["ImageTransparency"] = 1;
+AZY["e3"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["e3"]["Image"] = [[rbxassetid://4925116997]];
+AZY["e3"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["e3"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["e3"]["Name"] = [[StripedPattern]];
+AZY["e3"]["BackgroundTransparency"] = 1;
+AZY["e3"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.StripedPattern.UIGradient
+AZY["e4"] = Instance.new("UIGradient", AZY["e3"]);
+AZY["e4"]["Rotation"] = 90;
+AZY["e4"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.ImageLabel
+AZY["e5"] = Instance.new("ImageLabel", AZY["dd"]);
+AZY["e5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["e5"]["Image"] = [[rbxassetid://12572149271]];
+AZY["e5"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["e5"]["Rotation"] = 90;
+AZY["e5"]["BackgroundTransparency"] = 1;
+AZY["e5"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS
+AZY["e6"] = Instance.new("ImageLabel", AZY["d0"]);
+AZY["e6"]["BorderSizePixel"] = 0;
+AZY["e6"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["e6"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["e6"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
+AZY["e6"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["e6"]["SliceScale"] = 0.11999999731779099;
+AZY["e6"]["ImageTransparency"] = 1;
+AZY["e6"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["e6"]["Image"] = [[rbxassetid://3570695787]];
+AZY["e6"]["Size"] = UDim2.new(0, 119, 0, 31);
+AZY["e6"]["Name"] = [[JpS]];
+AZY["e6"]["Rotation"] = -90;
+AZY["e6"]["BackgroundTransparency"] = 1;
+AZY["e6"]["Position"] = UDim2.new(0.8600000143051147, 0, 0.4399999976158142, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.SliderButton
+AZY["e7"] = Instance.new("ImageLabel", AZY["e6"]);
+AZY["e7"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["e7"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["e7"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["e7"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["e7"]["SliceScale"] = 0.11999999731779099;
+AZY["e7"]["Selectable"] = true;
+AZY["e7"]["Image"] = [[rbxassetid://3570695787]];
+AZY["e7"]["Size"] = UDim2.new(0, 25, 1, 0);
+AZY["e7"]["Active"] = true;
+AZY["e7"]["Name"] = [[SliderButton]];
+AZY["e7"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.SliderButton.LocalScript
+AZY["e8"] = Instance.new("LocalScript", AZY["e7"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.Border
+AZY["e9"] = Instance.new("ImageLabel", AZY["e6"]);
+AZY["e9"]["ZIndex"] = -1;
+AZY["e9"]["SliceCenter"] = Rect.new(100, 100, 100, 100);
+AZY["e9"]["ScaleType"] = Enum.ScaleType.Slice;
+AZY["e9"]["BackgroundColor3"] = Color3.fromRGB(62, 62, 62);
+AZY["e9"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
+AZY["e9"]["SliceScale"] = 0.23999999463558197;
+AZY["e9"]["ImageTransparency"] = 1;
+AZY["e9"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+AZY["e9"]["Image"] = [[rbxassetid://3570695787]];
+AZY["e9"]["Size"] = UDim2.new(1, 12, 1, 12);
+AZY["e9"]["Name"] = [[Border]];
+AZY["e9"]["BackgroundTransparency"] = 0.6000000238418579;
+AZY["e9"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.Border.UICorner
+AZY["ea"] = Instance.new("UICorner", AZY["e9"]);
+AZY["ea"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.TextLabel
+AZY["eb"] = Instance.new("TextLabel", AZY["e6"]);
+AZY["eb"]["ZIndex"] = 2;
+AZY["eb"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["eb"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["eb"]["TextTransparency"] = 0.25;
+AZY["eb"]["TextStrokeColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["eb"]["TextSize"] = 13;
+AZY["eb"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["eb"]["AnchorPoint"] = Vector2.new(1, 0);
+AZY["eb"]["Size"] = UDim2.new(0, 50, 1, 0);
+AZY["eb"]["Text"] = [[0%]];
+AZY["eb"]["Rotation"] = 90;
+AZY["eb"]["BackgroundTransparency"] = 1;
+AZY["eb"]["Position"] = UDim2.new(0, 137, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.StripedPattern
+AZY["ec"] = Instance.new("ImageLabel", AZY["e6"]);
+AZY["ec"]["BorderSizePixel"] = 0;
+AZY["ec"]["ScaleType"] = Enum.ScaleType.Tile;
+AZY["ec"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ec"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
+AZY["ec"]["ImageTransparency"] = 1;
+AZY["ec"]["AnchorPoint"] = Vector2.new(0.5, 0);
+AZY["ec"]["Image"] = [[rbxassetid://4925116997]];
+AZY["ec"]["TileSize"] = UDim2.new(0, 25, 1, 0);
+AZY["ec"]["Size"] = UDim2.new(1, -25, 1, 0);
+AZY["ec"]["Name"] = [[StripedPattern]];
+AZY["ec"]["BackgroundTransparency"] = 1;
+AZY["ec"]["Position"] = UDim2.new(0.5, 0, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.StripedPattern.UIGradient
+AZY["ed"] = Instance.new("UIGradient", AZY["ec"]);
+AZY["ed"]["Rotation"] = 90;
+AZY["ed"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 255)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(0, 0, 0))};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.ImageLabel
+AZY["ee"] = Instance.new("ImageLabel", AZY["e6"]);
+AZY["ee"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ee"]["Image"] = [[rbxassetid://12582573514]];
+AZY["ee"]["Size"] = UDim2.new(0, 35, 0, 35);
+AZY["ee"]["Rotation"] = 90;
+AZY["ee"]["BackgroundTransparency"] = 1;
+AZY["ee"]["Position"] = UDim2.new(-0.017000000923871994, 0, -0.10000000149011612, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.TextGrav
+AZY["ef"] = Instance.new("TextLabel", AZY["d0"]);
+AZY["ef"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ef"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["ef"]["TextSize"] = 12;
+AZY["ef"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["ef"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["ef"]["Text"] = [[Gravity]];
+AZY["ef"]["Name"] = [[TextGrav]];
+AZY["ef"]["BackgroundTransparency"] = 1;
+AZY["ef"]["Position"] = UDim2.new(0.3269999921321869, 0, 0.8930000066757202, 0);
+-- Mаdе bу A​​​Z​​​Y#​0​​​3​​​4​​​8
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.TextWs
+AZY["f0"] = Instance.new("TextLabel", AZY["d0"]);
+AZY["f0"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["f0"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["f0"]["TextSize"] = 12;
+AZY["f0"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["f0"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["f0"]["Text"] = [[Speed]];
+AZY["f0"]["Name"] = [[TextWs]];
+AZY["f0"]["BackgroundTransparency"] = 1;
+AZY["f0"]["Position"] = UDim2.new(0.5411151647567749, 0, 0.8930000066757202, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.TextJp
+AZY["f1"] = Instance.new("TextLabel", AZY["d0"]);
+AZY["f1"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["f1"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["f1"]["TextSize"] = 12;
+AZY["f1"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["f1"]["Size"] = UDim2.new(0, 50, 0, 11);
+AZY["f1"]["Text"] = [[Jump]];
+AZY["f1"]["Name"] = [[TextJp]];
+AZY["f1"]["BackgroundTransparency"] = 1;
+AZY["f1"]["Position"] = UDim2.new(0.7466657161712646, 0, 0.8930000066757202, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.Ws
+AZY["f2"] = Instance.new("BoolValue", AZY["d0"]);
+AZY["f2"]["Name"] = [[Ws]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.Jp
+AZY["f3"] = Instance.new("BoolValue", AZY["d0"]);
+AZY["f3"]["Name"] = [[Jp]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleGrav
+AZY["f4"] = Instance.new("TextButton", AZY["d0"]);
+AZY["f4"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["f4"]["TextSize"] = 14;
+AZY["f4"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["f4"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["f4"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["f4"]["Name"] = [[ToggleGrav]];
+AZY["f4"]["Text"] = [[]];
+AZY["f4"]["Position"] = UDim2.new(0.40253645181655884, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleGrav.UICorner
+AZY["f5"] = Instance.new("UICorner", AZY["f4"]);
+AZY["f5"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleGrav.LocalScript
+AZY["f6"] = Instance.new("LocalScript", AZY["f4"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleWs
+AZY["f7"] = Instance.new("TextButton", AZY["d0"]);
+AZY["f7"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["f7"]["TextSize"] = 14;
+AZY["f7"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["f7"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["f7"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["f7"]["Name"] = [[ToggleWs]];
+AZY["f7"]["Text"] = [[]];
+AZY["f7"]["Position"] = UDim2.new(0.6166515946388245, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleWs.UICorner
+AZY["f8"] = Instance.new("UICorner", AZY["f7"]);
+AZY["f8"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleWs.LocalScript
+AZY["f9"] = Instance.new("LocalScript", AZY["f7"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleJp
+AZY["fa"] = Instance.new("TextButton", AZY["d0"]);
+AZY["fa"]["BackgroundColor3"] = Color3.fromRGB(146, 0, 0);
+AZY["fa"]["TextSize"] = 14;
+AZY["fa"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["fa"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["fa"]["Size"] = UDim2.new(0, 15, 0, 15);
+AZY["fa"]["Name"] = [[ToggleJp]];
+AZY["fa"]["Text"] = [[]];
+AZY["fa"]["Position"] = UDim2.new(0.8222021460533142, 0, 0.801304280757904, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleJp.UICorner
+AZY["fb"] = Instance.new("UICorner", AZY["fa"]);
+AZY["fb"]["CornerRadius"] = UDim.new(100, 100);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleJp.LocalScript
+AZY["fc"] = Instance.new("LocalScript", AZY["fa"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts
+AZY["fd"] = Instance.new("Folder", AZY["ce"]);
+AZY["fd"]["Name"] = [[Scripts]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot
+AZY["fe"] = Instance.new("TextButton", AZY["fd"]);
+AZY["fe"]["TextWrapped"] = true;
+AZY["fe"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["fe"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["fe"]["TextSize"] = 13;
+AZY["fe"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["fe"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["fe"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["fe"]["Name"] = [[Aimbot]];
+AZY["fe"]["Text"] = [[       AimBot]];
+AZY["fe"]["Position"] = UDim2.new(0.030552715063095093, 0, 0.3302992284297943, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot.UICorner
+AZY["ff"] = Instance.new("UICorner", AZY["fe"]);
+AZY["ff"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot.LocalScript
+AZY["100"] = Instance.new("LocalScript", AZY["fe"]);
+
+-- Mаdе bу A​​​Z​​​Y#​0​​​3​​​4​​​8
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot.Info
+AZY["101"] = Instance.new("ImageLabel", AZY["fe"]);
+AZY["101"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["101"]["Image"] = [[rbxassetid://12585776892]];
+AZY["101"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["101"]["Name"] = [[Info]];
+AZY["101"]["BackgroundTransparency"] = 1;
+AZY["101"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Btools
+AZY["102"] = Instance.new("TextButton", AZY["fd"]);
+AZY["102"]["TextWrapped"] = true;
+AZY["102"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["102"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["102"]["TextSize"] = 13;
+AZY["102"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["102"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["102"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["102"]["Name"] = [[Btools]];
+AZY["102"]["Text"] = [[         BTools]];
+AZY["102"]["Position"] = UDim2.new(0.2924708425998688, 0, 0.18550994992256165, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Btools.UICorner
+AZY["103"] = Instance.new("UICorner", AZY["102"]);
+AZY["103"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Btools.LocalScript
+AZY["104"] = Instance.new("LocalScript", AZY["102"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Btools.Info
+AZY["105"] = Instance.new("ImageLabel", AZY["102"]);
+AZY["105"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["105"]["Image"] = [[rbxassetid://12585776892]];
+AZY["105"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["105"]["Name"] = [[Info]];
+AZY["105"]["BackgroundTransparency"] = 1;
+AZY["105"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Dex
+AZY["106"] = Instance.new("TextButton", AZY["fd"]);
+AZY["106"]["TextWrapped"] = true;
+AZY["106"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["106"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["106"]["TextSize"] = 13;
+AZY["106"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["106"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["106"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["106"]["Name"] = [[Dex]];
+AZY["106"]["Text"] = [[  DEX Explorer]];
+AZY["106"]["Position"] = UDim2.new(0.2938356399536133, 0, 0.04143177345395088, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Dex.UICorner
+AZY["107"] = Instance.new("UICorner", AZY["106"]);
+AZY["107"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Dex.LocalScript
+AZY["108"] = Instance.new("LocalScript", AZY["106"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Dex.Info
+AZY["109"] = Instance.new("ImageLabel", AZY["106"]);
+AZY["109"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["109"]["Image"] = [[rbxassetid://12585776892]];
+AZY["109"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["109"]["Name"] = [[Info]];
+AZY["109"]["BackgroundTransparency"] = 1;
+AZY["109"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.FatesESP
+AZY["10a"] = Instance.new("TextButton", AZY["fd"]);
+AZY["10a"]["TextWrapped"] = true;
+AZY["10a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["10a"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["10a"]["TextSize"] = 13;
+AZY["10a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["10a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["10a"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["10a"]["Name"] = [[FatesESP]];
+AZY["10a"]["Text"] = [[      Fates ESP]];
+AZY["10a"]["Position"] = UDim2.new(0.0331718735396862, 0, 0.18866735696792603, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.FatesESP.UICorner
+AZY["10b"] = Instance.new("UICorner", AZY["10a"]);
+AZY["10b"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.FatesESP.LocalScript
+AZY["10c"] = Instance.new("LocalScript", AZY["10a"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.FatesESP.Info
+AZY["10d"] = Instance.new("ImageLabel", AZY["10a"]);
+AZY["10d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["10d"]["Image"] = [[rbxassetid://12585776892]];
+AZY["10d"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["10d"]["Name"] = [[Info]];
+AZY["10d"]["BackgroundTransparency"] = 1;
+AZY["10d"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Fly
+AZY["10e"] = Instance.new("TextButton", AZY["fd"]);
+AZY["10e"]["TextWrapped"] = true;
+AZY["10e"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["10e"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["10e"]["TextSize"] = 13;
+AZY["10e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["10e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["10e"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["10e"]["Name"] = [[Fly]];
+AZY["10e"]["Text"] = [[           Fly]];
+AZY["10e"]["Position"] = UDim2.new(0.28985166549682617, 0, 0.3375365436077118, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Fly.UICorner
+AZY["10f"] = Instance.new("UICorner", AZY["10e"]);
+AZY["10f"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Fly.LocalScript
+AZY["110"] = Instance.new("LocalScript", AZY["10e"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Fly.Info
+AZY["111"] = Instance.new("ImageLabel", AZY["10e"]);
+AZY["111"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["111"]["Image"] = [[rbxassetid://12585776892]];
+AZY["111"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["111"]["Name"] = [[Info]];
+AZY["111"]["BackgroundTransparency"] = 1;
+AZY["111"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.IY
+AZY["112"] = Instance.new("TextButton", AZY["fd"]);
+AZY["112"]["TextWrapped"] = true;
+AZY["112"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["112"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["112"]["TextSize"] = 13;
+AZY["112"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["112"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["112"]["Size"] = UDim2.new(0.22804169356822968, 0, 0.0958060473203659, 0);
+AZY["112"]["Name"] = [[IY]];
+AZY["112"]["Text"] = [[  Infinite Yield]];
+AZY["112"]["Position"] = UDim2.new(0.03485134616494179, 0, 0.04589534550905228, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.IY.UICorner
+AZY["113"] = Instance.new("UICorner", AZY["112"]);
+AZY["113"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.IY.LocalScript
+AZY["114"] = Instance.new("LocalScript", AZY["112"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.IY.Info
+AZY["115"] = Instance.new("ImageLabel", AZY["112"]);
+AZY["115"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["115"]["Image"] = [[rbxassetid://12585776892]];
+AZY["115"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["115"]["Name"] = [[Info]];
+AZY["115"]["BackgroundTransparency"] = 1;
+AZY["115"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.PwnHub
+AZY["116"] = Instance.new("TextButton", AZY["fd"]);
+AZY["116"]["TextWrapped"] = true;
+AZY["116"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["116"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["116"]["TextSize"] = 13;
+AZY["116"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["116"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["116"]["Size"] = UDim2.new(0.2280000001192093, 0, 0.09600000083446503, 0);
+AZY["116"]["Name"] = [[PwnHub]];
+AZY["116"]["Text"] = [[    Pwner Hub]];
+AZY["116"]["Position"] = UDim2.new(0.03055272251367569, 0, 0.4659311771392822, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.PwnHub.UICorner
+AZY["117"] = Instance.new("UICorner", AZY["116"]);
+AZY["117"]["CornerRadius"] = UDim.new(0, 5);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.PwnHub.LocalScript
+AZY["118"] = Instance.new("LocalScript", AZY["116"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.PwnHub.Info
+AZY["119"] = Instance.new("ImageLabel", AZY["116"]);
+AZY["119"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["119"]["Image"] = [[rbxassetid://12585776892]];
+AZY["119"]["Size"] = UDim2.new(0, 16, 0, 16);
+AZY["119"]["Name"] = [[Info]];
+AZY["119"]["BackgroundTransparency"] = 1;
+AZY["119"]["Position"] = UDim2.new(0.7910000085830688, 0, 0.09000000357627869, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Title
+AZY["11a"] = Instance.new("TextLabel", AZY["ce"]);
+AZY["11a"]["TextWrapped"] = true;
+AZY["11a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["11a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["11a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["11a"]["TextSize"] = 12;
+AZY["11a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["11a"]["Size"] = UDim2.new(0.5070894360542297, 0, 0.10439325869083405, 0);
+AZY["11a"]["Text"] = [[欢迎来到内置黑客部分!]];
+AZY["11a"]["Name"] = [[Title]];
+AZY["11a"]["BackgroundTransparency"] = 1;
+AZY["11a"]["Position"] = UDim2.new(0.033080533146858215, 0, 0.7568540573120117, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Title
+AZY["11b"] = Instance.new("TextLabel", AZY["ce"]);
+AZY["11b"]["TextWrapped"] = true;
+AZY["11b"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["11b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["11b"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["11b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["11b"]["TextSize"] = 10;
+AZY["11b"]["TextColor3"] = Color3.fromRGB(171, 171, 171);
+AZY["11b"]["Size"] = UDim2.new(0.5410764813423157, 0, 0.10439325869083405, 0);
+AZY["11b"]["Text"] = [[在这里你可以很容易地改变你的球员重力，速度和跳跃力。您也可以执行我们的内置脚本！]];
+AZY["11b"]["Name"] = [[Title]];
+AZY["11b"]["BackgroundTransparency"] = 1;
+AZY["11b"]["Position"] = UDim2.new(0.030461372807621956, 0, 0.862415075302124, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor
+AZY["11c"] = Instance.new("Frame", AZY["2b"]);
+AZY["11c"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["11c"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["11c"]["Size"] = UDim2.new(0.831805408000946, 0, 0.7551097869873047, 0);
+AZY["11c"]["Position"] = UDim2.new(0.1409205049276352, 0, 0.20551720261573792, 0);
+AZY["11c"]["Visible"] = false;
+AZY["11c"]["Name"] = [[Executor]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.UICorner
+AZY["11d"] = Instance.new("UICorner", AZY["11c"]);
+AZY["11d"]["CornerRadius"] = UDim.new(0, 15);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Execute
+AZY["11e"] = Instance.new("TextButton", AZY["11c"]);
+AZY["11e"]["TextWrapped"] = true;
+AZY["11e"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["11e"]["TextSize"] = 18;
+AZY["11e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["11e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["11e"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
+AZY["11e"]["Name"] = [[Execute]];
+AZY["11e"]["Text"] = [[执行]];
+AZY["11e"]["Position"] = UDim2.new(0.026000000536441803, 0, 0.8319999575614929, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Execute.UICorner
+AZY["11f"] = Instance.new("UICorner", AZY["11e"]);
+AZY["11f"]["CornerRadius"] = UDim.new(0, 9);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Execute.LocalScript
+AZY["120"] = Instance.new("LocalScript", AZY["11e"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Clear
+AZY["121"] = Instance.new("TextButton", AZY["11c"]);
+AZY["121"]["TextWrapped"] = true;
+AZY["121"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["121"]["TextSize"] = 18;
+AZY["121"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["121"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["121"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
+AZY["121"]["Name"] = [[Clear]];
+AZY["121"]["Text"] = [[清除]];
+AZY["121"]["Position"] = UDim2.new(0.2630000114440918, 0, 0.8320000171661377, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Clear.UICorner
+AZY["122"] = Instance.new("UICorner", AZY["121"]);
+AZY["122"]["CornerRadius"] = UDim.new(0, 9);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Clear.LocalScript
+AZY["123"] = Instance.new("LocalScript", AZY["121"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Copy
+AZY["124"] = Instance.new("TextButton", AZY["11c"]);
+AZY["124"]["TextWrapped"] = true;
+AZY["124"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["124"]["TextSize"] = 18;
+AZY["124"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["124"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["124"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
+AZY["124"]["Name"] = [[Copy]];
+AZY["124"]["Text"] = [[复制]];
+AZY["124"]["Position"] = UDim2.new(0.5009999871253967, 0, 0.8320000171661377, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Copy.UICorner
+AZY["125"] = Instance.new("UICorner", AZY["124"]);
+AZY["125"]["CornerRadius"] = UDim.new(0, 9);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Copy.LocalScript
+AZY["126"] = Instance.new("LocalScript", AZY["124"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste
+AZY["127"] = Instance.new("TextButton", AZY["11c"]);
+AZY["127"]["TextWrapped"] = true;
+AZY["127"]["TextScaled"] = true;
+AZY["127"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["127"]["TextSize"] = 18;
+AZY["127"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["127"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["127"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
+AZY["127"]["Name"] = [[Paste]];
+AZY["127"]["Text"] = [[粘贴]];
+AZY["127"]["Position"] = UDim2.new(0.7360000014305115, 0, 0.8320000171661377, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste.UICorner
+AZY["128"] = Instance.new("UICorner", AZY["127"]);
+AZY["128"]["CornerRadius"] = UDim.new(0, 9);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste.LocalScript
+AZY["129"] = Instance.new("LocalScript", AZY["127"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste.UITextSizeConstraint
+AZY["12a"] = Instance.new("UITextSizeConstraint", AZY["127"]);
+AZY["12a"]["MaxTextSize"] = 18;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar
+AZY["12b"] = Instance.new("Frame", AZY["11c"]);
+AZY["12b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["12b"]["BackgroundTransparency"] = 1;
+AZY["12b"]["Size"] = UDim2.new(0.9533820152282715, 0, 0.7485234141349792, 0);
+AZY["12b"]["Position"] = UDim2.new(0.026000019162893295, 0, 0.04687291383743286, 0);
+AZY["12b"]["Name"] = [[TextboxBar]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript
+AZY["12c"] = Instance.new("LocalScript", AZY["12b"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor
+AZY["12d"] = Instance.new("ModuleScript", AZY["12c"]);
+AZY["12d"]["Name"] = [[ScriptEditor]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Syntax
+AZY["12e"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["12e"]["Name"] = [[Syntax]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Theme
+AZY["12f"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["12f"]["Name"] = [[Theme]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.GetLines
+AZY["130"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["130"]["Name"] = [[GetLines]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.FakeEditor
+AZY["131"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["131"]["Name"] = [[FakeEditor]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.GetLine
+AZY["132"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["132"]["Name"] = [[GetLine]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.TweenLibrary
+AZY["133"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["133"]["Name"] = [[TweenLibrary]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.GetWord
+AZY["134"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["134"]["Name"] = [[GetWord]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Lexer
+AZY["135"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["135"]["Name"] = [[Lexer]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Suggestions
+AZY["136"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["136"]["Name"] = [[Suggestions]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Words
+AZY["137"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["137"]["Name"] = [[Words]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor
+AZY["138"] = Instance.new("Frame", AZY["12d"]);
+AZY["138"]["BorderSizePixel"] = 0;
+AZY["138"]["BackgroundColor3"] = Color3.fromRGB(23, 27, 23);
+AZY["138"]["BackgroundTransparency"] = 0.4000000059604645;
+AZY["138"]["Size"] = UDim2.new(1, 0, 1, 0);
+AZY["138"]["BorderColor3"] = Color3.fromRGB(28, 43, 54);
+AZY["138"]["Name"] = [[Editor]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll
+AZY["139"] = Instance.new("ScrollingFrame", AZY["138"]);
+AZY["139"]["Active"] = true;
+AZY["139"]["CanvasSize"] = UDim2.new(0, 0, 0, 0);
+AZY["139"]["ElasticBehavior"] = Enum.ElasticBehavior.Always;
+AZY["139"]["TopImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+AZY["139"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["139"]["AutomaticCanvasSize"] = Enum.AutomaticSize.XY;
+AZY["139"]["BackgroundTransparency"] = 0.9990000128746033;
+AZY["139"]["Size"] = UDim2.new(1, 0, 1, 0);
+AZY["139"]["ScrollBarImageColor3"] = Color3.fromRGB(64, 64, 64);
+AZY["139"]["BorderColor3"] = Color3.fromRGB(53, 53, 53);
+AZY["139"]["Name"] = [[Scroll]];
+AZY["139"]["BottomImage"] = [[rbxasset://textures/ui/Scroll/scroll-middle.png]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source
+AZY["13a"] = Instance.new("TextBox", AZY["139"]);
+AZY["13a"]["TextSize"] = 17;
+AZY["13a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["13a"]["TextStrokeColor3"] = Color3.fromRGB(41, 41, 41);
+AZY["13a"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["13a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["13a"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
+AZY["13a"]["FontFace"] = Font.new([[rbxasset://fonts/families/Inconsolata.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["13a"]["MultiLine"] = true;
+AZY["13a"]["BackgroundTransparency"] = 0.9990000128746033;
+AZY["13a"]["Size"] = UDim2.new(1, -44, 1, -5);
+AZY["13a"]["Text"] = [[]];
+AZY["13a"]["Position"] = UDim2.new(0, 44, 0, 5);
+AZY["13a"]["AutomaticSize"] = Enum.AutomaticSize.XY;
+AZY["13a"]["Name"] = [[Source]];
+AZY["13a"]["ClearTextOnFocus"] = false;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.LineHighlight
+AZY["13b"] = Instance.new("Frame", AZY["13a"]);
+AZY["13b"]["BorderSizePixel"] = 0;
+AZY["13b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["13b"]["AnchorPoint"] = Vector2.new(0, 0.5);
+AZY["13b"]["BackgroundTransparency"] = 0.9399999976158142;
+AZY["13b"]["Size"] = UDim2.new(1, 0, 0, 17);
+AZY["13b"]["Position"] = UDim2.new(0, -10, 0, 9);
+AZY["13b"]["Name"] = [[LineHighlight]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Hidden
+AZY["13c"] = Instance.new("TextLabel", AZY["13a"]);
+AZY["13c"]["BorderSizePixel"] = 0;
+AZY["13c"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["13c"]["BackgroundColor3"] = Color3.fromRGB(27, 32, 27);
+AZY["13c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["13c"]["FontFace"] = Font.new([[rbxasset://fonts/families/Inconsolata.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["13c"]["TextSize"] = 22;
+AZY["13c"]["TextColor3"] = Color3.fromRGB(249, 66, 164);
+AZY["13c"]["Size"] = UDim2.new(1, 0, 1, 0);
+AZY["13c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["13c"]["Text"] = [[*script hidden*]];
+AZY["13c"]["Name"] = [[Hidden]];
+AZY["13c"]["Visible"] = false;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Suggestion
+AZY["13d"] = Instance.new("TextButton", AZY["13a"]);
+AZY["13d"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["13d"]["BackgroundColor3"] = Color3.fromRGB(40, 40, 40);
+AZY["13d"]["TextSize"] = 17;
+AZY["13d"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["13d"]["TextColor3"] = Color3.fromRGB(244, 244, 244);
+AZY["13d"]["Visible"] = false;
+AZY["13d"]["Size"] = UDim2.new(0, 130, 0, 26);
+AZY["13d"]["Name"] = [[Suggestion]];
+AZY["13d"]["BorderColor3"] = Color3.fromRGB(60, 60, 60);
+AZY["13d"]["Text"] = [[keyword]];
+AZY["13d"]["AutomaticSize"] = Enum.AutomaticSize.X;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Suggestion.TextPadding
+AZY["13e"] = Instance.new("UIPadding", AZY["13d"]);
+AZY["13e"]["Name"] = [[TextPadding]];
+AZY["13e"]["PaddingLeft"] = UDim.new(0, 30);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Suggestion.Icon
+AZY["13f"] = Instance.new("ImageLabel", AZY["13d"]);
+AZY["13f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["13f"]["Image"] = [[rbxassetid://413365069]];
+AZY["13f"]["Size"] = UDim2.new(0, 26, 0, 26);
+AZY["13f"]["Name"] = [[Icon]];
+AZY["13f"]["BackgroundTransparency"] = 1;
+AZY["13f"]["Position"] = UDim2.new(0, -30, 0, 0);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Suggestion.Icon.UIAspectRatioConstraint
+AZY["140"] = Instance.new("UIAspectRatioConstraint", AZY["13f"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left
+AZY["141"] = Instance.new("Frame", AZY["139"]);
+AZY["141"]["BorderSizePixel"] = 0;
+AZY["141"]["BackgroundColor3"] = Color3.fromRGB(30, 30, 30);
+AZY["141"]["BackgroundTransparency"] = 0.4000000059604645;
+AZY["141"]["Size"] = UDim2.new(0, 27, 1, 0);
+AZY["141"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+AZY["141"]["Name"] = [[Left]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Right
+AZY["142"] = Instance.new("Frame", AZY["141"]);
+AZY["142"]["BorderSizePixel"] = 0;
+AZY["142"]["BackgroundColor3"] = Color3.fromRGB(36, 36, 36);
+AZY["142"]["BackgroundTransparency"] = 0.4000000059604645;
+AZY["142"]["Size"] = UDim2.new(0, 8, 1, 0);
+AZY["142"]["Position"] = UDim2.new(1, 0, 0, 0);
+AZY["142"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+AZY["142"]["Name"] = [[Right]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Right.BottomFade
+AZY["143"] = Instance.new("UIGradient", AZY["142"]);
+AZY["143"]["Transparency"] = NumberSequence.new{NumberSequenceKeypoint.new(0.000, 0),NumberSequenceKeypoint.new(0.931, 0),NumberSequenceKeypoint.new(1.000, 1)};
+AZY["143"]["Name"] = [[BottomFade]];
+AZY["143"]["Rotation"] = 90;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Right.Shadow
+AZY["144"] = Instance.new("Frame", AZY["142"]);
+AZY["144"]["BorderSizePixel"] = 0;
+AZY["144"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["144"]["BackgroundTransparency"] = 0.800000011920929;
+AZY["144"]["Size"] = UDim2.new(0, 5, 1, 0);
+AZY["144"]["Position"] = UDim2.new(1, 0, 0, 0);
+AZY["144"]["AutomaticSize"] = Enum.AutomaticSize.Y;
+AZY["144"]["Name"] = [[Shadow]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Right.Shadow.UIGradient
+AZY["145"] = Instance.new("UIGradient", AZY["144"]);
+AZY["145"]["Transparency"] = NumberSequence.new{NumberSequenceKeypoint.new(0.000, 0),NumberSequenceKeypoint.new(1.000, 1)};
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Lines
+AZY["146"] = Instance.new("TextLabel", AZY["141"]);
+AZY["146"]["TextYAlignment"] = Enum.TextYAlignment.Top;
+AZY["146"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["146"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+AZY["146"]["FontFace"] = Font.new([[rbxasset://fonts/families/Inconsolata.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+AZY["146"]["TextSize"] = 17;
+AZY["146"]["TextColor3"] = Color3.fromRGB(242, 242, 242);
+AZY["146"]["AutomaticSize"] = Enum.AutomaticSize.X;
+AZY["146"]["Size"] = UDim2.new(1, -5, 1, -7);
+AZY["146"]["Text"] = [[1]];
+AZY["146"]["Name"] = [[Lines]];
+AZY["146"]["BackgroundTransparency"] = 0.9990000128746033;
+AZY["146"]["Position"] = UDim2.new(0, 5, 0, 7);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Lines.BottomFade
+AZY["147"] = Instance.new("UIGradient", AZY["146"]);
+AZY["147"]["Transparency"] = NumberSequence.new{NumberSequenceKeypoint.new(0.000, 0),NumberSequenceKeypoint.new(0.931, 0),NumberSequenceKeypoint.new(1.000, 1)};
+AZY["147"]["Name"] = [[BottomFade]];
+AZY["147"]["Rotation"] = 90;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.AdaptSize
+AZY["148"] = Instance.new("LocalScript", AZY["141"]);
+AZY["148"]["Name"] = [[AdaptSize]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.BottomFade
+AZY["149"] = Instance.new("UIGradient", AZY["141"]);
+AZY["149"]["Transparency"] = NumberSequence.new{NumberSequenceKeypoint.new(0.000, 0),NumberSequenceKeypoint.new(0.931, 0),NumberSequenceKeypoint.new(1.000, 1)};
+AZY["149"]["Name"] = [[BottomFade]];
+AZY["149"]["Rotation"] = 90;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.TextFixer
+AZY["14a"] = Instance.new("ModuleScript", AZY["12d"]);
+AZY["14a"]["Name"] = [[TextFixer]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.ResetTextBox
+AZY["14b"] = Instance.new("TextButton", AZY["11c"]);
+AZY["14b"]["TextWrapped"] = true;
+AZY["14b"]["TextTransparency"] = 0.699999988079071;
+AZY["14b"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["14b"]["TextSize"] = 18;
+AZY["14b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+AZY["14b"]["TextColor3"] = Color3.fromRGB(25, 25, 25);
+AZY["14b"]["Size"] = UDim2.new(0.04265729710459709, 0, 0.054356444627046585, 0);
+AZY["14b"]["Name"] = [[ResetTextBox]];
+AZY["14b"]["Text"] = [[*]];
+AZY["14b"]["Position"] = UDim2.new(0.005046568810939789, 0, -0.011172410100698471, 0);
+AZY["14b"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.ResetTextBox.UICorner
+AZY["14c"] = Instance.new("UICorner", AZY["14b"]);
+AZY["14c"]["CornerRadius"] = UDim.new(0, 9);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.ResetTextBox.LocalScript
+AZY["14d"] = Instance.new("LocalScript", AZY["14b"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar
+AZY["14e"] = Instance.new("Frame", AZY["19"]);
+AZY["14e"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+AZY["14e"]["BackgroundTransparency"] = 0.550000011920929;
+AZY["14e"]["Size"] = UDim2.new(0.09215505421161652, 0, 0.7551097273826599, 0);
+AZY["14e"]["Position"] = UDim2.new(0.02942327782511711, 0, 0.2055172324180603, 0);
+AZY["14e"]["Name"] = [[TabBar]];
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.UICorner
+AZY["14f"] = Instance.new("UICorner", AZY["14e"]);
+AZY["14f"]["CornerRadius"] = UDim.new(0, 12);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Changelogs
+AZY["150"] = Instance.new("ImageButton", AZY["14e"]);
+AZY["150"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["150"]["Image"] = [[rbxassetid://12582706243]];
+AZY["150"]["Size"] = UDim2.new(0.7092337608337402, 0, 0.1439468413591385, 0);
+AZY["150"]["Name"] = [[Changelogs]];
+AZY["150"]["Position"] = UDim2.new(0.14184674620628357, 0, 0.04798227921128273, 0);
+AZY["150"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Changelogs.Frame
+AZY["151"] = Instance.new("Frame", AZY["150"]);
+AZY["151"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["151"]["Size"] = UDim2.new(0, 3, 0, 25);
+AZY["151"]["Position"] = UDim2.new(-0.20000001788139343, 0, 0.06666667014360428, 0);
+AZY["151"]["Visible"] = false;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Changelogs.Frame.UICorner
+AZY["152"] = Instance.new("UICorner", AZY["151"]);
+AZY["152"]["CornerRadius"] = UDim.new(1, 1);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Changelogs.LocalScript
+AZY["153"] = Instance.new("LocalScript", AZY["150"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Home
+AZY["154"] = Instance.new("ImageButton", AZY["14e"]);
+AZY["154"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["154"]["Image"] = [[rbxassetid://12582723040]];
+AZY["154"]["Size"] = UDim2.new(0.9692861437797546, 0, 0.19672733545303345, 0);
+AZY["154"]["Name"] = [[Home]];
+AZY["154"]["Position"] = UDim2.new(0, 0, 0.30228832364082336, 0);
+AZY["154"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Home.Frame
+AZY["155"] = Instance.new("Frame", AZY["154"]);
+AZY["155"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["155"]["Size"] = UDim2.new(0, 3, 0, 25);
+AZY["155"]["Position"] = UDim2.new(0.004999999888241291, 0, 0.1889999955892563, 0);
+-- Mаdе bу A​​​Z​​​Y#​0​​​3​​​4​​​8
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Home.Frame.UICorner
+AZY["156"] = Instance.new("UICorner", AZY["155"]);
+AZY["156"]["CornerRadius"] = UDim.new(1, 1);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Home.LocalScript
+AZY["157"] = Instance.new("LocalScript", AZY["154"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.BuiltInHax
+AZY["158"] = Instance.new("ImageButton", AZY["14e"]);
+AZY["158"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["158"]["Image"] = [[rbxassetid://12582724778]];
+AZY["158"]["Size"] = UDim2.new(0.9692861437797546, 0, 0.19672733545303345, 0);
+AZY["158"]["Name"] = [[BuiltInHax]];
+AZY["158"]["Position"] = UDim2.new(0, 0, 0.537401556968689, 0);
+AZY["158"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.BuiltInHax.Frame
+AZY["159"] = Instance.new("Frame", AZY["158"]);
+AZY["159"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["159"]["Size"] = UDim2.new(0, 3, 0, 25);
+AZY["159"]["Position"] = UDim2.new(0, 0, 0.18700000643730164, 0);
+AZY["159"]["Visible"] = false;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.BuiltInHax.Frame.UICorner
+AZY["15a"] = Instance.new("UICorner", AZY["159"]);
+AZY["15a"]["CornerRadius"] = UDim.new(1, 1);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.BuiltInHax.LocalScript
+AZY["15b"] = Instance.new("LocalScript", AZY["158"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Executor
+AZY["15c"] = Instance.new("ImageButton", AZY["14e"]);
+AZY["15c"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["15c"]["Image"] = [[rbxassetid://12582726730]];
+AZY["15c"]["Size"] = UDim2.new(0.8274393677711487, 0, 0.1679379791021347, 0);
+AZY["15c"]["Name"] = [[Executor]];
+AZY["15c"]["Position"] = UDim2.new(0.07092338800430298, 0, 0.7821111679077148, 0);
+AZY["15c"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Executor.Frame
+AZY["15d"] = Instance.new("Frame", AZY["15c"]);
+AZY["15d"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+AZY["15d"]["Size"] = UDim2.new(0, 3, 0, 25);
+AZY["15d"]["Position"] = UDim2.new(-0.10000000149011612, 1, 0.06700000166893005, 0);
+AZY["15d"]["Visible"] = false;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Executor.Frame.UICorner
+AZY["15e"] = Instance.new("UICorner", AZY["15d"]);
+AZY["15e"]["CornerRadius"] = UDim.new(1, 1);
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Executor.LocalScript
+AZY["15f"] = Instance.new("LocalScript", AZY["15c"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.UIAspectRatioConstraint
+AZY["160"] = Instance.new("UIAspectRatioConstraint", AZY["19"]);
+AZY["160"]["AspectRatio"] = 1.66304349899292;
+
+-- StarterGui.ArceusXV3.MainUI.MainFrame.LocalScript
+AZY["161"] = Instance.new("LocalScript", AZY["19"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.FloatingUI
+AZY["162"] = Instance.new("ImageButton", AZY["18"]);
+AZY["162"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+AZY["162"]["Image"] = [[rbxassetid://12586647828]];
+AZY["162"]["Size"] = UDim2.new(0, 65, 0, 65);
+AZY["162"]["Name"] = [[FloatingUI]];
+AZY["162"]["Visible"] = false;
+AZY["162"]["Position"] = UDim2.new(0.47328877449035645, 0, 0.44602859020233154, 0);
+AZY["162"]["BackgroundTransparency"] = 1;
+
+-- StarterGui.ArceusXV3.MainUI.FloatingUI.UICorner
+AZY["163"] = Instance.new("UICorner", AZY["162"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.FloatingUI.LocalScript
+AZY["164"] = Instance.new("LocalScript", AZY["162"]);
+
+
+-- StarterGui.ArceusXV3.MainUI.FloatingUI.UIAspectRatioConstraint
+AZY["165"] = Instance.new("UIAspectRatioConstraint", AZY["162"]);
+
+
+-- Require AZY wrapper
+local AZY_REQUIRE = require;
+local AZY_MODULES = {};
+local function require(Module:ModuleScript)
+	local ModuleState = AZY_MODULES[Module];
+	if ModuleState then
+		if not ModuleState.Required then
+			ModuleState.Required = true;
+			ModuleState.Value = ModuleState.Closure();
+		end
+		return ModuleState.Value;
+	end;
+	return AZY_REQUIRE(Module);
+end
+
+AZY_MODULES[AZY["12d"]] = {
+	Closure = function()
+		local script = AZY["12d"];
+		-- Lexer by sleitnick
+		-- Everything else by me, bread. lol.
+
+
+		local module = {}
+
+		local syntax 	   = require(script.Syntax)
+		local getLines 	   = require(script.GetLines)
+		local fakeEditor   = require(script.FakeEditor)
+		local textFixer    = require(script.TextFixer)
+		local getLine 	   = require(script.GetLine)
+		local tween 	   = require(script.TweenLibrary)
+		local suggestions  = require(script.Suggestions)
+
+		function module.new(frame)
+			local newEditor = script.Editor:Clone()
+			newEditor.Parent = frame
+
+			local editorObj  	= fakeEditor.new(newEditor)
+			local textbox 	 	= newEditor.Scroll.Source
+			local linesLabel 	= newEditor.Scroll.Left.Lines
+			local lineHighlight = textbox.LineHighlight
+
+			local highlightBox = Instance.new("TextLabel")
+			highlightBox.Size = UDim2.new(1, 0,1, 0)
+			highlightBox.Position = UDim2.new(0, 0,0, 0)
+			highlightBox.TextColor3 = textbox.TextColor3
+			highlightBox.BackgroundTransparency = 1
+			highlightBox.Name = "Syntax"
+			highlightBox.RichText = true
+			highlightBox.TextSize = textbox.TextSize
+			highlightBox.Font = textbox.Font
+			highlightBox.TextXAlignment = Enum.TextXAlignment.Left
+			highlightBox.TextYAlignment = Enum.TextYAlignment.Top
+			highlightBox.TextStrokeColor3 = Color3.fromRGB(40, 40, 40)
+			highlightBox.TextStrokeTransparency = 0.1
+			highlightBox.Text = ""
+			highlightBox.Parent = textbox
+
+			editorObj:SetTheme("default")
+			textFixer.Fix(highlightBox)
+			suggestions:Start(newEditor)
+
+			textbox:GetPropertyChangedSignal("Text"):Connect(function()
+				syntax.Highlight(highlightBox, textbox.Text)
+
+				-- Fix tabs
+				textbox.Text = textbox.Text:gsub("\t", "    ")
+				--textbox.CursorPosition += 4
+
+				-- Update line count
+				linesLabel.Text = getLines.GetLinesString(textbox.Text)
+			end)
+
+			textbox:GetPropertyChangedSignal("CursorPosition"):Connect(function()
+				-- Position line highlight
+				local lineYPos = ((getLine:GetCurrentLine(textbox) * textbox.TextSize) - math.ceil(lineHighlight.AbsoluteSize.Y / 2)) + 4
+
+				if lineYPos ~= lineHighlight.Position.Y.Offset then
+					tween.TweenPosition(lineHighlight, UDim2.new(0, -10,0, lineYPos), 0.1, Enum.EasingStyle.Quad)
+				end
+			end)
+
+			return editorObj
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["12e"]] = {
+	Closure = function()
+		local script = AZY["12e"];
+		local module = {}
+
+		local lexer 	= require(script.Parent.Lexer)
+		local theme 	= require(script.Parent.Theme)
+		local textFixer = require(script.Parent.TextFixer)
+
+		local function ColorToFont(text, color)
+			return string.format(
+				'<font color="rgb(%s,%s,%s)">%s</font>',
+				tostring(math.floor(color.R * 255)),
+				tostring(math.floor(color.G * 255)),
+				tostring(math.floor(color.B * 255)),
+				text
+			)
+		end
+
+		function module.Highlight(textbox, source)
+			textbox.Text = ""
+
+			for tokenType, text in lexer.scan(source) do
+				local currentTheme = theme.current
+				local tokenCol = currentTheme[tokenType]
+
+				if tokenCol then
+					textbox.Text = textbox.Text .. ColorToFont(text, tokenCol)
+				else
+					textbox.Text = textbox.Text .. text
+				end
+			end
+
+			textFixer.Fix(textbox)
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["12f"]] = {
+	Closure = function()
+		local script = AZY["12f"];
+		local theme = {
+			current = nil,
+			themes = {
+				["default"] = {
+					["keyword"] = Color3.fromRGB(248, 109, 124),
+					["builtin"] = Color3.fromRGB(84, 184, 247),
+					["string"] = Color3.fromRGB(130, 241, 149),
+					["number"] = Color3.fromRGB(255, 198, 0),
+					["comment"] = Color3.fromRGB(106, 106, 100),
+					["thingy"] = Color3.fromRGB(253, 251, 154)
+				},
+				["extra 2"] = {
+					["keyword"] = Color3.fromRGB(249, 36, 114),
+					["builtin"] = Color3.fromRGB(95, 209, 250),
+					["string"] = Color3.fromRGB(217, 219, 88),
+					["number"] = Color3.fromRGB(161, 118, 209),
+					["comment"] = Color3.fromRGB(116, 122, 101),
+					["thingy"] = Color3.fromRGB(248, 245, 139)
+				}
+			}
+		}
+
+		return theme
+
+	end;
+};
+AZY_MODULES[AZY["130"]] = {
+	Closure = function()
+		local script = AZY["130"];
+		local module = {}
+
+		function module.GetLines(text)
+			local amount = 1
+
+			text:gsub("\n", function()
+				amount += 1
+			end)
+
+			return amount
+		end
+
+		function module.GetLinesString(text)
+			local lineAmt = module.GetLines(text)
+			local result = ""
+
+			for i = 1, lineAmt do
+				result = result .. i .. "\n"
+			end
+
+			-- Remove last \n
+			result = result:sub(1, #result - 1)
+
+			return result
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["131"]] = {
+	Closure = function()
+		local script = AZY["131"];
+		local fakeEditor = {} -- Main module
+
+		local textFixer = require(script.Parent.TextFixer)
+		local theme = require(script.Parent.Theme)
+		local syntax = require(script.Parent.Syntax)
+
+		local editorObj = {
+			SetTextSize = function(self, textSize)
+				local sourceBox = self.Editor.Scroll.Source
+				local syntaxBox = sourceBox.Syntax
+				local linesBox = self.Editor.Scroll.Left.Lines
+				local lineHighlight = sourceBox.LineHighlight
+
+				sourceBox.TextSize = textSize
+				syntaxBox.TextSize = textSize
+				linesBox.TextSize = textSize
+				lineHighlight.Size = UDim2.new(1, 0,0, textSize + 5)
+
+
+		--[[
+			Might want to fix it manually because adding another \n
+			might cause some instability
+		]]
+				textFixer.Fix(self.Editor.Scroll.Source.Syntax)
+
+				return textSize
+			end,
+			Destroy = function(self)
+				self.Editor:Destroy()
+				setmetatable(self, {__index = nil})
+				table.clear(self)
+				self = nil
+
+				return nil
+			end,
+			GetText = function(self)
+				local sourceBox = self.Editor.Scroll.Source
+				return sourceBox.Text
+			end,
+			SetText = function(self, text)
+				local sourceBox = self.Editor.Scroll.Source
+				sourceBox.Text = text
+
+				return text
+			end,
+			ContentToBytes = function(self)
+				local text = self.Editor.Scroll.Source.Text
+				local bytes = {}
+
+				for _, c in pairs(text:split("")) do
+					table.insert(bytes, string.byte(c))
+				end
+
+				return "/" .. table.concat(bytes, "/")
+			end,
+			Hide = function(self)
+				local hiddenLabel = self.Editor.Scroll.Source.Hidden
+				hiddenLabel.Visible = true
+			end,
+			Unhide = function(self)
+				local hiddenLabel = self.Editor.Scroll.Source.Hidden
+				hiddenLabel.Visible = false
+			end,
+			SetTheme = function(self, themeName)
+				local sourceBox = self.Editor.Scroll.Source
+				local syntaxBox = sourceBox.Syntax
+
+				assert(theme.themes[themeName], "'" .. themeName .. "' is not a valid theme.")
+
+				theme.current = theme.themes[themeName]
+
+				-- Update highlighting
+				syntax.Highlight(syntaxBox, sourceBox.Text)
+			end,
+		}
+
+		function fakeEditor.new(editor)
+			return setmetatable({Editor = editor}, {__index = editorObj})
+		end
+
+		return fakeEditor
+
+	end;
+};
+AZY_MODULES[AZY["132"]] = {
+	Closure = function()
+		local script = AZY["132"];
+		local module = {}
+
+		function module.peekBack(self)
+			return self.text:sub(self.position - 1, self.position - 1)
+		end
+
+		function module.next(self)
+			self.position += 1
+
+			self.character = self.text:sub(self.position, self.position)
+
+			if self.character == "\n" then
+				self.lines += 1
+			end
+
+			if self.position < #self.text and self.position < self.cursorPosition then
+				self:next()
+			end
+		end
+
+		function module.GetCurrentLine(self, textbox)
+			self.position = 0
+			self.text = textbox.Text .. " "
+			self.cursorPosition = textbox.CursorPosition
+			self.lines = 1
+
+			self:next()
+
+			return self.lines
+		end
+
+		function module.GetCurrentLineWidth(self, textbox)
+			self.position = 0
+			self.text = textbox.Text .. " "
+			self.cursorPosition = textbox.CursorPosition
+			self.lines = 1
+
+			self:next()
+
+			-- self.lines is the current line
+
+			return self.position
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["133"]] = {
+	Closure = function()
+		local script = AZY["133"];
+		local module = {}
+
+		local tweenService = game:GetService("TweenService")
+		local debris = game:GetService("Debris")
+
+		-- Custom functions
+		local function default(arg, def)
+			if arg == nil then
+				arg = def
+			end
+			return arg
+		end
+
+		-- Guis --
+
+		function module.TweenScale(frame, scale, timelen, easingstyle, easingdir)
+			local uiscale
+			if not frame:FindFirstChild("$ScaleAnim") then
+				uiscale = Instance.new("UIScale")
+				uiscale.Scale = 1
+				uiscale.Name = "$ScaleAnim"
+				uiscale.Parent = frame
+			end
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				Scale = scale
+			}
+
+			-- Finally, play tween
+			tweenService:Create(uiscale, tinfo, goals):Play()
+			--debris:AddItem(uiscale, timelen) -- Remove it when animation is done
+		end
+
+		function module.TweenPosition(frame, position, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(position, "No position provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				Position = position
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenSize(frame, size, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(size, "No size provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				Size = size
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenBackgroundColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				BackgroundColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenBackgroundTransparency(frame, transparency, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(transparency, "No transparency provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				BackgroundTransparency = transparency
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenBorderColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				BorderColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenBorderSizePixel(frame, bordersize, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(bordersize, "No border size provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				BorderSizePixel = bordersize
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenImageTransparency(frame, imagetransparency, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(imagetransparency, "No image transparency provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ImageTransparency = imagetransparency
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenImageColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ImageColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenImageRectOffset(frame, offset, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(offset, "No offset provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ImageRectOffset = offset
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenImageRectSize(frame, size, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(size, "No size provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ImageRectSize = size
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenSliceScale(frame, scale, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(scale, "No scale provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				SliceScale = scale
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenTextColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				TextColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenMaxVisibleGraphemes(frame, graphemes, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(graphemes, "No graphemes provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				MaxVisibleGraphemes = graphemes
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenTextSize(frame, size, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(size, "No size provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				TextSize = size
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenTextStrokeColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				TextStrokeColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenTextTransparency(frame, transparency, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(transparency, "No transparency provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				TextTransparency = transparency
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenTextStrokeTransparency(frame, transparency, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(transparency, "No transparency provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				TextStrokeTransparency = transparency
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenCanvasSize(frame, size, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(size, "No size provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				CanvasSize = size
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenCanvasPosition(frame, position, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(position, "No position provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				CanvasPosition = position
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenScrollBarImageTransparency(frame, transparency, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(transparency, "No transparency provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ScrollBarImageTransparency = transparency
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenScrollBarThickness(frame, thickness, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(thickness, "No thickness provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ScrollBarThickness = thickness
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenScrollBarImageColor3(frame, color, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(frame, "No frame provided")
+			assert(color, "No color provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				ScrollBarImageColor3 = color
+			}
+
+			-- Finally, play tween
+			tweenService:Create(frame, tinfo, goals):Play()
+		end
+
+		function module.TweenCFrame(thing, cframe, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(thing, "No instance provided")
+			assert(cframe, "No cframe provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				CFrame = cframe
+			}
+
+			-- Finally, play tween
+			tweenService:Create(thing, tinfo, goals):Play()
+		end
+
+		function module.TweenFOV(thing, fov, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(thing, "No instance provided")
+			assert(fov, "No FOV provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				FieldOfView = fov
+			}
+
+			-- Finally, play tween
+			tweenService:Create(thing, tinfo, goals):Play()
+		end
+
+		function module.TweenValue(thing, value, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(thing, "No instance provided")
+			assert(value, "No value provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				Value = value
+			}
+
+			-- Finally, play tween
+			tweenService:Create(thing, tinfo, goals):Play()
+		end
+
+		function module.TweenVolume(thing, volume, timelen, easingstyle, easingdir)
+			-- Errors & defaults
+			assert(thing, "No instance provided")
+			assert(volume, "No volume provided")
+			assert(timelen, "No time length provided")
+			easingstyle = default(easingstyle, Enum.EasingStyle.Sine)
+			easingdir = default(easingdir, Enum.EasingDirection.Out)
+
+			-- Generate tween info
+			local tinfo = TweenInfo.new(timelen, easingstyle, easingdir)
+			local goals = {
+				Volume = volume
+			}
+
+			-- Finally, play tween
+			tweenService:Create(thing, tinfo, goals):Play()
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["134"]] = {
+	Closure = function()
+		local script = AZY["134"];
+		local module = {}
+
+		function module.next(self)
+			self.position += 1
+			local character = self.text:sub(self.position, self.position)
+
+			if character == "\n" or character == " " or self.position > #self.text then
+				return self.position - 1
+			else
+				return self:next()
+			end
+		end
+
+		function module.prev(self)
+			self.position -= 1
+			local character = self.text:sub(self.position, self.position)
+
+			if character == "\n" or character == " " or self.position < 1 then
+				return self.position + 1
+			else
+				return self:prev()
+			end
+		end
+
+		function module.GetCurrentWord(self, textbox)
+			self.cursorPosition = textbox.CursorPosition
+			self.position = self.cursorPosition
+			self.text = textbox.Text
+
+			local wordEnd = self:next()
+			local wordStart = self:prev()
+			local wordString = self.text:sub(wordStart, wordEnd)
+
+			return wordString
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["135"]] = {
+	Closure = function()
+		local script = AZY["135"];
+--[[
+
+	Lexical scanner for creating a sequence of tokens from Lua source code.
+
+	This is a heavily modified and Roblox-optimized version of
+	the original Penlight Lexer module:
+		https://github.com/stevedonovan/Penlight
+
+	Authors:
+		stevedonovan <https://github.com/stevedonovan> ----------------- Original Penlight lexer author
+		ryanjmulder  <https://github.com/ryanjmulder>  ----------------- Penlight lexer contributer
+		mpeterv      <https://github.com/mpeterv>      ----------------- Penlight lexer contributer
+		Tieske       <https://github.com/Tieske>       ----------------- Penlight lexer contributer
+		boatbomber   <https://github.com/boatbomber>   ----------------- Roblox port, optimizations, and bug fixes
+		Sleitnick    <https://github.com/Sleitnick>    ----------------- Roblox optimizations
+
+	Usage:
+
+		local source = "for i = 1,n do end"
+		
+		-- The 'scan' function returns a token iterator:
+		for token,src in lexer.scan(source) do
+			print(token, src)
+		end
+
+			> keyword for
+			> iden    i
+			> =       =
+			> number  1
+			> ,       ,
+			> iden    n
+			> keyword do
+			> keyword end
+
+	List of tokens:
+		- keyword
+		- builtin
+		- iden
+		- string
+		- number
+		- space
+		- comment
+
+	Other tokens that don't fall into the above categories
+	will simply be returned as itself. For instance, operators
+	like "+" will simply return "+" as the token.
+
+--]]
+
+		local lexer = {}
+
+		local yield, wrap  = coroutine.yield, coroutine.wrap
+		local strfind      = string.find
+		local strsub       = string.sub
+		local append       = table.insert
+		local type         = type
+
+		local NUMBER1	= "^[%+%-]?%d+%.?%d*[eE][%+%-]?%d+"
+		local NUMBER2	= "^[%+%-]?%d+%.?%d*"
+		local NUMBER3	= "^0x[%da-fA-F]+"
+		local NUMBER4	= "^%d+%.?%d*[eE][%+%-]?%d+"
+		local NUMBER5	= "^%d+%.?%d*"
+		local IDEN		= "^[%a_][%w_]*"
+		local WSPACE	= "^%s+"
+		local STRING1	= "^(['\"])%1"							--Empty String
+		local STRING2	= [[^(['"])(\*)%2%1]]
+		local STRING3	= [[^(['"]).-[^\](\*)%2%1]]
+		local STRING4	= "^(['\"]).-.*"						--Incompleted String
+		local STRING5	= "^%[(=*)%[.-%]%1%]"					--Multiline-String
+		local STRING6	= "^%[%[.-.*"							--Incompleted Multiline-String
+		local CHAR1		= "^''"
+		local CHAR2		= [[^'(\*)%1']]
+		local CHAR3		= [[^'.-[^\](\*)%1']]
+		local PREPRO	= "^#.-[^\\]\n"
+		local MCOMMENT1	= "^%-%-%[(=*)%[.-%]%1%]"				--Completed Multiline-Comment
+		local MCOMMENT2	= "^%-%-%[%[.-.*"						--Incompleted Multiline-Comment
+		local SCOMMENT1	= "^%-%-.-\n"							--Completed Singleline-Comment
+		local SCOMMENT2	= "^%-%-.-.*"							--Incompleted Singleline-Comment
+		local THINGY 	= "^[%.:]%w-%s?%(.-%)"
+
+		local lua_keyword = {
+			["and"] = true,  ["break"] = true,  ["do"] = true,      ["else"] = true,      ["elseif"] = true,
+			["end"] = true,  ["false"] = true,  ["for"] = true,     ["function"] = true,  ["if"] = true,
+			["in"] = true,   ["local"] = true,  ["nil"] = true,     ["not"] = true,       ["while"] = true,
+			["or"] = true,   ["repeat"] = true, ["return"] = true,  ["then"] = true,      ["true"] = true,
+			["self"] = true, ["until"] = true
+		}
+
+		local lua_builtin = {
+			["assert"] = true;["collectgarbage"] = true;["error"] = true;["_G"] = true;
+			["gcinfo"] = true;["getfenv"] = true;["getmetatable"] = true;["ipairs"] = true;
+			["loadstring"] = true;["newproxy"] = true;["next"] = true;["pairs"] = true;
+			["pcall"] = true;["print"] = true;["rawequal"] = true;["rawget"] = true;["rawset"] = true;
+			["select"] = true;["setfenv"] = true;["setmetatable"] = true;["tonumber"] = true;
+			["tostring"] = true;["type"] = true;["unpack"] = true;["_VERSION"] = true;["xpcall"] = true;
+			["delay"] = true;["elapsedTime"] = true;["require"] = true;["spawn"] = true;["tick"] = true;
+			["time"] = true;["typeof"] = true;["UserSettings"] = true;["wait"] = true;["warn"] = true;
+			["game"] = true;["Enum"] = true;["script"] = true;["shared"] = true;["workspace"] = true;
+			["Axes"] = true;["BrickColor"] = true;["CFrame"] = true;["Color3"] = true;["ColorSequence"] = true;
+			["ColorSequenceKeypoint"] = true;["Faces"] = true;["Instance"] = true;["NumberRange"] = true;
+			["NumberSequence"] = true;["NumberSequenceKeypoint"] = true;["PhysicalProperties"] = true;
+			["Random"] = true;["Ray"] = true;["Rect"] = true;["Region3"] = true;["Region3int16"] = true;
+			["TweenInfo"] = true;["UDim"] = true;["UDim2"] = true;["Vector2"] = true;["Vector3"] = true;
+			["Vector3int16"] = true;["next"] = true;["dofile"] = true;["writefile"] = true;["readfile"] = true;
+			["isfile"] = true;["delfile"] = true;["isfolder"] = true;["makefolder"] = true;["delfolder"] = true;["listfiles"] = true;
+			["descend"] = true;
+			["os"] = true;
+			--["os.time"] = true;["os.date"] = true;["os.difftime"] = true;
+			["debug"] = true;
+			--["debug.traceback"] = true;["debug.profilebegin"] = true;["debug.profileend"] = true;
+			["math"] = true;
+			--["math.abs"] = true;["math.acos"] = true;["math.asin"] = true;["math.atan"] = true;["math.atan2"] = true;["math.ceil"] = true;["math.clamp"] = true;["math.cos"] = true;["math.cosh"] = true;["math.deg"] = true;["math.exp"] = true;["math.floor"] = true;["math.fmod"] = true;["math.frexp"] = true;["math.ldexp"] = true;["math.log"] = true;["math.log10"] = true;["math.max"] = true;["math.min"] = true;["math.modf"] = true;["math.noise"] = true;["math.pow"] = true;["math.rad"] = true;["math.random"] = true;["math.randomseed"] = true;["math.sign"] = true;["math.sin"] = true;["math.sinh"] = true;["math.sqrt"] = true;["math.tan"] = true;["math.tanh"] = true;
+			["coroutine"] = true;
+			--["coroutine.create"] = true;["coroutine.resume"] = true;["coroutine.running"] = true;["coroutine.status"] = true;["coroutine.wrap"] = true;["coroutine.yield"] = true;
+			["string"] = true;
+			--["string.byte"] = true;["string.char"] = true;["string.dump"] = true;["string.find"] = true;["string.format"] = true;["string.len"] = true;["string.lower"] = true;["string.match"] = true;["string.rep"] = true;["string.reverse"] = true;["string.sub"] = true;["string.upper"] = true;["string.gmatch"] = true;["string.gsub"] = true;
+			["table"] = true;
+			--["table.concat"] = true;["table.insert"] = true;["table.remove"] = true;["table.sort"] = true;
+		}
+
+		local function tdump(tok)
+			return yield(tok, tok)
+		end
+
+		local function ndump(tok)
+			return yield("number", tok)
+		end
+
+		local function sdump(tok)
+			return yield("string", tok)
+		end
+
+		local function cdump(tok)
+			return yield("comment", tok)
+		end
+
+		local function wsdump(tok)
+			return yield("space", tok)
+		end
+
+		local function lua_vdump(tok)
+			if (lua_keyword[tok]) then
+				return yield("keyword", tok)
+			elseif (lua_builtin[tok]) then
+				return yield("builtin", tok)
+			else
+				return yield("iden", tok)
+			end
+		end
+
+		local function thingy_dump(tok)
+			return yield("thingy", tok)
+		end
+
+		local lua_matches = {
+			{THINGY, thingy_dump},
+
+			{IDEN,      lua_vdump},        -- Indentifiers
+			{WSPACE,    wsdump},           -- Whitespace
+			{NUMBER3,   ndump},            -- Numbers
+			{NUMBER4,   ndump},
+			{NUMBER5,   ndump},
+			{STRING1,   sdump},            -- Strings
+			{STRING2,   sdump},
+			{STRING3,   sdump},
+			{STRING4,   sdump},
+			{STRING5,   sdump},            -- Multiline-Strings
+			{STRING6,   sdump},            -- Multiline-Strings
+
+			{MCOMMENT1, cdump},            -- Multiline-Comments
+			{MCOMMENT2, cdump},			
+			{SCOMMENT1, cdump},            -- Singleline-Comments
+			{SCOMMENT2, cdump},
+
+			{"^==",     tdump},            -- Operators
+			{"^~=",     tdump},
+			{"^<=",     tdump},
+			{"^>=",     tdump},
+			{"^%.%.%.", tdump},
+			{"^%.%.",   tdump},
+			{"^.",      tdump},
+		}
+
+		local num_lua_matches = #lua_matches
+
+
+		--- Create a plain token iterator from a string.
+		-- @tparam string s a string.
+		function lexer.scan(s)
+
+			local function lex(first_arg)
+
+				local line_nr = 0
+				local sz = #s
+				local idx = 1
+
+				-- res is the value used to resume the coroutine.
+				local function handle_requests(res)
+					while (res) do
+						local tp = type(res)
+						-- Insert a token list:
+						if (tp == "table") then
+							res = yield("", "")
+							for i = 1,#res do
+								local t = res[i]
+								res = yield(t[1], t[2])
+							end
+						elseif (tp == "string") then -- Or search up to some special pattern:
+							local i1, i2 = strfind(s, res, idx)
+							if (i1) then
+								local tok = strsub(s, i1, i2)
+								idx = (i2 + 1)
+								res = yield("", tok)
+							else
+								res = yield("", "")
+								idx = (sz + 1)
+							end
+						else
+							res = yield(line_nr, idx)
+						end
+					end
+				end
+
+				handle_requests(first_arg)
+				line_nr = 1
+
+				while (true) do
+
+					if (idx > sz) then
+						while (true) do
+							handle_requests(yield())
+						end
+					end
+
+					for i = 1,num_lua_matches do
+						local m = lua_matches[i]
+						local pat = m[1]
+						local fun = m[2]
+						local findres = {strfind(s, pat, idx)}
+						local i1, i2 = findres[1], findres[2]
+						if (i1) then
+							local tok = strsub(s, i1, i2)
+							idx = (i2 + 1)
+							lexer.finished = (idx > sz)
+							local res = fun(tok, findres)
+							if (tok:find("\n")) then
+								-- Update line number:
+								local _,newlines = tok:gsub("\n", {})
+								line_nr = (line_nr + newlines)
+							end
+							handle_requests(res)
+							break
+						end
+					end
+
+				end
+
+			end
+
+			return wrap(lex)
+
+		end
+
+		return lexer
+	end;
+};
+AZY_MODULES[AZY["136"]] = {
+	Closure = function()
+		local script = AZY["136"];
+		local module = {}
+
+		--// Vars
+		local words   = require(script.Parent.Words)
+		local GetWord = require(script.Parent.GetWord)
+		local getLine = require(script.Parent.GetLine)
+
+		--// Funcs
+		function module.GetCurrentWord(self)
+			return GetWord:GetCurrentWord(self.Textbox)
+		end
+
+		function module.Search(self)
+			local currentWord = self:GetCurrentWord():lower()
+
+			if currentWord == "" and #currentWord <= 1 then
+				return nil
+			end
+
+			for word, wordType in pairs(words) do
+				local matched = string.match(word:lower(), currentWord)
+
+				if matched then
+					local foundStart, foundEnd = string.find(word:lower(), currentWord)
+					return word, (foundEnd - foundStart) + 1
+				end
+			end
+
+			return nil
+		end
+
+		function module.Start(self, editor)
+			self.Editor = editor
+			self.Textbox = editor.Scroll.Source
+			self.SuggestionButton = self.Textbox.Suggestion
+
+			self.Textbox:GetPropertyChangedSignal("Text"):Connect(function()
+				local foundWord, matchedLength = self:Search()
+
+				if foundWord then
+					local position = UDim2.new(0, 0,0, getLine:GetCurrentLine(self.Textbox) * self.Textbox.TextSize)
+
+					self.SuggestionButton.Text = foundWord
+					self.SuggestionButton.Position = position
+					self.SuggestionButton.Visible = true
+					self.MatchedLength = matchedLength
+				else
+					self.SuggestionButton.Visible = false
+				end
+			end)
+
+			self.SuggestionButton.MouseButton1Click:Connect(function(input)
+				-- Fill in the word
+				local word = self.SuggestionButton.Text
+				self.SuggestionButton.Visible = false
+				self.Textbox.Text = self.Textbox.Text:sub(1, self.Textbox.CursorPosition - 1 - (self.MatchedLength or 0)) .. word .. self.Textbox.Text:sub(self.Textbox.CursorPosition + 1, #self.Textbox.Text)
+
+				local newCursorPosition = self.Textbox.CursorPosition + #word - self.MatchedLength
+				wait()
+				self.Textbox:ReleaseFocus()
+				self.Textbox:CaptureFocus()
+				self.Textbox.CursorPosition = newCursorPosition
+			end)
+		end
+
+		return module
+
+	end;
+};
+AZY_MODULES[AZY["137"]] = {
+	Closure = function()
+		local script = AZY["137"];
+		local words = {
+			['print'] = 'builtin',
+			['warn'] = 'builtin',
+			['Vector3'] = 'builtin',
+			['Vector2'] = 'builtin',
+			['error'] = 'builtin',
+			['Instance'] = 'builtin',
+			['game'] = 'builtin',
+			['script'] = 'builtin',
+			['workspace'] = 'builtin',
+
+			['while'] = 'keyword',
+			['true'] = 'keyword',
+			['false'] = 'keyword',
+			['then'] = 'keyword',
+			['do'] = 'keyword',
+			['if'] = 'keyword',
+		}
+
+		return words
+
+	end;
+};
+AZY_MODULES[AZY["14a"]] = {
+	Closure = function()
+		local script = AZY["14a"];
+		-- Fixes a Roblox bug with RichText
+
+		-- If the bug gets fixed, this will break the editor (visually).
+		-- In this case, please remove any instances of this module being used.
+
+		local module = {}
+
+		function module.Fix(textbox)
+			if textbox.Text:sub(1, 1) ~= "\n" then
+				textbox.Text = "\n" .. textbox.Text
+			end
+	
+			textbox.Position = UDim2.new(0, -3.5,0,-8.9)
+			textbox.Size = UDim2.new(1, 4,1, textbox.TextSize)
+		end
+
+		return module
+
+	end;
+};
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.Text.LocalScript
+local function C_a()
+	local script = AZY["a"];
+	-- Get the local player's name
+	local playerName = game.Players.LocalPlayer.DisplayName
+
+	-- Create the welcome message with string interpolation
+	local welcomeMessage = string.format([[
+	Dear %s,
+	
+	我们写信欢迎你成为阿尔宙斯X的第一批测试者之一！我们很高兴能与您合作，并为您提供尝试我们正在开发的新功能的机会。我们相信，您的经验和创造力将帮助我们使阿尔宙斯X成为一个更加有效和用户友好的应用程序。请随时分享任何可以帮助我们进一步改进平台的反馈和建议。非常感谢您的支持，我们期待在这激动人心的旅程中与您合作！最诚挚的问候，SPDM团队
+	]], playerName)
+
+	-- Display the welcome message
+	script.Parent.Text = welcomeMessage
+end;
+task.spawn(C_a);
+-- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.LocalScriptNew
+local function C_e()
+	local script = AZY["e"];
+	local btn = script.Parent
+	local welcome = script.Parent.Parent.Parent
+	local bg = script.Parent.Parent.Parent.Parent.Frame
+	local gui = script.Parent.Parent.Parent.Parent
+
+	pcall(function()
+		if isfile("arc.xloaded") then
+			script.Parent.Parent.Parent.Parent.Parent.MainUI.FloatingUI.Visible = true
+			script.Parent.Parent.Parent.Parent.Parent.MainUI.FloatingUI.Active = true
+			script.Parent.Parent.Parent.Parent.Frame.Visible = false
+			script.Parent.Parent.Parent.Parent.Welcome.Visible = false
+		end
+	end)
+
+	btn.MouseButton1Click:Connect(function()
+		pcall(function()
+			writefile("arc.xloaded", "Nothing to read here...")
+		end)
+		welcome.Visible = false
+		bg.Visible=false
+		gui.Parent.AnimationIntro.Background.Visible = true
+		gui.Parent.AnimationIntro.ImageLabel.Visible = true
+
+		gui.Parent.AnimationIntro.NameLogo.Visible = true
+		--gui.Parent.AnimationIntro.Frame.Visible = true
+
+
+		local function uninvislogo()
+			local TextLabel = gui.Parent.AnimationIntro.ImageLabel -- Change this to the name of your TextLabel
+			local FadeTime = 1 -- Change this to adjust the fade time in seconds
+
+			for i = 1, 10 do -- Loop 10 times to create a smoother fade
+				wait(FadeTime/10) -- Wait for 1/10th of the fade time
+				local Alpha = 1 - (i/10) -- Calculate the transparency value
+				TextLabel.ImageTransparency = Alpha -- Set the transparency of the TextLabel
+			end
+		end
+		uninvislogo()
+
+		wait(0.5)
+
+
+		--0, 900,0, 900
+		--100, -150, 100, -100
+		local function movearc()
+			-- Mаdе bу A​​​Z​​​Y#​0​​​3​​​4​​​8
+
+			local textn = gui.Parent.AnimationIntro.NameLogo
+			local frame1 = textn
+
+			-- Define the start and end positions for the tween
+			local startPos1 = UDim2.new(0.442, 0,0.361, 0) --[[FOR LOGO OPENING]] --ACTUAL END
+			local endPos1 = UDim2.new(0.482, 0,0.452, 0)
+
+			-- Define the length of time for the tween
+			local tweenTime1 = 0.3
+
+			-- Import the TweenService module
+			local TweenService1 = game:GetService("TweenService")
+
+			-- Define the tweenInfo for the tween
+			local tweenInfo1 = TweenInfo.new(tweenTime1, Enum.EasingStyle.Linear)
+
+			-- Define the tween
+			local tween1 = TweenService1:Create(frame1, tweenInfo1, {Position = endPos1})
+
+			-- Play the tween
+			tween1:Play()
+			local function fadetext()
+				local TextLabel = textn -- Change this to the name of your TextLabel
+				local FadeTime = 0.3 -- Change this to adjust the fade time in seconds
+
+				for i = 1, 10 do -- Loop 10 times to create a smoother fade [[FOR TEXT]]
+					wait(FadeTime/10) -- Wait for 1/10th of the fade time
+					local Alpha = 1 - (i/10) -- Calculate the transparency value
+					TextLabel.TextTransparency = Alpha -- Set the transparency of the TextLabel
+				end
+			end
+
+
+			-- Define the Frame we want to tween
+			local frame = gui.Parent.AnimationIntro.ImageLabel
+
+			-- Define the start and end positions for the tween [FOR TEXT]
+			local startPos = UDim2.new(0.442, 0,0.361, 0) --ACTUAL END
+			local endPos = UDim2.new(0.362, 0,0.361, 0)
+
+			-- Define the length of time for the tween
+			local tweenTime = 0.3
+
+			-- Import the TweenService module
+			local TweenService = game:GetService("TweenService")
+
+			-- Define the tweenInfo for the tween
+			local tweenInfo = TweenInfo.new(tweenTime, Enum.EasingStyle.Linear)
+
+			-- Define the tween
+			local tween = TweenService:Create(frame, tweenInfo, {Position = endPos})
+
+			-- Play the tween
+			tween:Play()
+
+			gui.Parent.AnimationIntro.Frame.Visible = true
+			local TweenService4 = game:GetService("TweenService")
+
+			-- The GUI frame that we want to animate
+			local frame4 = gui.Parent.AnimationIntro.Frame
+
+			-- The final size and position that we want to tween to
+			local finalSize4 = UDim2.new(0, 2051,0, 1495)
+			local finalPosition4 = UDim2.new(-0.353, 0,-0.738, 0)
+
+			-- The duration of the tween in seconds
+			local tweenDuration4 = 0.4
+
+			-- Define the tween information for the size and position
+			local tweenInfo4 = TweenInfo.new(tweenDuration4, Enum.EasingStyle.Quint, Enum.EasingDirection.Out, 0, false, 0)
+
+			-- Create the tweens for the size and position
+			local sizeTween = TweenService:Create(frame4, tweenInfo4, {Size = finalSize4})
+			local positionTween = TweenService:Create(frame4, tweenInfo4, {Position = finalPosition4})
+
+			-- Play the tweens simultaneously
+			sizeTween:Play()
+			positionTween:Play()
+
+			wait(0.2)
+			fadetext()
+			wait(0.4)
+			gui.Parent.AnimationIntro.NameLogo.Visible = true
+			wait(1.4)
+			local FadeTime = 0.3
+			for i = 0, 1.1, 0.1 do -- Loop 10 times to create a smoother far
+				gui.Parent.AnimationIntro.Background.BackgroundTransparency = i
+				gui.Parent.AnimationIntro.Frame.BackgroundTransparency = i
+				gui.Parent.AnimationIntro.ImageLabel.ImageTransparency = i
+				gui.Parent.AnimationIntro.NameLogo.TextTransparency = i
+				if i == 1 then
+					for _,v in pairs(gui.Parent.AnimationIntro:GetChildren()) do
+						if v.Visible then
+							v.Visible = false
+						end
+					end
+				end
+				wait(0.05)
+			end
+			wait(0.04)
+			script.Parent.Parent.Parent.Parent.Parent.MainUI.FloatingUI.Visible = true
+			script.Parent.Parent.Parent.Parent.Parent.MainUI.FloatingUI.Active = true
+			--print("completed.")
+
+
+		end
+
+		movearc()
+	end)
+end;
+task.spawn(C_e);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Close.LocalScript
+local function C_21()
+	local script = AZY["21"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Visible = false
+		script.Parent.Parent.Parent.Active = false
+		script.Parent.Parent.Parent.Parent.FloatingUI.Visible = true
+		script.Parent.Parent.Parent.Parent.FloatingUI.Active = true
+	end)
+end;
+task.spawn(C_21);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Expand.LocalScript
+local function C_23()
+	local script = AZY["23"];
+	big = false
+	script.Parent.MouseButton1Click:Connect(function()
+		if big == false then
+			script.Parent.Parent.Parent.Parent.MainFrame.Size = UDim2.new(0, 569,0, 346)
+			script.Parent.Image = "rbxassetid://12586472565"
+			big = true
+
+		else
+			script.Parent.Parent.Parent.Parent.MainFrame.Size = UDim2.new(0, 459,0, 276)
+			script.Parent.Image = "rbxassetid://12566545357"
+			big = false
+		end
+	end)
+end;
+task.spawn(C_23);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.TimeLeft.LocalScript
+local function C_25()
+	local script = AZY["25"];
+	local Timer = script.Parent
+	local TimeDisplay = Timer
+
+	-- Set the initial time to 24 hours
+	local TimeLeft = 86400
+
+	-- Define a function to update the timer display
+	local function UpdateTimerDisplay()
+		local HoursLeft = math.floor(TimeLeft / 3600)
+		local MinutesLeft = math.floor((TimeLeft % 3600) / 60)
+		TimeDisplay.Text = string.format("%02dh %02dm", HoursLeft, MinutesLeft).." left"
+	end
+
+	-- Call the update function once to set the initial display
+	UpdateTimerDisplay()
+
+	-- Define a function to update the time left and the timer display every second
+	local function UpdateTimer()
+		TimeLeft = TimeLeft - 1
+		UpdateTimerDisplay()
+	end
+
+	-- Call the update function every second
+	while TimeLeft > 0 do
+		wait(1)
+		UpdateTimer()
+	end
+
+end;
+task.spawn(C_25);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Restore.LocalScript
+local function C_28()
+	local script = AZY["28"];
+	-- Add a click event handler to the TextLabel to reset the timer
+	script.Parent.MouseButton1Click:Connect(function()
+		-- get the parent object and the TextLabel inside it
+		local parent = script.Parent.Parent.Time
+		local textLabel = parent
+		local time = os.date("%I:%M %p") -- get the current time in "hh:mm AM/PM" format
+		local today = os.date("%A") -- get the current day of the week
+		parent.Parent.Time.Text = "Today, " .. time -- concatenate the strings
+		--TimeLeft = 86400
+		--UpdateTimerDisplay()
+	end)
+end;
+task.spawn(C_28);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Icon.LocalScript
+local function C_2a()
+	local script = AZY["2a"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Parent.Draggable == true then
+			script.Parent.Parent.Parent.Draggable = false
+		else
+			script.Parent.Parent.Parent.Draggable = true
+		end
+	end)
+end;
+task.spawn(C_2a);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.UserPage.TextLabel.LocalScript
+local function C_33()
+	local script = AZY["33"];
+	script.Parent.Text = game.Players.LocalPlayer.DisplayName
+end;
+task.spawn(C_33);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.TimeLeft.LocalScript
+local function C_3a()
+	local script = AZY["3a"];
+	local Timer = script.Parent
+	local TimeDisplay = Timer
+
+	-- Set the initial time to 24 hours
+	local TimeLeft = 86400
+
+	-- Define a function to update the timer display
+	local function UpdateTimerDisplay()
+		local HoursLeft = math.floor(TimeLeft / 3600)
+		local MinutesLeft = math.floor((TimeLeft % 3600) / 60)
+		TimeDisplay.Text = string.format("%02dh %02dm", HoursLeft, MinutesLeft)
+	end
+
+	-- Call the update function once to set the initial display
+	UpdateTimerDisplay()
+
+	-- Define a function to update the time left and the timer display every second
+	local function UpdateTimer()
+		TimeLeft = TimeLeft - 1
+		UpdateTimerDisplay()
+	end
+
+	-- Call the update function every second
+	while TimeLeft > 0 do
+		wait(1)
+		UpdateTimer()
+	end
+
+end;
+task.spawn(C_3a);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Time.LocalScript
+local function C_40()
+	local script = AZY["40"];
+	local parent = script.Parent
+	local textLabel = parent
+	local time = os.date("%I:%M %p") -- get the current time in "hh:mm AM/PM" format
+	local today = os.date("%A") -- get the current day of the week
+	parent.Text = "Today, " .. time -- concatenate the strings
+end;
+task.spawn(C_40);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.KeySystemPage.Restore.LocalScript
+local function C_43()
+	local script = AZY["43"];
+	-- Add a click event handler to the TextLabel to reset the timer
+	script.Parent.MouseButton1Click:Connect(function()
+		-- get the parent object and the TextLabel inside it
+		local parent = script.Parent.Parent.Time
+		local textLabel = parent
+		local time = os.date("%I:%M %p") -- 获取“hh:mm AM/PM”格式的当前时间
+		local today = os.date("%A") -- 获取当前星期几
+		parent.Parent.Time.Text = "Today, " .. time -- concatenate the strings
+		--TimeLeft = 86400
+		--UpdateTimerDisplay()
+	end)
+end;
+task.spawn(C_43);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Aimbot.LocalScript
+local function C_4b()
+	local script = AZY["4b"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20Aimbot.lua"))()
+	end)
+end;
+task.spawn(C_4b);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Btools.LocalScript
+local function C_4e()
+	local script = AZY["4e"];
+	script.Parent.MouseButton1Click:Connect(function()
+		local backpack = game:GetService("Players").LocalPlayer.Backpack
+
+		local hammer = Instance.new("HopperBin")
+		hammer.Name = "Hammer"
+		hammer.BinType = 4
+		hammer.Parent = backpack
+
+		local cloneTool = Instance.new("HopperBin")
+		cloneTool.Name = "Clone"
+		cloneTool.BinType = 3
+		cloneTool.Parent = backpack
+
+		local grabTool = Instance.new("HopperBin")
+		grabTool.Name = "Grab"
+		grabTool.BinType = 2
+		grabTool.Parent = backpack
+	end)
+end;
+task.spawn(C_4e);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Dex.LocalScript
+local function C_51()
+	local script = AZY["51"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()
+	end)
+end;
+task.spawn(C_51);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.FatesESP.LocalScript
+local function C_54()
+	local script = AZY["54"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(request({ Url = "https://raw.githubusercontent.com/fatesc/fates-esp/main/main.lua", Method = "GET"}).Body)()
+	end)
+end;
+task.spawn(C_54);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Fly.LocalScript
+local function C_57()
+	local script = AZY["57"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20Fly.lua"))()
+	end)
+end;
+task.spawn(C_57);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.IY.LocalScript
+local function C_5a()
+	local script = AZY["5a"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+	end)
+end;
+task.spawn(C_5a);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.PwnHub.LocalScript
+local function C_5d()
+	local script = AZY["5d"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/PWNERHUB.lua"), true))()
+	end)
+end;
+task.spawn(C_5d);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.GravS.SliderButton.LocalScript
+local function C_60()
+	local script = AZY["60"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+				if script.Parent.Parent.Parent.Grav.Value == true then
+					game.Workspace.Gravity = Percent.Value*1000
+				end
+				--print(Percent.Value*1000)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_60);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.WsS.SliderButton.LocalScript
+local function C_69()
+	local script = AZY["69"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+				if script.Parent.Parent.Parent.Ws.Value == true then
+					game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Percent.Value*500
+				end
+
+				--print(Percent.Value*500)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_69);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.SliderButton.LocalScript
+local function C_72()
+	local script = AZY["72"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+
+				if script.Parent.Parent.Parent.Jp.Value == true then
+					game.Players.LocalPlayer.Character.Humanoid.JumpPower = Percent.Value*500
+				end
+				--print(Percent.Value*500)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_72);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleGrav.LocalScript
+local function C_80()
+	local script = AZY["80"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Grav.Value == false then
+			script.Parent.Parent.Grav.Value = true
+			script.Parent.Parent.GravS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Grav.Value = false
+			script.Parent.Parent.GravS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+			workspace.Gravity = 196.2
+		end
+	end)
+end;
+task.spawn(C_80);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleWs.LocalScript
+local function C_83()
+	local script = AZY["83"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Ws.Value == false then
+			script.Parent.Parent.Ws.Value = true
+			script.Parent.Parent.WsS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Ws.Value = false
+			script.Parent.Parent.WsS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+		end
+	end)
+end;
+task.spawn(C_83);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.ToggleJp.LocalScript
+local function C_86()
+	local script = AZY["86"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Jp.Value == false then
+			script.Parent.Parent.Jp.Value = true
+			script.Parent.Parent.JpS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Jp.Value = false
+			script.Parent.Parent.JpS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+		end
+	end)
+end;
+task.spawn(C_86);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Communications.Copy.LocalScript
+local function C_c9()
+	local script = AZY["c9"];
+	script.Parent.MouseButton1Click:Connect(function()
+		setclipboard("VPn54EcfNX")
+	end)
+end;
+task.spawn(C_c9);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.GravS.SliderButton.LocalScript
+local function C_d6()
+	local script = AZY["d6"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+				if script.Parent.Parent.Parent.Grav.Value == true then
+					game.Workspace.Gravity = Percent.Value*1000
+				end
+				--print(Percent.Value*1000)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_d6);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.SliderButton.LocalScript
+local function C_df()
+	local script = AZY["df"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+				if script.Parent.Parent.Parent.Ws.Value == true then
+					game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Percent.Value*500
+				end
+
+				--print(Percent.Value*500)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_df);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.JpS.SliderButton.LocalScript
+local function C_e8()
+	local script = AZY["e8"];
+	local Mouse 		= game.Players.LocalPlayer:GetMouse() 	
+	local UIS			= game:GetService("UserInputService") 	
+	local Outer			= script.Parent.Parent					-- Slider / Container
+	local Inner 		= script.Parent 						-- Thing to drag across slider
+	local MouseButton 	= Enum.UserInputType.MouseButton1 		-- Button to drag slider
+	local Percent = Instance.new("NumberValue", Outer)	-- A number value containing the perctage in decimal form.
+	local Max_Percent = 100									-- Max Percentage (Scale of slider)
+	Percent.Name = "Percentage"
+	Percent.Value = (Inner.AbsoluteSize.X / Outer.AbsoluteSize.X*(Max_Percent/100))
+
+	Inner.InputBegan:Connect(function(input)
+		if input.UserInputType == MouseButton then
+			while UIS:IsMouseButtonPressed(MouseButton) do
+				local delta = Vector2.new(Mouse.X,Mouse.Y) - Outer.AbsolutePosition
+				Inner.Size = UDim2.new(0, math.min(Outer.AbsoluteSize.X, math.max(delta.X, Inner.AbsoluteSize.Y)), 1, 0)
+				Percent.Value = (math.max(0, math.min(delta.X, Outer.AbsoluteSize.X)) / Outer.AbsoluteSize.X*(Max_Percent/100))
+				script.Parent.Parent.TextLabel.Text = math.floor(Percent.Value*100)..'%'
+
+				if script.Parent.Parent.Parent.Jp.Value == true then
+					game.Players.LocalPlayer.Character.Humanoid.JumpPower = Percent.Value*500
+				end
+				--print(Percent.Value*500)
+				game:GetService("RunService").RenderStepped:wait()
+			end
+		end
+
+	end)
+end;
+task.spawn(C_e8);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleGrav.LocalScript
+local function C_f6()
+	local script = AZY["f6"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Grav.Value == false then
+			script.Parent.Parent.Grav.Value = true
+			script.Parent.Parent.GravS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Grav.Value = false
+			script.Parent.Parent.GravS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+			workspace.Gravity = 196.2
+		end
+	end)
+end;
+task.spawn(C_f6);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleWs.LocalScript
+local function C_f9()
+	local script = AZY["f9"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Ws.Value == false then
+			script.Parent.Parent.Ws.Value = true
+			script.Parent.Parent.WsS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Ws.Value = false
+			script.Parent.Parent.WsS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+		end
+	end)
+end;
+task.spawn(C_f9);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.ToggleJp.LocalScript
+local function C_fc()
+	local script = AZY["fc"];
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.Jp.Value == false then
+			script.Parent.Parent.Jp.Value = true
+			script.Parent.Parent.JpS.SliderButton.ImageColor3 = Color3.fromRGB(255,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(255,0,0)
+		else
+			script.Parent.Parent.Jp.Value = false
+			script.Parent.Parent.JpS.SliderButton.ImageColor3 = Color3.fromRGB(145,0,0)
+			script.Parent.BackgroundColor3 = Color3.fromRGB(145,0,0)
+		end
+	end)
+end;
+task.spawn(C_fc);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot.LocalScript
+local function C_100()
+	local script = AZY["100"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20Aimbot.lua"))()
+	end)
+end;
+task.spawn(C_100);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Btools.LocalScript
+local function C_104()
+	local script = AZY["104"];
+	script.Parent.MouseButton1Click:Connect(function()
+		local backpack = game:GetService("Players").LocalPlayer.Backpack
+
+		local hammer = Instance.new("HopperBin")
+		hammer.Name = "Hammer"
+		hammer.BinType = 4
+		hammer.Parent = backpack
+
+		local cloneTool = Instance.new("HopperBin")
+		cloneTool.Name = "Clone"
+		cloneTool.BinType = 3
+		cloneTool.Parent = backpack
+
+		local grabTool = Instance.new("HopperBin")
+		grabTool.Name = "Grab"
+		grabTool.BinType = 2
+		grabTool.Parent = backpack
+	end)
+end;
+task.spawn(C_104);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Dex.LocalScript
+local function C_108()
+	local script = AZY["108"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))()
+	end)
+end;
+task.spawn(C_108);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.FatesESP.LocalScript
+local function C_10c()
+	local script = AZY["10c"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(request({ Url = "https://raw.githubusercontent.com/fatesc/fates-esp/main/main.lua", Method = "GET"}).Body)()
+	end)
+end;
+task.spawn(C_10c);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Fly.LocalScript
+local function C_110()
+	local script = AZY["110"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20Fly.lua"))()
+	end)
+end;
+task.spawn(C_110);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.IY.LocalScript
+local function C_114()
+	local script = AZY["114"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+	end)
+end;
+task.spawn(C_114);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.PwnHub.LocalScript
+local function C_118()
+	local script = AZY["118"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/PWNERHUB.lua"), true))()
+	end)
+end;
+task.spawn(C_118);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Execute.LocalScript
+local function C_120()
+	local script = AZY["120"];
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(script.Parent.Parent.TextboxBar.Editor.Scroll.Source.Text)()
+	end)
+end;
+task.spawn(C_120);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Clear.LocalScript
+local function C_123()
+	local script = AZY["123"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.TextboxBar.Editor.Scroll.Source.Text = ""
+	end)
+end;
+task.spawn(C_123);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Copy.LocalScript
+local function C_126()
+	local script = AZY["126"];
+	script.Parent.MouseButton1Click:Connect(function()
+		setclipboard(script.Parent.Parent.TextboxBar.Editor.Scroll.Source.Text)
+	end)
+end;
+task.spawn(C_126);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.Paste.LocalScript
+local function C_129()
+	local script = AZY["129"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Text = "Not Implemented"
+		script.Disabled = true
+		wait(1)
+		script.Disabled = false
+		script.Parent.Text = "Paste"
+	end)
+end;
+task.spawn(C_129);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript
+local function C_12c()
+	local script = AZY["12c"];
+	local ScriptEditor = require(script.ScriptEditor)
+	local editor = ScriptEditor.new(script.Parent)
+end;
+task.spawn(C_12c);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.AdaptSize
+local function C_148()
+	local script = AZY["148"];
+	local defaultSize = script.Parent.Size
+	local textbox = script.Parent.Parent.Source
+
+	textbox:GetPropertyChangedSignal("AbsoluteSize"):Connect(function()
+		local height = textbox.AbsoluteSize.Y
+
+		script.Parent.Size = UDim2.new(
+			defaultSize.X.Scale,
+			defaultSize.X.Offset,
+			0,
+			height
+		)
+	end)
+end;
+task.spawn(C_148);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.ResetTextBox.LocalScript
+local function C_14d()
+	local script = AZY["14d"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.TextboxBar.Editor:Destroy()
+		local ScriptEditor = require(script.Parent.Parent.TextboxBar.LocalScript.ScriptEditor)
+		local editor = ScriptEditor.new(script.Parent.Parent.TextboxBar)
+	end)
+end;
+task.spawn(C_14d);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Changelogs.LocalScript
+local function C_153()
+	local script = AZY["153"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Frame.Visible = true
+
+		for i,v in pairs(script.Parent.Parent.Parent.Tabs:GetChildren()) do
+			if v.Name == script.Parent.Name then
+				v.Visible = true
+			else
+				v.Visible = false
+			end
+		end
+
+		for i,v in pairs(script.Parent.Parent:GetChildren()) do
+			if v.Name ~= "UICorner" then
+				if v.Name ~= script.Parent.Name then
+					v.Frame.Visible = false
+				end
+			end
+		end
+	end)
+end;
+task.spawn(C_153);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Home.LocalScript
+local function C_157()
+	local script = AZY["157"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Frame.Visible = true
+
+		for i,v in pairs(script.Parent.Parent.Parent.Tabs:GetChildren()) do
+			if v.Name == script.Parent.Name then
+				v.Visible = true
+			else
+				v.Visible = false
+			end
+		end
+
+		for i,v in pairs(script.Parent.Parent:GetChildren()) do
+			if v.Name ~= "UICorner" then
+				if v.Name ~= script.Parent.Name then
+					v.Frame.Visible = false
+				end
+			end
+		end
+	end)
+end;
+task.spawn(C_157);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.BuiltInHax.LocalScript
+local function C_15b()
+	local script = AZY["15b"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Frame.Visible = true
+
+		for i,v in pairs(script.Parent.Parent.Parent.Tabs:GetChildren()) do
+			if v.Name == script.Parent.Name then
+				v.Visible = true
+			else
+				v.Visible = false
+			end
+		end
+
+		for i,v in pairs(script.Parent.Parent:GetChildren()) do
+			if v.Name ~= "UICorner" then
+				if v.Name ~= script.Parent.Name then
+					v.Frame.Visible = false
+				end
+			end
+		end
+	end)
+end;
+task.spawn(C_15b);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.TabBar.Executor.LocalScript
+local function C_15f()
+	local script = AZY["15f"];
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Frame.Visible = true
+
+		for i,v in pairs(script.Parent.Parent.Parent.Tabs:GetChildren()) do
+			if v.Name == script.Parent.Name then
+				v.Visible = true
+			else
+				v.Visible = false
+			end
+		end
+
+		for i,v in pairs(script.Parent.Parent:GetChildren()) do
+			if v.Name ~= "UICorner" then
+				if v.Name ~= script.Parent.Name then
+					v.Frame.Visible = false
+				end
+			end
+		end
+	end)
+end;
+task.spawn(C_15f);
+-- StarterGui.ArceusXV3.MainUI.MainFrame.LocalScript
+local function C_161()
+	local script = AZY["161"];
+	script.Parent.Draggable = true
+	script.Parent.Active = true
+end;
+task.spawn(C_161);
+-- StarterGui.ArceusXV3.MainUI.FloatingUI.LocalScript
+local function C_164()
+	local script = AZY["164"];
+	script.Parent.Active = true
+	script.Parent.Draggable = true
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Visible = false
+		script.Parent.Parent.MainFrame.Visible = true
+		script.Parent.Active = false
+		script.Parent.Parent.MainFrame.Active = true
+	end)
+end;
+task.spawn(C_164);
+
+return AZY["1"], require;
